@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Test / cache output
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,1201 @@
+Order ID,Order Date,Customer,City,Region,Sales Channel,Sales Representative,Product,Category,Quantity,Unit Price,Discount,Revenue,Cost,Profit
+ORD-00001,2025-02-02,Customer 004,Chandigarh,North,Retail Store,Diya Patel,Monitor,Electronics,6,19303.18,0.08,106553.55,69792.87,36760.68
+ORD-00002,2025-06-10,Customer 018,Hyderabad,South,Online,Ananya Rao,Printer,Electronics,8,12589.12,0.1,90641.66,61510.17,29131.49
+ORD-00003,2025-11-03,Customer 012,Nagpur,Central,Retail Store,Aarav Sharma,Desk,Furniture,5,8597.21,0.08,39547.17,33420.05,6127.12
+ORD-00004,2025-05-16,Customer 012,Delhi,North,Online,Kabir Singh,Printer,Electronics,4,8317.91,0.05,31608.06,19807.14,11800.92
+ORD-00005,2025-11-10,Customer 004,Nagpur,Central,Online,Ananya Rao,Keyboard,Accessories,3,1940.37,0.05,5530.05,4732.37,797.68
+ORD-00006,2025-08-19,Customer 054,Bhopal,Central,Retail Store,Kabir Singh,Desk,Furniture,8,7781.11,0.02,61003.9,43077.04,17926.86
+ORD-00007,2025-07-01,Customer 001,Bhubaneswar,East,Distributor,Meera Nair,Laptop,Electronics,5,76611.83,0.1,344753.24,311121.54,33631.7
+ORD-00008,2025-02-26,Customer 036,Bhubaneswar,East,Online,Ishaan Das,Desk,Furniture,3,5537.53,0.05,15781.96,10390.73,5391.23
+ORD-00009,2025-06-18,Customer 012,Jaipur,North,Online,Ishaan Das,Smartphone,Electronics,6,21176.73,0.08,116895.55,87025.75,29869.8
+ORD-00010,2025-06-23,Customer 078,Kolkata,East,Online,Ananya Rao,Smartphone,Electronics,7,27803.71,0.05,184894.67,151758.11,33136.56
+ORD-00011,2025-06-08,Customer 069,Mumbai,West,Retail Store,Aarav Sharma,Keyboard,Accessories,7,1047.82,0.08,6747.96,4500.16,2247.8
+ORD-00012,2025-05-22,Customer 038,Nagpur,Central,Distributor,Ishaan Das,Keyboard,Accessories,2,513.99,0.1,925.18,760.26,164.92
+ORD-00013,2025-06-22,Customer 025,Nagpur,Central,Online,Aarav Sharma,Monitor,Electronics,3,14506.99,0.05,41344.92,26702.35,14642.57
+ORD-00014,2025-10-12,Customer 038,Bengaluru,South,Online,Aarav Sharma,Headphones,Accessories,1,3105.73,0.05,2950.44,2222.64,727.8
+ORD-00015,2025-01-29,Customer 036,Pune,West,Distributor,Ishaan Das,Monitor,Electronics,5,15642.95,0.05,74304.01,51070.17,23233.84
+ORD-00016,2025-08-20,Customer 048,Chennai,South,Online,Ananya Rao,Notebook Pack,Stationery,1,158.61,0.02,155.44,107.55,47.89
+ORD-00017,2025-12-29,Customer 010,Patna,East,Distributor,Diya Patel,Keyboard,Accessories,1,610.78,0.02,598.56,397.29,201.27
+ORD-00018,2025-03-27,Customer 032,Bhopal,Central,Retail Store,Meera Nair,Desk,Furniture,6,6563.68,0.1,35443.87,29120.5,6323.37
+ORD-00019,2025-05-30,Customer 072,Bhubaneswar,East,Distributor,Ishaan Das,Desk,Furniture,4,4418.35,0.0,17673.4,10632.52,7040.88
+ORD-00020,2025-10-25,Customer 030,Delhi,North,Retail Store,Meera Nair,Monitor,Electronics,6,14542.53,0.0,87255.18,61100.5,26154.68
+ORD-00021,2025-12-09,Customer 009,Bhubaneswar,East,Distributor,Ananya Rao,Smartphone,Electronics,4,24246.19,0.05,92135.52,63269.26,28866.26
+ORD-00022,2025-09-12,Customer 028,Patna,East,Retail Store,Meera Nair,Notebook Pack,Stationery,6,145.13,0.0,870.78,529.71,341.07
+ORD-00023,2025-05-04,Customer 019,Pune,West,Online,Diya Patel,Mouse,Accessories,3,1054.66,0.02,3100.7,2571.06,529.64
+ORD-00024,2025-11-28,Customer 069,Indore,Central,Distributor,Kabir Singh,Headphones,Accessories,7,3265.74,0.05,21717.17,14752.54,6964.63
+ORD-00025,2025-01-29,Customer 075,Pune,West,Retail Store,Diya Patel,Laptop,Electronics,4,72748.2,0.02,285172.94,190143.31,95029.63
+ORD-00026,2025-11-26,Customer 066,Chennai,South,Online,Aarav Sharma,Keyboard,Accessories,5,835.87,0.1,3761.42,3184.85,576.57
+ORD-00027,2025-06-29,Customer 020,Chandigarh,North,Online,Ananya Rao,Monitor,Electronics,6,16527.71,0.08,91232.96,72982.72,18250.24
+ORD-00028,2025-06-07,Customer 077,Mumbai,West,Retail Store,Meera Nair,Notebook Pack,Stationery,1,154.85,0.0,154.85,108.17,46.68
+ORD-00029,2025-03-10,Customer 060,Nagpur,Central,Retail Store,Kabir Singh,Office Chair,Furniture,6,5223.82,0.08,28835.49,19462.15,9373.34
+ORD-00030,2025-02-22,Customer 015,Chandigarh,North,Distributor,Ishaan Das,Headphones,Accessories,8,2817.5,0.05,21413.0,16269.82,5143.18
+ORD-00031,2025-04-18,Customer 015,Kolkata,East,Retail Store,Diya Patel,Laptop,Electronics,2,73199.16,0.1,131758.49,87817.79,43940.7
+ORD-00032,2025-12-16,Customer 001,Ahmedabad,West,Distributor,Ishaan Das,Headphones,Accessories,4,2519.33,0.15,8565.72,7227.6,1338.12
+ORD-00033,2025-07-17,Customer 023,Nagpur,Central,Online,Ananya Rao,Desk,Furniture,7,5323.63,0.05,35402.14,25539.43,9862.71
+ORD-00034,2025-04-08,Customer 065,Patna,East,Online,Diya Patel,Headphones,Accessories,1,3626.76,0.1,3264.08,2225.6,1038.48
+ORD-00035,2025-04-21,Customer 021,Patna,East,Distributor,Aarav Sharma,Printer,Electronics,3,11877.92,0.02,34921.08,26307.03,8614.05
+ORD-00036,2025-02-09,Customer 042,Indore,Central,Online,Aarav Sharma,Monitor,Electronics,6,18223.77,0.0,109342.62,87456.91,21885.71
+ORD-00037,2025-12-22,Customer 040,Bhubaneswar,East,Online,Diya Patel,Headphones,Accessories,2,2731.01,0.05,5188.92,4255.73,933.19
+ORD-00038,2025-01-14,Customer 011,Bhopal,Central,Distributor,Meera Nair,Desk,Furniture,7,5244.26,0.15,31203.35,23854.79,7348.56
+ORD-00039,2025-08-15,Customer 069,Delhi,North,Online,Ananya Rao,Printer,Electronics,8,13988.35,0.0,111906.8,66112.14,45794.66
+ORD-00040,2025-04-04,Customer 071,Mumbai,West,Retail Store,Kabir Singh,Headphones,Accessories,4,4174.84,0.1,15029.42,12685.93,2343.49
+ORD-00041,2025-11-05,Customer 055,Bhopal,Central,Distributor,Ananya Rao,Keyboard,Accessories,2,1485.83,0.05,2823.08,2274.16,548.92
+ORD-00042,2025-11-23,Customer 040,Chennai,South,Distributor,Ananya Rao,Office Chair,Furniture,6,7115.6,0.0,42693.6,32414.24,10279.36
+ORD-00043,2025-05-19,Customer 057,Patna,East,Retail Store,Aarav Sharma,Headphones,Accessories,1,1695.2,0.0,1695.2,1321.35,373.85
+ORD-00044,2025-12-08,Customer 029,Bengaluru,South,Retail Store,Aarav Sharma,Keyboard,Accessories,2,840.61,0.08,1546.72,1327.99,218.73
+ORD-00045,2025-01-17,Customer 071,Bhopal,Central,Distributor,Diya Patel,Smartphone,Electronics,3,28883.67,0.15,73653.36,60671.12,12982.24
+ORD-00046,2025-04-24,Customer 010,Chandigarh,North,Distributor,Aarav Sharma,Desk,Furniture,2,3576.65,0.02,7010.23,4375.23,2635.0
+ORD-00047,2025-01-07,Customer 009,Bengaluru,South,Retail Store,Aarav Sharma,Notebook Pack,Stationery,8,171.14,0.08,1259.59,985.04,274.55
+ORD-00048,2025-02-14,Customer 031,Indore,Central,Distributor,Meera Nair,Desk,Furniture,2,7922.68,0.08,14577.73,12000.58,2577.15
+ORD-00049,2025-10-29,Customer 070,Bengaluru,South,Distributor,Kabir Singh,Smartphone,Electronics,4,30985.88,0.05,117746.34,80839.4,36906.94
+ORD-00050,2025-02-15,Customer 061,Bhopal,Central,Retail Store,Meera Nair,Smartphone,Electronics,4,27280.1,0.15,92752.34,70791.54,21960.8
+ORD-00051,2025-12-17,Customer 013,Bengaluru,South,Distributor,Meera Nair,Mouse,Accessories,4,888.48,0.08,3269.61,2151.6,1118.01
+ORD-00052,2025-01-10,Customer 055,Kolkata,East,Retail Store,Ananya Rao,Monitor,Electronics,2,14029.37,0.15,23849.93,20287.88,3562.05
+ORD-00053,2025-03-08,Customer 013,Delhi,North,Retail Store,Ananya Rao,Mouse,Accessories,6,787.49,0.1,4252.45,2760.69,1491.76
+ORD-00054,2025-10-21,Customer 014,Bhubaneswar,East,Online,Diya Patel,Notebook Pack,Stationery,1,229.3,0.1,206.37,145.8,60.57
+ORD-00055,2025-05-02,Customer 058,Bhopal,Central,Retail Store,Diya Patel,Printer,Electronics,7,13441.91,0.08,86565.9,63891.01,22674.89
+ORD-00056,2025-08-10,Customer 060,Bhubaneswar,East,Online,Meera Nair,Smartphone,Electronics,3,23962.35,0.08,66136.09,56661.21,9474.88
+ORD-00057,2025-04-11,Customer 013,Bhopal,Central,Distributor,Kabir Singh,Desk,Furniture,5,4801.64,0.1,21607.38,18629.8,2977.58
+ORD-00058,2025-04-01,Customer 012,Delhi,North,Online,Meera Nair,Mouse,Accessories,1,326.54,0.08,300.42,200.85,99.57
+ORD-00059,2025-03-12,Customer 062,Mumbai,West,Retail Store,Aarav Sharma,Keyboard,Accessories,3,773.36,0.15,1972.07,1437.82,534.25
+ORD-00060,2025-04-24,Customer 049,Bengaluru,South,Retail Store,Ishaan Das,Smartphone,Electronics,3,20150.59,0.0,60451.77,35368.85,25082.92
+ORD-00061,2025-09-16,Customer 037,Pune,West,Distributor,Ananya Rao,Laptop,Electronics,2,65907.49,0.08,121269.78,97987.5,23282.28
+ORD-00062,2025-03-05,Customer 063,Bhopal,Central,Online,Ishaan Das,Keyboard,Accessories,4,1104.18,0.05,4195.88,3489.21,706.67
+ORD-00063,2025-10-17,Customer 008,Hyderabad,South,Distributor,Kabir Singh,Keyboard,Accessories,5,844.85,0.02,4139.77,2702.9,1436.87
+ORD-00064,2025-01-16,Customer 041,Delhi,North,Online,Kabir Singh,Notebook Pack,Stationery,5,154.93,0.0,774.65,518.76,255.89
+ORD-00065,2025-12-04,Customer 065,Ahmedabad,West,Online,Aarav Sharma,Printer,Electronics,8,13167.67,0.0,105341.36,84479.77,20861.59
+ORD-00066,2025-02-07,Customer 011,Bhopal,Central,Online,Kabir Singh,Notebook Pack,Stationery,1,231.84,0.1,208.66,188.97,19.69
+ORD-00067,2025-04-28,Customer 031,Jaipur,North,Online,Kabir Singh,Keyboard,Accessories,5,1720.72,0.1,7743.24,5267.92,2475.32
+ORD-00068,2025-10-12,Customer 075,Hyderabad,South,Online,Kabir Singh,Keyboard,Accessories,5,1477.02,0.1,6646.59,5103.63,1542.96
+ORD-00069,2025-10-14,Customer 054,Chandigarh,North,Distributor,Kabir Singh,Office Chair,Furniture,6,6365.24,0.0,38191.44,26531.23,11660.21
+ORD-00070,2025-08-22,Customer 041,Indore,Central,Online,Ananya Rao,Smartphone,Electronics,4,21255.98,0.05,80772.72,56790.38,23982.34
+ORD-00071,2025-09-26,Customer 031,Kolkata,East,Retail Store,Diya Patel,Office Chair,Furniture,4,9300.2,0.02,36456.78,30048.05,6408.73
+ORD-00072,2025-05-19,Customer 059,Kolkata,East,Online,Aarav Sharma,Notebook Pack,Stationery,8,166.56,0.05,1265.86,944.07,321.79
+ORD-00073,2025-12-17,Customer 080,Ahmedabad,West,Online,Aarav Sharma,Keyboard,Accessories,4,2028.34,0.05,7707.69,5938.17,1769.52
+ORD-00074,2025-08-27,Customer 028,Nagpur,Central,Retail Store,Diya Patel,Laptop,Electronics,3,77493.18,0.02,227829.95,173604.46,54225.49
+ORD-00075,2025-07-03,Customer 009,Bhubaneswar,East,Retail Store,Ishaan Das,Keyboard,Accessories,8,1667.32,0.0,13338.56,10059.57,3278.99
+ORD-00076,2025-02-18,Customer 057,Hyderabad,South,Distributor,Ishaan Das,Printer,Electronics,1,13987.52,0.0,13987.52,11331.73,2655.79
+ORD-00077,2025-03-03,Customer 068,Bhopal,Central,Distributor,Kabir Singh,Keyboard,Accessories,4,1986.99,0.1,7153.16,6414.37,738.79
+ORD-00078,2025-08-05,Customer 014,Bhubaneswar,East,Retail Store,Aarav Sharma,Laptop,Electronics,3,75031.29,0.0,225093.87,163841.27,61252.6
+ORD-00079,2025-03-03,Customer 071,Delhi,North,Retail Store,Ishaan Das,Smartphone,Electronics,2,26014.03,0.05,49426.66,36702.24,12724.42
+ORD-00080,2025-07-26,Customer 027,Nagpur,Central,Retail Store,Diya Patel,Monitor,Electronics,7,18590.94,0.05,123629.75,94206.19,29423.56
+ORD-00081,2025-02-20,Customer 065,Kolkata,East,Retail Store,Aarav Sharma,Mouse,Accessories,7,384.67,0.0,2692.69,1986.9,705.79
+ORD-00082,2025-02-13,Customer 055,Jaipur,North,Online,Aarav Sharma,Monitor,Electronics,4,18291.86,0.08,67314.04,48295.86,19018.18
+ORD-00083,2025-09-27,Customer 017,Patna,East,Retail Store,Diya Patel,Keyboard,Accessories,7,1014.02,0.05,6743.23,4652.59,2090.64
+ORD-00084,2025-10-06,Customer 071,Ahmedabad,West,Retail Store,Kabir Singh,Office Chair,Furniture,2,5534.48,0.15,9408.62,7583.31,1825.31
+ORD-00085,2025-09-27,Customer 015,Delhi,North,Distributor,Diya Patel,Office Chair,Furniture,2,8370.95,0.15,14230.62,12845.6,1385.02
+ORD-00086,2025-09-24,Customer 005,Indore,Central,Distributor,Kabir Singh,Notebook Pack,Stationery,4,147.74,0.15,502.32,444.56,57.76
+ORD-00087,2025-11-05,Customer 056,Bengaluru,South,Online,Ishaan Das,Mouse,Accessories,4,1228.11,0.08,4519.44,2992.96,1526.48
+ORD-00088,2025-02-13,Customer 006,Kolkata,East,Online,Ananya Rao,Desk,Furniture,5,7273.53,0.0,36367.65,25058.63,11309.02
+ORD-00089,2025-09-21,Customer 014,Chennai,South,Distributor,Meera Nair,Keyboard,Accessories,4,1371.24,0.05,5210.71,3578.73,1631.98
+ORD-00090,2025-04-18,Customer 020,Bhopal,Central,Online,Diya Patel,Printer,Electronics,8,12750.35,0.0,102002.8,83569.7,18433.1
+ORD-00091,2025-01-17,Customer 004,Mumbai,West,Distributor,Ishaan Das,Keyboard,Accessories,6,2090.1,0.0,12540.6,10280.6,2260.0
+ORD-00092,2025-04-14,Customer 032,Pune,West,Online,Ananya Rao,Laptop,Electronics,6,76052.13,0.0,456312.78,362900.09,93412.69
+ORD-00093,2025-11-12,Customer 049,Delhi,North,Retail Store,Diya Patel,Laptop,Electronics,2,67431.37,0.1,121376.47,84635.68,36740.79
+ORD-00094,2025-03-29,Customer 059,Chennai,South,Retail Store,Diya Patel,Laptop,Electronics,8,76156.57,0.0,609252.56,354160.44,255092.12
+ORD-00095,2025-02-27,Customer 004,Hyderabad,South,Online,Meera Nair,Laptop,Electronics,7,78625.19,0.02,539368.8,431416.96,107951.84
+ORD-00096,2025-08-10,Customer 036,Bhubaneswar,East,Retail Store,Ishaan Das,Headphones,Accessories,1,3543.18,0.15,3011.7,2711.62,300.08
+ORD-00097,2025-11-05,Customer 052,Nagpur,Central,Distributor,Ishaan Das,Notebook Pack,Stationery,7,87.23,0.02,598.4,372.46,225.94
+ORD-00098,2025-11-02,Customer 015,Jaipur,North,Online,Kabir Singh,Notebook Pack,Stationery,5,214.13,0.08,985.0,839.68,145.32
+ORD-00099,2025-06-13,Customer 005,Bhubaneswar,East,Distributor,Meera Nair,Smartphone,Electronics,7,20702.58,0.02,142019.7,108743.2,33276.5
+ORD-00100,2025-09-26,Customer 041,Kolkata,East,Distributor,Kabir Singh,Printer,Electronics,8,11392.35,0.0,91138.8,66341.22,24797.58
+ORD-00101,2025-01-02,Customer 050,Chandigarh,North,Online,Ishaan Das,Laptop,Electronics,2,77062.83,0.0,154125.66,92785.66,61340.0
+ORD-00102,2025-11-19,Customer 056,Delhi,North,Distributor,Kabir Singh,Monitor,Electronics,2,20760.33,0.05,39444.63,31895.32,7549.31
+ORD-00103,2025-04-03,Customer 047,Chennai,South,Online,Ananya Rao,Notebook Pack,Stationery,7,106.12,0.15,631.41,484.57,146.84
+ORD-00104,2025-07-28,Customer 080,Kolkata,East,Distributor,Aarav Sharma,Desk,Furniture,5,7348.77,0.08,33804.34,29606.09,4198.25
+ORD-00105,2025-02-27,Customer 065,Kolkata,East,Distributor,Meera Nair,Smartphone,Electronics,4,23656.48,0.05,89894.62,57590.49,32304.13
+ORD-00106,2025-07-05,Customer 052,Patna,East,Retail Store,Kabir Singh,Mouse,Accessories,2,569.79,0.05,1082.6,777.99,304.61
+ORD-00107,2025-10-14,Customer 025,Chennai,South,Distributor,Meera Nair,Notebook Pack,Stationery,4,154.13,0.05,585.69,389.78,195.91
+ORD-00108,2025-08-20,Customer 079,Hyderabad,South,Retail Store,Meera Nair,Mouse,Accessories,5,614.6,0.0,3073.0,2090.92,982.08
+ORD-00109,2025-06-24,Customer 001,Indore,Central,Retail Store,Diya Patel,Desk,Furniture,2,6648.52,0.05,12632.19,9952.58,2679.61
+ORD-00110,2025-03-24,Customer 075,Ahmedabad,West,Distributor,Ishaan Das,Printer,Electronics,6,11719.46,0.05,66800.92,54072.44,12728.48
+ORD-00111,2025-05-06,Customer 057,Pune,West,Distributor,Diya Patel,Printer,Electronics,2,11508.1,0.05,21865.39,16181.71,5683.68
+ORD-00112,2025-06-07,Customer 061,Nagpur,Central,Online,Ananya Rao,Keyboard,Accessories,6,2184.17,0.15,11139.27,9184.94,1954.33
+ORD-00113,2025-09-25,Customer 037,Chandigarh,North,Distributor,Ananya Rao,Printer,Electronics,3,9015.61,0.1,24342.15,18894.75,5447.4
+ORD-00114,2025-10-19,Customer 043,Bhopal,Central,Online,Ananya Rao,Laptop,Electronics,1,66225.01,0.1,59602.51,39293.7,20308.81
+ORD-00115,2025-01-29,Customer 029,Bhubaneswar,East,Online,Aarav Sharma,Headphones,Accessories,5,1470.88,0.05,6986.68,5576.45,1410.23
+ORD-00116,2025-05-02,Customer 032,Jaipur,North,Distributor,Aarav Sharma,Mouse,Accessories,1,1201.25,0.1,1081.12,804.05,277.07
+ORD-00117,2025-09-16,Customer 054,Ahmedabad,West,Distributor,Diya Patel,Smartphone,Electronics,2,19675.42,0.05,37383.3,31875.09,5508.21
+ORD-00118,2025-08-08,Customer 064,Pune,West,Online,Diya Patel,Laptop,Electronics,8,78125.78,0.05,593755.93,465654.41,128101.52
+ORD-00119,2025-02-22,Customer 014,Jaipur,North,Online,Diya Patel,Monitor,Electronics,7,16690.66,0.0,116834.62,73626.12,43208.5
+ORD-00120,2025-05-22,Customer 060,Bhopal,Central,Distributor,Diya Patel,Monitor,Electronics,5,10965.02,0.0,54825.1,42802.67,12022.43
+ORD-00121,2025-12-02,Customer 059,Delhi,North,Retail Store,Ananya Rao,Mouse,Accessories,8,1214.93,0.15,8261.52,5967.57,2293.95
+ORD-00122,2025-07-22,Customer 072,Nagpur,Central,Retail Store,Meera Nair,Printer,Electronics,4,9640.58,0.0,38562.32,29356.69,9205.63
+ORD-00123,2025-01-16,Customer 065,Indore,Central,Distributor,Meera Nair,Desk,Furniture,4,4328.7,0.02,16968.5,13812.1,3156.4
+ORD-00124,2025-06-21,Customer 061,Chennai,South,Retail Store,Diya Patel,Mouse,Accessories,1,517.78,0.02,507.42,361.23,146.19
+ORD-00125,2025-12-30,Customer 067,Kolkata,East,Distributor,Diya Patel,Printer,Electronics,6,7172.92,0.02,42176.77,33675.19,8501.58
+ORD-00126,2025-06-30,Customer 057,Bhubaneswar,East,Distributor,Ishaan Das,Keyboard,Accessories,6,1733.38,0.08,9568.26,7936.42,1631.84
+ORD-00127,2025-08-13,Customer 035,Chennai,South,Retail Store,Kabir Singh,Laptop,Electronics,6,74171.97,0.05,422780.23,348315.25,74464.98
+ORD-00128,2025-05-14,Customer 018,Delhi,North,Online,Meera Nair,Office Chair,Furniture,4,9880.39,0.1,35569.4,27710.54,7858.86
+ORD-00129,2025-06-07,Customer 028,Bengaluru,South,Retail Store,Meera Nair,Mouse,Accessories,3,1227.82,0.05,3499.29,2577.38,921.91
+ORD-00130,2025-08-03,Customer 070,Kolkata,East,Retail Store,Aarav Sharma,Keyboard,Accessories,5,699.46,0.05,3322.43,2798.4,524.03
+ORD-00131,2025-08-18,Customer 054,Chennai,South,Distributor,Ananya Rao,Notebook Pack,Stationery,4,140.99,0.02,552.68,330.46,222.22
+ORD-00132,2025-03-06,Customer 074,Jaipur,North,Retail Store,Aarav Sharma,Notebook Pack,Stationery,8,160.68,0.05,1221.17,930.19,290.98
+ORD-00133,2025-07-26,Customer 039,Kolkata,East,Retail Store,Kabir Singh,Laptop,Electronics,4,76951.57,0.08,283181.78,251057.09,32124.69
+ORD-00134,2025-04-12,Customer 078,Bhopal,Central,Retail Store,Diya Patel,Keyboard,Accessories,5,1407.26,0.1,6332.67,5606.51,726.16
+ORD-00135,2025-07-08,Customer 056,Kolkata,East,Online,Meera Nair,Monitor,Electronics,3,18384.06,0.1,49636.96,33498.61,16138.35
+ORD-00136,2025-12-18,Customer 052,Patna,East,Online,Meera Nair,Printer,Electronics,6,10020.71,0.05,57118.05,44310.65,12807.4
+ORD-00137,2025-06-02,Customer 080,Hyderabad,South,Online,Meera Nair,Mouse,Accessories,1,581.46,0.08,534.94,441.91,93.03
+ORD-00138,2025-12-26,Customer 073,Nagpur,Central,Online,Aarav Sharma,Notebook Pack,Stationery,3,102.3,0.0,306.9,235.26,71.64
+ORD-00139,2025-12-18,Customer 018,Pune,West,Online,Aarav Sharma,Desk,Furniture,8,6057.35,0.15,41189.98,32892.78,8297.2
+ORD-00140,2025-12-26,Customer 049,Kolkata,East,Online,Meera Nair,Laptop,Electronics,7,66441.93,0.05,441838.83,359282.11,82556.72
+ORD-00141,2025-04-08,Customer 044,Kolkata,East,Retail Store,Meera Nair,Mouse,Accessories,4,292.52,0.05,1111.58,692.32,419.26
+ORD-00142,2025-10-28,Customer 011,Kolkata,East,Online,Ananya Rao,Office Chair,Furniture,1,9227.14,0.08,8488.97,7065.16,1423.81
+ORD-00143,2025-01-03,Customer 007,Indore,Central,Online,Ananya Rao,Keyboard,Accessories,6,2021.66,0.0,12129.96,7718.15,4411.81
+ORD-00144,2025-09-27,Customer 006,Delhi,North,Online,Diya Patel,Smartphone,Electronics,5,30013.75,0.0,150068.75,105575.02,44493.73
+ORD-00145,2025-04-06,Customer 080,Delhi,North,Online,Diya Patel,Notebook Pack,Stationery,5,152.24,0.1,685.08,564.19,120.89
+ORD-00146,2025-01-11,Customer 015,Ahmedabad,West,Online,Meera Nair,Headphones,Accessories,2,3714.18,0.05,7056.94,5829.8,1227.14
+ORD-00147,2025-11-26,Customer 048,Bhubaneswar,East,Distributor,Kabir Singh,Headphones,Accessories,6,2209.9,0.02,12994.21,10511.71,2482.5
+ORD-00148,2025-08-04,Customer 021,Jaipur,North,Online,Kabir Singh,Keyboard,Accessories,2,661.14,0.05,1256.17,994.66,261.51
+ORD-00149,2025-06-05,Customer 040,Chandigarh,North,Distributor,Meera Nair,Keyboard,Accessories,5,1063.09,0.05,5049.68,3257.5,1792.18
+ORD-00150,2025-12-31,Customer 026,Mumbai,West,Distributor,Ananya Rao,Smartphone,Electronics,5,31966.12,0.08,147044.15,115533.72,31510.43
+ORD-00151,2025-01-23,Customer 014,Hyderabad,South,Retail Store,Ananya Rao,Office Chair,Furniture,4,7978.42,0.0,31913.68,21308.47,10605.21
+ORD-00152,2025-12-01,Customer 016,Nagpur,Central,Online,Ishaan Das,Laptop,Electronics,1,68433.64,0.0,68433.64,47136.21,21297.43
+ORD-00153,2025-12-18,Customer 055,Nagpur,Central,Retail Store,Aarav Sharma,Notebook Pack,Stationery,8,155.67,0.15,1058.56,947.06,111.5
+ORD-00154,2025-05-06,Customer 044,Bhopal,Central,Retail Store,Meera Nair,Printer,Electronics,5,8776.33,0.1,39493.49,27927.3,11566.19
+ORD-00155,2025-07-24,Customer 056,Jaipur,North,Distributor,Meera Nair,Office Chair,Furniture,8,8206.79,0.1,59088.89,47387.89,11701.0
+ORD-00156,2025-11-28,Customer 056,Bengaluru,South,Distributor,Kabir Singh,Notebook Pack,Stationery,6,133.89,0.02,787.27,528.11,259.16
+ORD-00157,2025-03-06,Customer 079,Patna,East,Retail Store,Meera Nair,Smartphone,Electronics,3,21965.46,0.05,62601.56,50745.08,11856.48
+ORD-00158,2025-11-16,Customer 076,Pune,West,Retail Store,Diya Patel,Printer,Electronics,7,10007.09,0.05,66547.15,57351.62,9195.53
+ORD-00159,2025-08-03,Customer 036,Jaipur,North,Online,Meera Nair,Notebook Pack,Stationery,3,242.46,0.1,654.64,454.21,200.43
+ORD-00160,2025-10-25,Customer 079,Nagpur,Central,Retail Store,Ishaan Das,Smartphone,Electronics,5,19426.52,0.08,89361.99,78607.85,10754.14
+ORD-00161,2025-10-12,Customer 064,Jaipur,North,Online,Meera Nair,Printer,Electronics,8,6786.74,0.15,46149.83,32832.65,13317.18
+ORD-00162,2025-06-08,Customer 046,Chennai,South,Retail Store,Ishaan Das,Headphones,Accessories,1,1712.02,0.0,1712.02,1179.97,532.05
+ORD-00163,2025-04-07,Customer 036,Nagpur,Central,Online,Kabir Singh,Printer,Electronics,7,6907.68,0.0,48353.76,32507.32,15846.44
+ORD-00164,2025-04-25,Customer 011,Bengaluru,South,Distributor,Meera Nair,Monitor,Electronics,1,17378.28,0.02,17030.71,11339.28,5691.43
+ORD-00165,2025-06-29,Customer 072,Mumbai,West,Distributor,Meera Nair,Office Chair,Furniture,2,4511.62,0.0,9023.24,7101.86,1921.38
+ORD-00166,2025-06-02,Customer 058,Mumbai,West,Online,Ishaan Das,Smartphone,Electronics,1,25114.34,0.05,23858.62,16574.02,7284.6
+ORD-00167,2025-05-30,Customer 052,Hyderabad,South,Online,Ishaan Das,Desk,Furniture,5,8126.62,0.02,39820.44,26712.11,13108.33
+ORD-00168,2025-10-12,Customer 048,Indore,Central,Distributor,Kabir Singh,Printer,Electronics,2,10338.91,0.08,19023.59,13125.88,5897.71
+ORD-00169,2025-09-29,Customer 055,Patna,East,Distributor,Ishaan Das,Office Chair,Furniture,2,4839.99,0.05,9195.98,7267.48,1928.5
+ORD-00170,2025-12-06,Customer 059,Kolkata,East,Retail Store,Ishaan Das,Smartphone,Electronics,2,18663.24,0.0,37326.48,29880.5,7445.98
+ORD-00171,2025-02-02,Customer 016,Hyderabad,South,Online,Ishaan Das,Laptop,Electronics,8,65531.82,0.0,524254.56,382095.51,142159.05
+ORD-00172,2025-03-10,Customer 069,Chandigarh,North,Online,Diya Patel,Desk,Furniture,2,6630.67,0.08,12200.43,10395.09,1805.34
+ORD-00173,2025-06-30,Customer 062,Chennai,South,Distributor,Kabir Singh,Laptop,Electronics,3,75525.02,0.0,226575.06,173444.34,53130.72
+ORD-00174,2025-11-08,Customer 077,Indore,Central,Online,Diya Patel,Mouse,Accessories,7,542.4,0.1,3417.12,2616.26,800.86
+ORD-00175,2025-12-20,Customer 030,Kolkata,East,Online,Ishaan Das,Notebook Pack,Stationery,8,145.08,0.1,1044.58,761.86,282.72
+ORD-00176,2025-12-26,Customer 069,Delhi,North,Retail Store,Aarav Sharma,Printer,Electronics,7,11305.87,0.02,77558.27,53765.79,23792.48
+ORD-00177,2025-08-21,Customer 071,Jaipur,North,Distributor,Diya Patel,Office Chair,Furniture,7,4708.84,0.05,31313.79,19268.47,12045.32
+ORD-00178,2025-01-29,Customer 014,Mumbai,West,Distributor,Ishaan Das,Monitor,Electronics,2,17702.2,0.08,32572.05,26810.31,5761.74
+ORD-00179,2025-10-29,Customer 062,Pune,West,Retail Store,Diya Patel,Office Chair,Furniture,1,8656.81,0.0,8656.81,5319.54,3337.27
+ORD-00180,2025-11-21,Customer 033,Jaipur,North,Online,Aarav Sharma,Notebook Pack,Stationery,6,111.13,0.05,633.44,545.44,88.0
+ORD-00181,2025-04-07,Customer 063,Mumbai,West,Distributor,Ananya Rao,Laptop,Electronics,8,81882.44,0.08,602654.76,399886.58,202768.18
+ORD-00182,2025-01-07,Customer 020,Delhi,North,Distributor,Ishaan Das,Printer,Electronics,8,13543.04,0.05,102927.1,79007.94,23919.16
+ORD-00183,2025-03-08,Customer 032,Delhi,North,Distributor,Meera Nair,Headphones,Accessories,6,2862.07,0.02,16828.97,12695.04,4133.93
+ORD-00184,2025-01-19,Customer 077,Nagpur,Central,Online,Kabir Singh,Mouse,Accessories,7,270.88,0.08,1744.47,1205.02,539.45
+ORD-00185,2025-11-06,Customer 058,Pune,West,Retail Store,Kabir Singh,Keyboard,Accessories,7,1660.46,0.05,11042.06,7846.6,3195.46
+ORD-00186,2025-04-03,Customer 040,Ahmedabad,West,Distributor,Aarav Sharma,Monitor,Electronics,6,17709.24,0.05,100942.67,80968.91,19973.76
+ORD-00187,2025-09-19,Customer 013,Bhopal,Central,Distributor,Diya Patel,Mouse,Accessories,2,841.77,0.0,1683.54,1298.09,385.45
+ORD-00188,2025-06-03,Customer 011,Bhubaneswar,East,Online,Diya Patel,Office Chair,Furniture,5,7355.73,0.0,36778.65,29184.5,7594.15
+ORD-00189,2025-08-28,Customer 010,Bhopal,Central,Online,Meera Nair,Office Chair,Furniture,2,5545.62,0.15,9427.55,6907.91,2519.64
+ORD-00190,2025-09-07,Customer 077,Pune,West,Retail Store,Aarav Sharma,Notebook Pack,Stationery,2,234.62,0.1,422.32,296.05,126.27
+ORD-00191,2025-05-06,Customer 037,Hyderabad,South,Retail Store,Ananya Rao,Desk,Furniture,8,8331.01,0.05,63315.68,46925.89,16389.79
+ORD-00192,2025-09-25,Customer 010,Ahmedabad,West,Online,Ishaan Das,Laptop,Electronics,6,77429.31,0.1,418118.27,333000.6,85117.67
+ORD-00193,2025-06-12,Customer 026,Indore,Central,Online,Kabir Singh,Smartphone,Electronics,7,30118.02,0.1,189743.53,127332.03,62411.5
+ORD-00194,2025-11-26,Customer 020,Chennai,South,Online,Aarav Sharma,Laptop,Electronics,2,77641.21,0.0,155282.42,126557.33,28725.09
+ORD-00195,2025-12-27,Customer 022,Jaipur,North,Distributor,Ananya Rao,Office Chair,Furniture,7,10713.0,0.05,71241.45,49238.48,22002.97
+ORD-00196,2025-09-20,Customer 037,Indore,Central,Online,Meera Nair,Office Chair,Furniture,5,8566.93,0.05,40692.92,31030.53,9662.39
+ORD-00197,2025-07-30,Customer 052,Kolkata,East,Distributor,Kabir Singh,Mouse,Accessories,5,476.25,0.05,2262.19,1606.36,655.83
+ORD-00198,2025-06-20,Customer 057,Mumbai,West,Distributor,Aarav Sharma,Monitor,Electronics,2,10954.46,0.08,20156.21,14492.2,5664.01
+ORD-00199,2025-01-09,Customer 042,Ahmedabad,West,Retail Store,Aarav Sharma,Mouse,Accessories,6,363.76,0.1,1964.3,1727.38,236.92
+ORD-00200,2025-03-30,Customer 030,Chandigarh,North,Distributor,Kabir Singh,Office Chair,Furniture,3,5914.62,0.02,17388.98,12514.44,4874.54
+ORD-00201,2025-01-21,Customer 035,Chandigarh,North,Online,Diya Patel,Desk,Furniture,4,3748.45,0.05,14244.11,12148.57,2095.54
+ORD-00202,2025-04-05,Customer 067,Ahmedabad,West,Retail Store,Ishaan Das,Headphones,Accessories,6,2535.17,0.0,15211.02,9743.95,5467.07
+ORD-00203,2025-02-19,Customer 075,Chennai,South,Distributor,Meera Nair,Headphones,Accessories,3,3793.15,0.1,10241.51,9289.0,952.51
+ORD-00204,2025-10-07,Customer 061,Jaipur,North,Retail Store,Ishaan Das,Notebook Pack,Stationery,8,251.54,0.0,2012.32,1233.69,778.63
+ORD-00205,2025-12-10,Customer 014,Bhubaneswar,East,Retail Store,Meera Nair,Office Chair,Furniture,2,5178.85,0.1,9321.93,7540.63,1781.3
+ORD-00206,2025-07-21,Customer 037,Ahmedabad,West,Retail Store,Kabir Singh,Desk,Furniture,5,4409.21,0.02,21605.13,13634.93,7970.2
+ORD-00207,2025-02-08,Customer 059,Delhi,North,Retail Store,Ishaan Das,Keyboard,Accessories,3,1896.75,0.02,5576.44,3807.35,1769.09
+ORD-00208,2025-08-02,Customer 015,Kolkata,East,Distributor,Aarav Sharma,Keyboard,Accessories,4,1944.03,0.1,6998.51,4896.12,2102.39
+ORD-00209,2025-08-09,Customer 060,Indore,Central,Online,Diya Patel,Mouse,Accessories,4,1280.54,0.0,5122.16,3296.06,1826.1
+ORD-00210,2025-02-14,Customer 047,Nagpur,Central,Retail Store,Ananya Rao,Smartphone,Electronics,7,20512.89,0.05,136410.72,98785.23,37625.49
+ORD-00211,2025-03-09,Customer 007,Mumbai,West,Retail Store,Kabir Singh,Headphones,Accessories,8,3709.4,0.1,26707.68,19628.28,7079.4
+ORD-00212,2025-09-17,Customer 037,Chennai,South,Distributor,Meera Nair,Printer,Electronics,5,8487.25,0.02,41587.53,26255.35,15332.18
+ORD-00213,2025-01-14,Customer 004,Chandigarh,North,Distributor,Diya Patel,Mouse,Accessories,1,1143.96,0.05,1086.76,798.19,288.57
+ORD-00214,2025-11-21,Customer 040,Hyderabad,South,Online,Kabir Singh,Desk,Furniture,5,6451.12,0.05,30642.82,19728.21,10914.61
+ORD-00215,2025-05-12,Customer 012,Mumbai,West,Online,Meera Nair,Smartphone,Electronics,2,24748.43,0.15,42072.33,30651.35,11420.98
+ORD-00216,2025-12-14,Customer 020,Jaipur,North,Distributor,Ishaan Das,Office Chair,Furniture,5,5954.02,0.02,29174.7,17481.39,11693.31
+ORD-00217,2025-05-19,Customer 035,Indore,Central,Retail Store,Meera Nair,Smartphone,Electronics,2,22501.46,0.08,41402.69,31124.17,10278.52
+ORD-00218,2025-12-01,Customer 059,Hyderabad,South,Online,Meera Nair,Mouse,Accessories,4,861.67,0.02,3377.75,2816.85,560.9
+ORD-00219,2025-02-22,Customer 077,Hyderabad,South,Distributor,Diya Patel,Keyboard,Accessories,7,1390.64,0.0,9734.48,7796.93,1937.55
+ORD-00220,2025-09-28,Customer 036,Jaipur,North,Retail Store,Kabir Singh,Notebook Pack,Stationery,3,89.02,0.05,253.71,205.82,47.89
+ORD-00221,2025-08-29,Customer 001,Kolkata,East,Distributor,Ishaan Das,Notebook Pack,Stationery,1,222.85,0.02,218.39,178.66,39.73
+ORD-00222,2025-10-02,Customer 075,Nagpur,Central,Retail Store,Diya Patel,Printer,Electronics,4,11612.11,0.0,46448.44,38013.8,8434.64
+ORD-00223,2025-04-13,Customer 069,Pune,West,Retail Store,Ishaan Das,Headphones,Accessories,8,2412.26,0.0,19298.08,11898.39,7399.69
+ORD-00224,2025-01-23,Customer 070,Indore,Central,Retail Store,Ishaan Das,Monitor,Electronics,6,13715.13,0.15,69947.16,54031.93,15915.23
+ORD-00225,2025-06-01,Customer 031,Hyderabad,South,Retail Store,Diya Patel,Monitor,Electronics,6,16919.42,0.08,93395.2,70398.47,22996.73
+ORD-00226,2025-06-18,Customer 006,Pune,West,Distributor,Meera Nair,Notebook Pack,Stationery,8,141.69,0.0,1133.52,841.91,291.61
+ORD-00227,2025-12-26,Customer 050,Ahmedabad,West,Distributor,Diya Patel,Keyboard,Accessories,5,1354.3,0.1,6094.35,5145.72,948.63
+ORD-00228,2025-01-15,Customer 005,Mumbai,West,Distributor,Kabir Singh,Headphones,Accessories,8,2653.67,0.08,19531.01,13854.18,5676.83
+ORD-00229,2025-05-12,Customer 013,Kolkata,East,Online,Kabir Singh,Mouse,Accessories,6,1099.29,0.05,6265.95,4714.88,1551.07
+ORD-00230,2025-05-14,Customer 002,Ahmedabad,West,Online,Meera Nair,Smartphone,Electronics,6,25125.08,0.1,135675.43,102605.64,33069.79
+ORD-00231,2025-03-11,Customer 010,Chennai,South,Retail Store,Ishaan Das,Notebook Pack,Stationery,4,153.47,0.05,583.19,374.59,208.6
+ORD-00232,2025-05-05,Customer 051,Nagpur,Central,Online,Ishaan Das,Keyboard,Accessories,1,1768.23,0.08,1626.77,1306.9,319.87
+ORD-00233,2025-04-22,Customer 049,Indore,Central,Distributor,Ananya Rao,Laptop,Electronics,8,68362.77,0.1,492211.94,430166.6,62045.34
+ORD-00234,2025-04-30,Customer 070,Mumbai,West,Distributor,Aarav Sharma,Monitor,Electronics,2,17014.19,0.0,34028.38,21983.58,12044.8
+ORD-00235,2025-10-07,Customer 037,Bengaluru,South,Distributor,Aarav Sharma,Smartphone,Electronics,3,27446.31,0.1,74105.04,51758.69,22346.35
+ORD-00236,2025-04-14,Customer 013,Ahmedabad,West,Distributor,Aarav Sharma,Mouse,Accessories,5,1056.6,0.15,4490.55,3837.65,652.9
+ORD-00237,2025-09-30,Customer 022,Ahmedabad,West,Retail Store,Aarav Sharma,Headphones,Accessories,3,1957.62,0.15,4991.93,3969.6,1022.33
+ORD-00238,2025-08-17,Customer 042,Delhi,North,Retail Store,Ishaan Das,Desk,Furniture,6,3627.75,0.05,20678.17,17196.1,3482.07
+ORD-00239,2025-12-18,Customer 056,Bhubaneswar,East,Online,Kabir Singh,Notebook Pack,Stationery,3,248.47,0.1,670.87,489.98,180.89
+ORD-00240,2025-06-12,Customer 073,Ahmedabad,West,Online,Diya Patel,Keyboard,Accessories,5,1430.67,0.08,6581.08,4722.55,1858.53
+ORD-00241,2025-10-23,Customer 011,Hyderabad,South,Retail Store,Kabir Singh,Headphones,Accessories,4,3948.79,0.1,14215.64,12869.41,1346.23
+ORD-00242,2025-11-30,Customer 064,Hyderabad,South,Online,Diya Patel,Laptop,Electronics,6,77999.34,0.1,421196.44,325419.1,95777.34
+ORD-00243,2025-08-17,Customer 033,Pune,West,Retail Store,Ananya Rao,Desk,Furniture,6,7046.51,0.02,41433.48,27137.83,14295.65
+ORD-00244,2025-03-29,Customer 060,Jaipur,North,Distributor,Kabir Singh,Desk,Furniture,5,5754.9,0.02,28199.01,22324.79,5874.22
+ORD-00245,2025-04-17,Customer 010,Chennai,South,Retail Store,Kabir Singh,Keyboard,Accessories,5,514.26,0.05,2442.74,1983.51,459.23
+ORD-00246,2025-03-03,Customer 055,Patna,East,Retail Store,Meera Nair,Smartphone,Electronics,7,19936.61,0.1,125600.64,84817.97,40782.67
+ORD-00247,2025-02-12,Customer 026,Kolkata,East,Retail Store,Aarav Sharma,Office Chair,Furniture,4,5848.14,0.0,23392.56,15941.38,7451.18
+ORD-00248,2025-12-31,Customer 049,Hyderabad,South,Retail Store,Kabir Singh,Desk,Furniture,5,8630.95,0.15,36681.54,25751.03,10930.51
+ORD-00249,2025-12-09,Customer 038,Bhubaneswar,East,Distributor,Meera Nair,Smartphone,Electronics,5,21788.85,0.1,98049.82,80534.73,17515.09
+ORD-00250,2025-10-16,Customer 002,Patna,East,Distributor,Ananya Rao,Desk,Furniture,1,8078.91,0.0,8078.91,5506.9,2572.01
+ORD-00251,2025-07-04,Customer 078,Chandigarh,North,Retail Store,Ishaan Das,Printer,Electronics,2,11989.3,0.08,22060.31,19616.65,2443.66
+ORD-00252,2025-07-02,Customer 078,Chennai,South,Online,Ananya Rao,Laptop,Electronics,8,73779.81,0.0,590238.48,445442.59,144795.89
+ORD-00253,2025-02-13,Customer 080,Chennai,South,Distributor,Ananya Rao,Mouse,Accessories,3,780.39,0.05,2224.11,1386.77,837.34
+ORD-00254,2025-04-27,Customer 013,Hyderabad,South,Distributor,Aarav Sharma,Office Chair,Furniture,6,6973.36,0.1,37656.14,32623.14,5033.0
+ORD-00255,2025-11-27,Customer 057,Bhubaneswar,East,Distributor,Ishaan Das,Keyboard,Accessories,8,1110.94,0.1,7998.77,6864.13,1134.64
+ORD-00256,2025-06-02,Customer 012,Chennai,South,Retail Store,Ananya Rao,Smartphone,Electronics,4,30502.43,0.0,122009.72,96506.82,25502.9
+ORD-00257,2025-12-01,Customer 023,Mumbai,West,Online,Kabir Singh,Laptop,Electronics,3,74075.28,0.0,222225.84,131707.41,90518.43
+ORD-00258,2025-02-26,Customer 068,Patna,East,Retail Store,Diya Patel,Headphones,Accessories,1,2339.84,0.1,2105.86,1376.67,729.19
+ORD-00259,2025-05-04,Customer 062,Kolkata,East,Distributor,Ishaan Das,Notebook Pack,Stationery,6,110.24,0.0,661.44,520.28,141.16
+ORD-00260,2025-10-28,Customer 060,Delhi,North,Online,Diya Patel,Headphones,Accessories,7,2678.51,0.1,16874.61,11292.14,5582.47
+ORD-00261,2025-06-04,Customer 072,Pune,West,Online,Meera Nair,Office Chair,Furniture,5,6302.16,0.1,28359.72,22089.16,6270.56
+ORD-00262,2025-09-27,Customer 034,Chandigarh,North,Online,Meera Nair,Printer,Electronics,7,10217.44,0.05,67945.98,45245.25,22700.73
+ORD-00263,2025-08-17,Customer 034,Patna,East,Retail Store,Ananya Rao,Headphones,Accessories,6,1292.4,0.0,7754.4,4825.64,2928.76
+ORD-00264,2025-10-02,Customer 014,Patna,East,Online,Meera Nair,Smartphone,Electronics,2,29523.51,0.05,56094.67,48282.35,7812.32
+ORD-00265,2025-11-08,Customer 080,Chandigarh,North,Retail Store,Kabir Singh,Smartphone,Electronics,8,24282.21,0.05,184544.8,153467.49,31077.31
+ORD-00266,2025-08-27,Customer 009,Hyderabad,South,Retail Store,Ananya Rao,Mouse,Accessories,8,1253.79,0.02,9829.71,6349.11,3480.6
+ORD-00267,2025-06-22,Customer 053,Bhubaneswar,East,Online,Aarav Sharma,Notebook Pack,Stationery,8,212.25,0.05,1613.1,1209.35,403.75
+ORD-00268,2025-04-16,Customer 039,Jaipur,North,Online,Aarav Sharma,Office Chair,Furniture,7,9473.73,0.0,66316.11,39250.53,27065.58
+ORD-00269,2025-12-06,Customer 069,Bengaluru,South,Retail Store,Meera Nair,Notebook Pack,Stationery,3,126.83,0.05,361.47,289.89,71.58
+ORD-00270,2025-06-27,Customer 070,Kolkata,East,Distributor,Ananya Rao,Smartphone,Electronics,7,25857.12,0.05,171949.85,116738.96,55210.89
+ORD-00271,2025-02-18,Customer 054,Hyderabad,South,Online,Meera Nair,Printer,Electronics,2,11012.76,0.08,20263.48,13124.1,7139.38
+ORD-00272,2025-04-25,Customer 053,Indore,Central,Online,Ananya Rao,Office Chair,Furniture,1,5985.94,0.1,5387.35,4400.32,987.03
+ORD-00273,2025-10-12,Customer 028,Kolkata,East,Retail Store,Diya Patel,Smartphone,Electronics,7,24579.38,0.05,163452.88,138423.95,25028.93
+ORD-00274,2025-11-21,Customer 013,Patna,East,Retail Store,Kabir Singh,Desk,Furniture,1,4683.48,0.08,4308.8,2936.15,1372.65
+ORD-00275,2025-04-20,Customer 008,Kolkata,East,Retail Store,Diya Patel,Notebook Pack,Stationery,1,97.85,0.02,95.89,66.68,29.21
+ORD-00276,2025-03-20,Customer 059,Delhi,North,Distributor,Diya Patel,Printer,Electronics,2,7577.54,0.1,13639.57,9955.3,3684.27
+ORD-00277,2025-05-06,Customer 003,Bhopal,Central,Retail Store,Diya Patel,Office Chair,Furniture,2,7001.59,0.02,13723.12,10173.54,3549.58
+ORD-00278,2025-01-21,Customer 073,Bengaluru,South,Online,Kabir Singh,Desk,Furniture,2,8386.01,0.15,14256.22,10129.62,4126.6
+ORD-00279,2025-10-02,Customer 076,Bengaluru,South,Online,Ishaan Das,Smartphone,Electronics,1,26673.97,0.0,26673.97,20927.64,5746.33
+ORD-00280,2025-02-12,Customer 077,Bengaluru,South,Retail Store,Diya Patel,Mouse,Accessories,7,1192.78,0.05,7931.99,6839.9,1092.09
+ORD-00281,2025-06-11,Customer 070,Chennai,South,Online,Aarav Sharma,Laptop,Electronics,2,70506.92,0.15,119861.76,101310.92,18550.84
+ORD-00282,2025-05-27,Customer 017,Delhi,North,Retail Store,Diya Patel,Mouse,Accessories,7,445.89,0.15,2653.05,2183.84,469.21
+ORD-00283,2025-07-13,Customer 042,Bhopal,Central,Online,Ishaan Das,Desk,Furniture,3,5594.03,0.05,15942.99,12088.82,3854.17
+ORD-00284,2025-12-21,Customer 017,Chandigarh,North,Retail Store,Kabir Singh,Desk,Furniture,2,5265.97,0.02,10321.3,6369.59,3951.71
+ORD-00285,2025-10-19,Customer 009,Jaipur,North,Retail Store,Ishaan Das,Keyboard,Accessories,1,1181.48,0.05,1122.41,807.62,314.79
+ORD-00286,2025-08-04,Customer 076,Bhopal,Central,Retail Store,Kabir Singh,Keyboard,Accessories,6,2260.86,0.15,11530.39,9142.35,2388.04
+ORD-00287,2025-10-10,Customer 079,Bengaluru,South,Distributor,Ananya Rao,Office Chair,Furniture,3,8475.54,0.05,24155.29,18767.41,5387.88
+ORD-00288,2025-06-14,Customer 039,Indore,Central,Distributor,Aarav Sharma,Office Chair,Furniture,5,6745.01,0.05,32038.8,22624.86,9413.94
+ORD-00289,2025-07-14,Customer 062,Jaipur,North,Retail Store,Ananya Rao,Laptop,Electronics,3,77292.93,0.05,220284.85,146428.99,73855.86
+ORD-00290,2025-03-02,Customer 063,Chandigarh,North,Retail Store,Aarav Sharma,Monitor,Electronics,5,18066.47,0.02,88525.7,70317.37,18208.33
+ORD-00291,2025-12-21,Customer 042,Chandigarh,North,Online,Aarav Sharma,Mouse,Accessories,2,1019.29,0.0,2038.58,1644.98,393.6
+ORD-00292,2025-08-07,Customer 036,Hyderabad,South,Distributor,Kabir Singh,Keyboard,Accessories,4,2255.41,0.05,8570.56,5242.55,3328.01
+ORD-00293,2025-08-14,Customer 042,Indore,Central,Distributor,Kabir Singh,Laptop,Electronics,8,74565.36,0.0,596522.88,452421.08,144101.8
+ORD-00294,2025-09-06,Customer 059,Patna,East,Distributor,Meera Nair,Smartphone,Electronics,7,24949.84,0.05,165916.44,101525.76,64390.68
+ORD-00295,2025-07-27,Customer 015,Chandigarh,North,Distributor,Kabir Singh,Monitor,Electronics,8,19545.16,0.05,148543.22,111895.06,36648.16
+ORD-00296,2025-05-01,Customer 056,Chennai,South,Online,Meera Nair,Laptop,Electronics,3,67730.0,0.1,182871.0,142066.73,40804.27
+ORD-00297,2025-03-20,Customer 059,Kolkata,East,Retail Store,Ananya Rao,Printer,Electronics,2,14208.64,0.1,25575.55,17761.55,7814.0
+ORD-00298,2025-12-19,Customer 041,Jaipur,North,Retail Store,Ananya Rao,Mouse,Accessories,5,1259.87,0.05,5984.38,3806.48,2177.9
+ORD-00299,2025-05-23,Customer 048,Bhubaneswar,East,Distributor,Meera Nair,Keyboard,Accessories,5,1572.35,0.15,6682.49,5705.51,976.98
+ORD-00300,2025-06-25,Customer 012,Delhi,North,Online,Meera Nair,Mouse,Accessories,4,675.48,0.05,2566.82,1643.89,922.93
+ORD-00301,2025-11-18,Customer 048,Delhi,North,Distributor,Aarav Sharma,Monitor,Electronics,2,12412.77,0.05,23584.26,19608.21,3976.05
+ORD-00302,2025-11-02,Customer 072,Nagpur,Central,Retail Store,Ananya Rao,Laptop,Electronics,1,73847.78,0.05,70155.39,55063.15,15092.24
+ORD-00303,2025-07-31,Customer 053,Jaipur,North,Distributor,Meera Nair,Smartphone,Electronics,6,23274.28,0.08,128474.03,82338.28,46135.75
+ORD-00304,2025-09-01,Customer 037,Chandigarh,North,Retail Store,Ishaan Das,Printer,Electronics,4,10678.01,0.02,41857.8,26204.25,15653.55
+ORD-00305,2025-07-29,Customer 074,Chandigarh,North,Online,Diya Patel,Smartphone,Electronics,4,19355.34,0.15,65808.16,52429.63,13378.53
+ORD-00306,2025-05-06,Customer 029,Mumbai,West,Retail Store,Kabir Singh,Headphones,Accessories,7,4115.58,0.0,28809.06,21215.01,7594.05
+ORD-00307,2025-12-28,Customer 015,Kolkata,East,Distributor,Diya Patel,Keyboard,Accessories,8,1315.15,0.05,9995.14,6192.94,3802.2
+ORD-00308,2025-08-20,Customer 072,Ahmedabad,West,Distributor,Ananya Rao,Headphones,Accessories,5,4178.69,0.15,17759.43,12320.78,5438.65
+ORD-00309,2025-03-16,Customer 004,Nagpur,Central,Distributor,Ananya Rao,Monitor,Electronics,5,19835.87,0.0,99179.35,79800.68,19378.67
+ORD-00310,2025-04-21,Customer 004,Bhubaneswar,East,Retail Store,Ananya Rao,Monitor,Electronics,7,10410.05,0.0,72870.35,56862.91,16007.44
+ORD-00311,2025-12-08,Customer 044,Kolkata,East,Online,Diya Patel,Smartphone,Electronics,6,30820.43,0.05,175676.45,124884.87,50791.58
+ORD-00312,2025-07-15,Customer 073,Hyderabad,South,Retail Store,Aarav Sharma,Monitor,Electronics,4,9757.41,0.15,33175.19,25547.12,7628.07
+ORD-00313,2025-10-16,Customer 004,Bengaluru,South,Distributor,Kabir Singh,Smartphone,Electronics,5,31501.22,0.0,157506.1,124138.86,33367.24
+ORD-00314,2025-04-15,Customer 049,Chennai,South,Retail Store,Ishaan Das,Smartphone,Electronics,6,29620.27,0.15,151063.38,138999.12,12064.26
+ORD-00315,2025-05-13,Customer 048,Chennai,South,Distributor,Ishaan Das,Mouse,Accessories,6,1165.16,0.05,6641.41,4966.65,1674.76
+ORD-00316,2025-02-16,Customer 077,Bhopal,Central,Online,Diya Patel,Mouse,Accessories,8,1367.57,0.08,10065.32,7613.59,2451.73
+ORD-00317,2025-06-16,Customer 080,Bengaluru,South,Distributor,Aarav Sharma,Desk,Furniture,7,5488.79,0.05,36500.45,23112.12,13388.33
+ORD-00318,2025-05-22,Customer 057,Patna,East,Retail Store,Meera Nair,Monitor,Electronics,1,18358.44,0.05,17440.52,14748.51,2692.01
+ORD-00319,2025-11-01,Customer 057,Indore,Central,Retail Store,Diya Patel,Notebook Pack,Stationery,1,108.35,0.02,106.18,88.22,17.96
+ORD-00320,2025-01-13,Customer 015,Indore,Central,Retail Store,Aarav Sharma,Keyboard,Accessories,2,1479.94,0.15,2515.9,2410.9,105.0
+ORD-00321,2025-01-15,Customer 076,Kolkata,East,Distributor,Ananya Rao,Headphones,Accessories,5,1406.89,0.0,7034.45,4409.4,2625.05
+ORD-00322,2025-01-18,Customer 006,Bhubaneswar,East,Retail Store,Kabir Singh,Smartphone,Electronics,5,30774.28,0.05,146177.83,112362.67,33815.16
+ORD-00323,2025-10-18,Customer 001,Delhi,North,Retail Store,Diya Patel,Headphones,Accessories,5,2938.7,0.1,13224.15,11868.27,1355.88
+ORD-00324,2025-10-20,Customer 033,Chennai,South,Retail Store,Aarav Sharma,Smartphone,Electronics,3,19268.11,0.02,56648.24,39600.7,17047.54
+ORD-00325,2025-08-15,Customer 064,Chandigarh,North,Retail Store,Diya Patel,Mouse,Accessories,7,1136.39,0.05,7556.99,4962.75,2594.24
+ORD-00326,2025-05-19,Customer 049,Hyderabad,South,Distributor,Diya Patel,Notebook Pack,Stationery,3,197.57,0.08,545.29,405.62,139.67
+ORD-00327,2025-10-22,Customer 072,Nagpur,Central,Retail Store,Aarav Sharma,Headphones,Accessories,7,1457.28,0.15,8670.82,6376.59,2294.23
+ORD-00328,2025-09-21,Customer 006,Pune,West,Online,Meera Nair,Keyboard,Accessories,1,1445.53,0.05,1373.25,1014.71,358.54
+ORD-00329,2025-12-08,Customer 041,Chandigarh,North,Retail Store,Kabir Singh,Desk,Furniture,3,6174.54,0.05,17597.44,12618.73,4978.71
+ORD-00330,2025-12-30,Customer 054,Pune,West,Online,Meera Nair,Mouse,Accessories,1,931.9,0.02,913.26,683.11,230.15
+ORD-00331,2025-08-12,Customer 042,Delhi,North,Distributor,Meera Nair,Laptop,Electronics,5,72973.09,0.1,328378.9,253265.76,75113.14
+ORD-00332,2025-12-25,Customer 012,Kolkata,East,Online,Diya Patel,Monitor,Electronics,1,18866.56,0.08,17357.24,14482.38,2874.86
+ORD-00333,2025-11-26,Customer 076,Pune,West,Distributor,Aarav Sharma,Desk,Furniture,4,8209.26,0.08,30210.08,21785.46,8424.62
+ORD-00334,2025-08-21,Customer 040,Ahmedabad,West,Retail Store,Diya Patel,Desk,Furniture,6,7195.2,0.15,36695.52,28882.35,7813.17
+ORD-00335,2025-08-07,Customer 022,Bhubaneswar,East,Distributor,Ananya Rao,Desk,Furniture,6,6281.69,0.08,34674.93,26018.64,8656.29
+ORD-00336,2025-10-24,Customer 068,Chandigarh,North,Online,Ishaan Das,Printer,Electronics,2,12461.63,0.0,24923.26,15643.34,9279.92
+ORD-00337,2025-05-17,Customer 019,Bhubaneswar,East,Online,Diya Patel,Notebook Pack,Stationery,1,241.04,0.02,236.22,146.21,90.01
+ORD-00338,2025-09-30,Customer 026,Bhubaneswar,East,Distributor,Diya Patel,Laptop,Electronics,8,67625.19,0.02,530181.49,351607.2,178574.29
+ORD-00339,2025-04-30,Customer 023,Chandigarh,North,Retail Store,Meera Nair,Printer,Electronics,2,12584.37,0.08,23155.24,15656.05,7499.19
+ORD-00340,2025-11-19,Customer 075,Indore,Central,Distributor,Kabir Singh,Monitor,Electronics,3,14740.86,0.0,44222.58,28551.12,15671.46
+ORD-00341,2025-04-01,Customer 042,Nagpur,Central,Retail Store,Diya Patel,Office Chair,Furniture,4,8351.68,0.08,30734.18,19936.58,10797.6
+ORD-00342,2025-02-16,Customer 009,Pune,West,Retail Store,Ananya Rao,Desk,Furniture,4,7802.16,0.1,28087.78,24205.97,3881.81
+ORD-00343,2025-03-17,Customer 036,Patna,East,Online,Ishaan Das,Desk,Furniture,4,4824.14,0.05,18331.73,12008.74,6322.99
+ORD-00344,2025-10-27,Customer 010,Indore,Central,Retail Store,Meera Nair,Headphones,Accessories,4,2193.8,0.02,8599.7,6672.9,1926.8
+ORD-00345,2025-03-05,Customer 008,Jaipur,North,Retail Store,Aarav Sharma,Office Chair,Furniture,2,5416.23,0.05,10290.84,7070.47,3220.37
+ORD-00346,2025-04-10,Customer 079,Chandigarh,North,Distributor,Meera Nair,Keyboard,Accessories,3,948.39,0.1,2560.65,2285.24,275.41
+ORD-00347,2025-05-14,Customer 075,Ahmedabad,West,Distributor,Aarav Sharma,Desk,Furniture,6,8269.45,0.15,42174.19,36083.45,6090.74
+ORD-00348,2025-08-23,Customer 074,Ahmedabad,West,Online,Ishaan Das,Desk,Furniture,8,8497.35,0.1,61180.92,46947.76,14233.16
+ORD-00349,2025-10-05,Customer 061,Nagpur,Central,Online,Aarav Sharma,Laptop,Electronics,6,73112.41,0.05,416740.74,297319.06,119421.68
+ORD-00350,2025-01-06,Customer 014,Pune,West,Distributor,Aarav Sharma,Desk,Furniture,5,6536.89,0.1,29416.01,19809.32,9606.69
+ORD-00351,2025-09-18,Customer 023,Bhopal,Central,Online,Ananya Rao,Headphones,Accessories,2,3697.86,0.15,6286.36,5838.91,447.45
+ORD-00352,2025-10-17,Customer 057,Ahmedabad,West,Distributor,Kabir Singh,Smartphone,Electronics,8,22400.87,0.05,170246.61,115470.29,54776.32
+ORD-00353,2025-10-28,Customer 047,Chennai,South,Retail Store,Meera Nair,Notebook Pack,Stationery,6,142.04,0.05,809.63,554.9,254.73
+ORD-00354,2025-12-09,Customer 044,Ahmedabad,West,Distributor,Aarav Sharma,Headphones,Accessories,2,1544.11,0.0,3088.22,2494.76,593.46
+ORD-00355,2025-10-07,Customer 009,Kolkata,East,Online,Kabir Singh,Desk,Furniture,1,7247.31,0.02,7102.36,4508.63,2593.73
+ORD-00356,2025-11-01,Customer 037,Pune,West,Distributor,Ananya Rao,Headphones,Accessories,7,1773.55,0.1,11173.36,7617.92,3555.44
+ORD-00357,2025-04-20,Customer 020,Indore,Central,Online,Kabir Singh,Notebook Pack,Stationery,8,122.35,0.02,959.22,794.28,164.94
+ORD-00358,2025-10-25,Customer 045,Chennai,South,Distributor,Ananya Rao,Printer,Electronics,3,9939.66,0.05,28328.03,19105.87,9222.16
+ORD-00359,2025-10-11,Customer 017,Ahmedabad,West,Distributor,Aarav Sharma,Monitor,Electronics,5,13539.82,0.1,60929.19,42727.47,18201.72
+ORD-00360,2025-10-09,Customer 072,Kolkata,East,Distributor,Ishaan Das,Notebook Pack,Stationery,1,182.81,0.15,155.39,107.73,47.66
+ORD-00361,2025-03-18,Customer 068,Bengaluru,South,Distributor,Ananya Rao,Headphones,Accessories,8,3572.8,0.0,28582.4,19289.01,9293.39
+ORD-00362,2025-07-09,Customer 066,Pune,West,Online,Ishaan Das,Office Chair,Furniture,6,7100.8,0.02,41752.7,26709.76,15042.94
+ORD-00363,2025-07-25,Customer 024,Bhubaneswar,East,Retail Store,Meera Nair,Desk,Furniture,4,8239.98,0.08,30323.13,24578.1,5745.03
+ORD-00364,2025-06-24,Customer 029,Bengaluru,South,Online,Aarav Sharma,Smartphone,Electronics,8,23765.81,0.05,180620.16,152406.01,28214.15
+ORD-00365,2025-01-27,Customer 013,Patna,East,Distributor,Ananya Rao,Headphones,Accessories,8,3390.09,0.0,27120.72,18777.72,8343.0
+ORD-00366,2025-09-24,Customer 005,Nagpur,Central,Retail Store,Kabir Singh,Smartphone,Electronics,2,20595.25,0.05,39130.97,26751.71,12379.26
+ORD-00367,2025-03-12,Customer 077,Chennai,South,Online,Diya Patel,Monitor,Electronics,2,18632.65,0.02,36519.99,24065.64,12454.35
+ORD-00368,2025-11-28,Customer 080,Bengaluru,South,Distributor,Meera Nair,Smartphone,Electronics,3,19890.53,0.15,50720.85,40367.32,10353.53
+ORD-00369,2025-12-06,Customer 053,Jaipur,North,Distributor,Ananya Rao,Headphones,Accessories,4,2217.34,0.0,8869.36,5488.95,3380.41
+ORD-00370,2025-11-06,Customer 057,Hyderabad,South,Retail Store,Ananya Rao,Monitor,Electronics,6,18394.86,0.02,108161.78,88314.64,19847.14
+ORD-00371,2025-08-13,Customer 030,Ahmedabad,West,Online,Ishaan Das,Keyboard,Accessories,2,932.56,0.0,1865.12,1470.05,395.07
+ORD-00372,2025-11-06,Customer 025,Pune,West,Distributor,Kabir Singh,Printer,Electronics,3,11451.33,0.1,30918.59,20983.09,9935.5
+ORD-00373,2025-02-14,Customer 060,Pune,West,Retail Store,Kabir Singh,Monitor,Electronics,2,17740.5,0.05,33706.95,28044.28,5662.67
+ORD-00374,2025-12-09,Customer 054,Bhopal,Central,Online,Kabir Singh,Smartphone,Electronics,5,28426.79,0.1,127920.56,107999.73,19920.83
+ORD-00375,2025-08-15,Customer 033,Bengaluru,South,Distributor,Meera Nair,Headphones,Accessories,4,1686.52,0.05,6408.78,4730.8,1677.98
+ORD-00376,2025-02-13,Customer 071,Bhubaneswar,East,Distributor,Kabir Singh,Printer,Electronics,5,9660.81,0.1,43473.64,38602.51,4871.13
+ORD-00377,2025-10-19,Customer 037,Delhi,North,Online,Ishaan Das,Headphones,Accessories,7,3137.31,0.05,20863.11,13731.16,7131.95
+ORD-00378,2025-09-26,Customer 066,Mumbai,West,Retail Store,Aarav Sharma,Office Chair,Furniture,7,11224.38,0.08,72285.01,62879.03,9405.98
+ORD-00379,2025-02-27,Customer 058,Chennai,South,Online,Meera Nair,Mouse,Accessories,4,983.96,0.05,3739.05,3214.76,524.29
+ORD-00380,2025-05-09,Customer 051,Chandigarh,North,Retail Store,Diya Patel,Headphones,Accessories,1,2260.84,0.1,2034.76,1465.41,569.35
+ORD-00381,2025-07-08,Customer 011,Pune,West,Online,Aarav Sharma,Monitor,Electronics,5,20759.74,0.1,93418.83,67709.64,25709.19
+ORD-00382,2025-05-20,Customer 013,Patna,East,Distributor,Ishaan Das,Headphones,Accessories,7,2011.63,0.08,12954.9,10392.58,2562.32
+ORD-00383,2025-12-08,Customer 018,Bengaluru,South,Retail Store,Meera Nair,Keyboard,Accessories,8,918.3,0.08,6758.69,5254.48,1504.21
+ORD-00384,2025-01-09,Customer 061,Chennai,South,Distributor,Aarav Sharma,Notebook Pack,Stationery,4,89.94,0.05,341.77,283.36,58.41
+ORD-00385,2025-10-01,Customer 003,Jaipur,North,Online,Diya Patel,Laptop,Electronics,7,81067.52,0.0,567472.64,431239.13,136233.51
+ORD-00386,2025-05-25,Customer 078,Nagpur,Central,Retail Store,Aarav Sharma,Printer,Electronics,3,13432.87,0.1,36268.75,31939.44,4329.31
+ORD-00387,2025-04-19,Customer 031,Kolkata,East,Online,Aarav Sharma,Headphones,Accessories,5,3471.59,0.02,17010.79,11028.88,5981.91
+ORD-00388,2025-07-13,Customer 054,Hyderabad,South,Distributor,Meera Nair,Desk,Furniture,1,8771.83,0.08,8070.08,6425.67,1644.41
+ORD-00389,2025-05-16,Customer 015,Jaipur,North,Distributor,Kabir Singh,Monitor,Electronics,8,14713.61,0.05,111823.44,86363.64,25459.8
+ORD-00390,2025-07-14,Customer 066,Chandigarh,North,Online,Ananya Rao,Office Chair,Furniture,2,10716.41,0.1,19289.54,14229.15,5060.39
+ORD-00391,2025-12-21,Customer 038,Chennai,South,Online,Kabir Singh,Printer,Electronics,2,14278.77,0.1,25701.79,22881.88,2819.91
+ORD-00392,2025-02-21,Customer 031,Patna,East,Retail Store,Diya Patel,Keyboard,Accessories,3,821.36,0.02,2414.8,1482.39,932.41
+ORD-00393,2025-03-10,Customer 068,Jaipur,North,Online,Kabir Singh,Smartphone,Electronics,4,31857.52,0.0,127430.08,77963.01,49467.07
+ORD-00394,2025-01-27,Customer 065,Nagpur,Central,Distributor,Aarav Sharma,Printer,Electronics,7,11141.92,0.1,70194.1,57045.87,13148.23
+ORD-00395,2025-05-30,Customer 061,Mumbai,West,Distributor,Meera Nair,Keyboard,Accessories,3,1492.04,0.08,4118.03,3076.77,1041.26
+ORD-00396,2025-08-22,Customer 033,Patna,East,Online,Ishaan Das,Monitor,Electronics,3,14611.83,0.0,43835.49,33804.93,10030.56
+ORD-00397,2025-10-13,Customer 045,Delhi,North,Distributor,Ananya Rao,Headphones,Accessories,4,1712.96,0.1,6166.66,4517.06,1649.6
+ORD-00398,2025-02-26,Customer 075,Chandigarh,North,Retail Store,Diya Patel,Mouse,Accessories,6,1234.87,0.0,7409.22,5657.72,1751.5
+ORD-00399,2025-03-17,Customer 046,Chandigarh,North,Retail Store,Ananya Rao,Office Chair,Furniture,7,9322.31,0.1,58730.55,42469.02,16261.53
+ORD-00400,2025-03-21,Customer 060,Hyderabad,South,Retail Store,Ananya Rao,Mouse,Accessories,5,583.31,0.05,2770.72,2126.89,643.83
+ORD-00401,2025-06-12,Customer 018,Bengaluru,South,Distributor,Meera Nair,Notebook Pack,Stationery,2,104.31,0.08,191.93,154.78,37.15
+ORD-00402,2025-08-16,Customer 038,Delhi,North,Online,Diya Patel,Printer,Electronics,6,7092.56,0.05,40427.59,28859.7,11567.89
+ORD-00403,2025-06-08,Customer 041,Jaipur,North,Distributor,Meera Nair,Laptop,Electronics,8,72496.36,0.1,521973.79,369380.49,152593.3
+ORD-00404,2025-03-23,Customer 061,Indore,Central,Online,Ananya Rao,Keyboard,Accessories,7,1537.02,0.1,9683.23,7460.53,2222.7
+ORD-00405,2025-07-17,Customer 037,Chennai,South,Online,Ananya Rao,Desk,Furniture,1,8603.84,0.05,8173.65,6081.86,2091.79
+ORD-00406,2025-08-15,Customer 035,Bhubaneswar,East,Retail Store,Meera Nair,Notebook Pack,Stationery,5,212.75,0.0,1063.75,748.63,315.12
+ORD-00407,2025-09-02,Customer 057,Pune,West,Retail Store,Diya Patel,Desk,Furniture,5,6214.29,0.05,29517.88,25196.71,4321.17
+ORD-00408,2025-12-03,Customer 064,Pune,West,Distributor,Ishaan Das,Printer,Electronics,4,7947.08,0.02,31152.55,19163.43,11989.12
+ORD-00409,2025-08-03,Customer 055,Delhi,North,Retail Store,Kabir Singh,Laptop,Electronics,6,78077.12,0.08,430985.7,275322.93,155662.77
+ORD-00410,2025-06-07,Customer 070,Chennai,South,Retail Store,Aarav Sharma,Headphones,Accessories,5,1409.13,0.15,5988.8,4369.48,1619.32
+ORD-00411,2025-05-27,Customer 042,Chandigarh,North,Retail Store,Ishaan Das,Notebook Pack,Stationery,2,195.48,0.05,371.41,298.03,73.38
+ORD-00412,2025-04-30,Customer 078,Ahmedabad,West,Retail Store,Diya Patel,Smartphone,Electronics,2,30681.09,0.05,58294.07,46724.99,11569.08
+ORD-00413,2025-06-29,Customer 045,Pune,West,Online,Ananya Rao,Keyboard,Accessories,3,925.5,0.02,2720.97,1777.25,943.72
+ORD-00414,2025-12-31,Customer 079,Kolkata,East,Retail Store,Ananya Rao,Notebook Pack,Stationery,3,184.84,0.15,471.34,453.41,17.93
+ORD-00415,2025-02-09,Customer 010,Chandigarh,North,Distributor,Meera Nair,Printer,Electronics,3,13379.76,0.15,34118.39,25244.66,8873.73
+ORD-00416,2025-08-22,Customer 066,Patna,East,Distributor,Diya Patel,Office Chair,Furniture,5,10329.86,0.05,49066.83,35408.39,13658.44
+ORD-00417,2025-03-30,Customer 019,Chandigarh,North,Distributor,Meera Nair,Mouse,Accessories,4,1292.02,0.1,4651.27,3331.3,1319.97
+ORD-00418,2025-12-26,Customer 017,Delhi,North,Online,Ananya Rao,Laptop,Electronics,3,74303.81,0.05,211765.86,156332.39,55433.47
+ORD-00419,2025-07-30,Customer 047,Kolkata,East,Distributor,Aarav Sharma,Notebook Pack,Stationery,4,214.85,0.05,816.43,566.66,249.77
+ORD-00420,2025-05-30,Customer 020,Nagpur,Central,Retail Store,Ishaan Das,Printer,Electronics,2,8009.7,0.1,14417.46,11007.05,3410.41
+ORD-00421,2025-01-21,Customer 057,Bhubaneswar,East,Distributor,Diya Patel,Headphones,Accessories,1,2728.14,0.0,2728.14,1789.46,938.68
+ORD-00422,2025-10-05,Customer 047,Indore,Central,Retail Store,Ananya Rao,Smartphone,Electronics,2,27182.22,0.02,53277.15,32378.77,20898.38
+ORD-00423,2025-01-04,Customer 032,Bhubaneswar,East,Online,Ananya Rao,Laptop,Electronics,8,65369.3,0.1,470658.96,322817.3,147841.66
+ORD-00424,2025-08-01,Customer 064,Hyderabad,South,Retail Store,Kabir Singh,Printer,Electronics,5,10057.5,0.05,47773.12,30033.27,17739.85
+ORD-00425,2025-06-14,Customer 034,Jaipur,North,Distributor,Meera Nair,Keyboard,Accessories,6,520.93,0.0,3125.58,2490.89,634.69
+ORD-00426,2025-11-22,Customer 079,Chennai,South,Distributor,Meera Nair,Office Chair,Furniture,5,5550.28,0.02,27196.37,20491.54,6704.83
+ORD-00427,2025-02-21,Customer 016,Bengaluru,South,Online,Meera Nair,Monitor,Electronics,2,20437.78,0.05,38831.78,26653.53,12178.25
+ORD-00428,2025-08-07,Customer 057,Bengaluru,South,Distributor,Ishaan Das,Mouse,Accessories,4,663.62,0.02,2601.39,1568.88,1032.51
+ORD-00429,2025-02-08,Customer 009,Patna,East,Distributor,Ishaan Das,Office Chair,Furniture,4,4629.06,0.05,17590.43,13601.33,3989.1
+ORD-00430,2025-09-17,Customer 021,Patna,East,Distributor,Ananya Rao,Headphones,Accessories,5,3462.94,0.1,15583.23,13000.04,2583.19
+ORD-00431,2025-01-17,Customer 047,Hyderabad,South,Online,Aarav Sharma,Smartphone,Electronics,7,26447.68,0.02,181431.08,109268.25,72162.83
+ORD-00432,2025-06-23,Customer 018,Bengaluru,South,Retail Store,Aarav Sharma,Keyboard,Accessories,2,1364.3,0.05,2592.17,1698.28,893.89
+ORD-00433,2025-02-20,Customer 071,Patna,East,Retail Store,Meera Nair,Keyboard,Accessories,5,882.56,0.15,3750.88,2578.34,1172.54
+ORD-00434,2025-12-04,Customer 017,Nagpur,Central,Online,Aarav Sharma,Office Chair,Furniture,8,11163.5,0.0,89308.0,68153.13,21154.87
+ORD-00435,2025-09-19,Customer 051,Patna,East,Distributor,Meera Nair,Mouse,Accessories,2,1366.32,0.05,2596.01,1636.19,959.82
+ORD-00436,2025-11-27,Customer 053,Indore,Central,Distributor,Aarav Sharma,Laptop,Electronics,7,75435.08,0.08,485801.92,359145.36,126656.56
+ORD-00437,2025-08-21,Customer 041,Hyderabad,South,Online,Meera Nair,Printer,Electronics,5,12418.16,0.0,62090.8,46887.71,15203.09
+ORD-00438,2025-02-26,Customer 067,Pune,West,Online,Kabir Singh,Smartphone,Electronics,7,24614.56,0.05,163686.82,112845.94,50840.88
+ORD-00439,2025-12-05,Customer 024,Bhopal,Central,Retail Store,Kabir Singh,Mouse,Accessories,2,674.34,0.0,1348.68,853.31,495.37
+ORD-00440,2025-09-25,Customer 016,Chandigarh,North,Online,Ishaan Das,Monitor,Electronics,4,20310.82,0.08,74743.82,51318.01,23425.81
+ORD-00441,2025-12-12,Customer 021,Chennai,South,Distributor,Diya Patel,Keyboard,Accessories,6,2118.27,0.02,12455.43,9258.69,3196.74
+ORD-00442,2025-05-19,Customer 067,Kolkata,East,Online,Ishaan Das,Desk,Furniture,8,4918.42,0.08,36199.57,32145.02,4054.55
+ORD-00443,2025-07-17,Customer 071,Chennai,South,Online,Ananya Rao,Smartphone,Electronics,4,27438.73,0.05,104267.17,65534.52,38732.65
+ORD-00444,2025-02-02,Customer 079,Patna,East,Online,Kabir Singh,Desk,Furniture,4,7645.74,0.02,29971.3,20197.33,9773.97
+ORD-00445,2025-01-10,Customer 076,Hyderabad,South,Online,Diya Patel,Keyboard,Accessories,6,2101.19,0.05,11976.78,10195.57,1781.21
+ORD-00446,2025-07-09,Customer 078,Indore,Central,Distributor,Aarav Sharma,Headphones,Accessories,6,1282.47,0.1,6925.34,5366.55,1558.79
+ORD-00447,2025-04-14,Customer 011,Delhi,North,Distributor,Kabir Singh,Smartphone,Electronics,3,27625.48,0.0,82876.44,53768.78,29107.66
+ORD-00448,2025-02-25,Customer 027,Patna,East,Retail Store,Kabir Singh,Desk,Furniture,2,5925.93,0.05,11259.27,8358.53,2900.74
+ORD-00449,2025-04-09,Customer 064,Chandigarh,North,Distributor,Ishaan Das,Headphones,Accessories,4,2927.47,0.05,11124.39,8622.22,2502.17
+ORD-00450,2025-01-12,Customer 062,Bhubaneswar,East,Distributor,Meera Nair,Monitor,Electronics,1,9165.33,0.02,8982.02,6320.15,2661.87
+ORD-00451,2025-04-29,Customer 059,Bhubaneswar,East,Distributor,Aarav Sharma,Office Chair,Furniture,7,7144.86,0.05,47513.32,36132.32,11381.0
+ORD-00452,2025-10-23,Customer 057,Chennai,South,Retail Store,Meera Nair,Smartphone,Electronics,1,25211.87,0.05,23951.28,17171.99,6779.29
+ORD-00453,2025-09-27,Customer 044,Hyderabad,South,Online,Ishaan Das,Smartphone,Electronics,1,31193.66,0.0,31193.66,22594.49,8599.17
+ORD-00454,2025-10-13,Customer 045,Kolkata,East,Online,Ishaan Das,Headphones,Accessories,7,1839.87,0.1,11591.18,9424.47,2166.71
+ORD-00455,2025-04-09,Customer 072,Bhopal,Central,Retail Store,Diya Patel,Mouse,Accessories,8,298.7,0.05,2270.12,1699.67,570.45
+ORD-00456,2025-12-25,Customer 016,Pune,West,Retail Store,Diya Patel,Printer,Electronics,2,9190.29,0.15,15623.49,10732.33,4891.16
+ORD-00457,2025-01-29,Customer 013,Bengaluru,South,Retail Store,Meera Nair,Desk,Furniture,1,5281.46,0.05,5017.39,4302.97,714.42
+ORD-00458,2025-11-04,Customer 054,Bhopal,Central,Online,Ishaan Das,Headphones,Accessories,4,1332.04,0.0,5328.16,4299.29,1028.87
+ORD-00459,2025-12-26,Customer 041,Bhopal,Central,Online,Meera Nair,Headphones,Accessories,7,1199.32,0.05,7975.48,6743.27,1232.21
+ORD-00460,2025-07-03,Customer 060,Indore,Central,Retail Store,Meera Nair,Monitor,Electronics,5,20653.62,0.02,101202.74,72400.32,28802.42
+ORD-00461,2025-09-23,Customer 012,Jaipur,North,Distributor,Meera Nair,Keyboard,Accessories,2,1031.03,0.1,1855.85,1388.95,466.9
+ORD-00462,2025-06-13,Customer 028,Hyderabad,South,Retail Store,Aarav Sharma,Office Chair,Furniture,5,11335.69,0.02,55544.88,36973.4,18571.48
+ORD-00463,2025-03-14,Customer 037,Jaipur,North,Distributor,Ananya Rao,Laptop,Electronics,4,68403.12,0.08,251723.48,170602.07,81121.41
+ORD-00464,2025-05-24,Customer 037,Ahmedabad,West,Online,Aarav Sharma,Printer,Electronics,6,8607.8,0.05,49064.46,34279.35,14785.11
+ORD-00465,2025-04-21,Customer 018,Pune,West,Distributor,Ishaan Das,Monitor,Electronics,4,13335.59,0.1,48008.12,38260.78,9747.34
+ORD-00466,2025-06-20,Customer 047,Mumbai,West,Retail Store,Aarav Sharma,Headphones,Accessories,2,3870.3,0.05,7353.57,4561.96,2791.61
+ORD-00467,2025-07-26,Customer 072,Bhopal,Central,Retail Store,Kabir Singh,Desk,Furniture,5,4811.57,0.1,21652.06,14708.5,6943.56
+ORD-00468,2025-02-15,Customer 010,Kolkata,East,Distributor,Meera Nair,Headphones,Accessories,7,3991.79,0.08,25707.13,20970.48,4736.65
+ORD-00469,2025-06-01,Customer 036,Nagpur,Central,Distributor,Kabir Singh,Monitor,Electronics,6,13098.46,0.0,78590.76,55375.06,23215.7
+ORD-00470,2025-12-29,Customer 017,Delhi,North,Retail Store,Ishaan Das,Keyboard,Accessories,5,838.03,0.08,3854.94,2444.49,1410.45
+ORD-00471,2025-01-27,Customer 072,Kolkata,East,Online,Diya Patel,Mouse,Accessories,5,295.49,0.0,1477.45,942.11,535.34
+ORD-00472,2025-04-07,Customer 066,Indore,Central,Distributor,Aarav Sharma,Office Chair,Furniture,3,4729.67,0.02,13905.23,8886.66,5018.57
+ORD-00473,2025-11-30,Customer 005,Delhi,North,Distributor,Ishaan Das,Office Chair,Furniture,4,6873.05,0.05,26117.59,16537.53,9580.06
+ORD-00474,2025-05-21,Customer 067,Pune,West,Online,Kabir Singh,Notebook Pack,Stationery,1,116.38,0.1,104.74,95.17,9.57
+ORD-00475,2025-05-09,Customer 018,Indore,Central,Distributor,Ishaan Das,Mouse,Accessories,1,861.6,0.05,818.52,659.77,158.75
+ORD-00476,2025-07-04,Customer 051,Hyderabad,South,Distributor,Ishaan Das,Laptop,Electronics,7,79352.63,0.1,499921.57,380075.83,119845.74
+ORD-00477,2025-02-14,Customer 044,Nagpur,Central,Distributor,Kabir Singh,Monitor,Electronics,6,12701.52,0.15,64777.75,45926.81,18850.94
+ORD-00478,2025-10-22,Customer 073,Pune,West,Retail Store,Aarav Sharma,Mouse,Accessories,8,1135.6,0.0,9084.8,6700.0,2384.8
+ORD-00479,2025-02-18,Customer 043,Patna,East,Online,Meera Nair,Laptop,Electronics,6,78586.79,0.08,433799.08,370448.62,63350.46
+ORD-00480,2025-10-09,Customer 040,Nagpur,Central,Distributor,Ananya Rao,Office Chair,Furniture,1,6431.47,0.05,6109.9,3795.79,2314.11
+ORD-00481,2025-08-29,Customer 077,Jaipur,North,Retail Store,Ananya Rao,Desk,Furniture,4,5660.04,0.05,21508.15,17909.7,3598.45
+ORD-00482,2025-04-07,Customer 074,Bhopal,Central,Distributor,Aarav Sharma,Smartphone,Electronics,3,30512.4,0.05,86960.34,60293.16,26667.18
+ORD-00483,2025-09-28,Customer 062,Bhopal,Central,Distributor,Ananya Rao,Printer,Electronics,1,8558.98,0.05,8131.03,5276.03,2855.0
+ORD-00484,2025-06-02,Customer 049,Bhopal,Central,Distributor,Diya Patel,Monitor,Electronics,3,15789.48,0.05,45000.02,36840.28,8159.74
+ORD-00485,2025-12-19,Customer 074,Chandigarh,North,Online,Diya Patel,Headphones,Accessories,6,3489.58,0.15,17796.86,16355.37,1441.49
+ORD-00486,2025-12-20,Customer 057,Jaipur,North,Retail Store,Diya Patel,Smartphone,Electronics,2,25370.44,0.0,50740.88,39393.93,11346.95
+ORD-00487,2025-04-21,Customer 027,Pune,West,Distributor,Kabir Singh,Printer,Electronics,3,13936.79,0.0,41810.37,29908.09,11902.28
+ORD-00488,2025-04-07,Customer 008,Ahmedabad,West,Online,Kabir Singh,Office Chair,Furniture,6,4911.94,0.08,27113.91,22864.58,4249.33
+ORD-00489,2025-01-05,Customer 072,Chennai,South,Distributor,Meera Nair,Laptop,Electronics,5,69395.47,0.08,319219.16,211129.67,108089.49
+ORD-00490,2025-07-06,Customer 049,Indore,Central,Online,Meera Nair,Office Chair,Furniture,8,10763.1,0.02,84382.7,56621.12,27761.58
+ORD-00491,2025-02-14,Customer 044,Nagpur,Central,Retail Store,Ananya Rao,Printer,Electronics,3,10041.25,0.0,30123.75,18224.76,11898.99
+ORD-00492,2025-09-20,Customer 079,Kolkata,East,Online,Diya Patel,Monitor,Electronics,8,14464.23,0.1,104142.46,80510.25,23632.21
+ORD-00493,2025-10-09,Customer 072,Kolkata,East,Online,Ishaan Das,Mouse,Accessories,8,381.12,0.15,2591.62,2461.73,129.89
+ORD-00494,2025-02-02,Customer 027,Patna,East,Distributor,Meera Nair,Office Chair,Furniture,3,6986.15,0.05,19910.53,14249.21,5661.32
+ORD-00495,2025-04-23,Customer 062,Kolkata,East,Distributor,Ananya Rao,Smartphone,Electronics,5,21546.31,0.08,99113.03,64220.65,34892.38
+ORD-00496,2025-11-24,Customer 037,Bhubaneswar,East,Distributor,Ananya Rao,Printer,Electronics,1,11729.84,0.05,11143.35,8648.53,2494.82
+ORD-00497,2025-06-12,Customer 049,Indore,Central,Retail Store,Diya Patel,Laptop,Electronics,7,77724.75,0.1,489665.92,333382.48,156283.44
+ORD-00498,2025-12-13,Customer 006,Kolkata,East,Distributor,Aarav Sharma,Keyboard,Accessories,3,1199.85,0.05,3419.57,2344.2,1075.37
+ORD-00499,2025-11-02,Customer 057,Patna,East,Retail Store,Ananya Rao,Laptop,Electronics,4,69327.34,0.05,263443.89,173947.92,89495.97
+ORD-00500,2025-05-15,Customer 028,Mumbai,West,Distributor,Ishaan Das,Notebook Pack,Stationery,3,192.85,0.05,549.62,383.52,166.1
+ORD-00501,2025-09-10,Customer 035,Bhopal,Central,Online,Kabir Singh,Printer,Electronics,8,9530.94,0.08,70147.72,61904.49,8243.23
+ORD-00502,2025-10-09,Customer 031,Bhopal,Central,Online,Ananya Rao,Headphones,Accessories,5,3902.33,0.1,17560.49,11591.72,5968.77
+ORD-00503,2025-09-17,Customer 029,Nagpur,Central,Online,Aarav Sharma,Desk,Furniture,8,8926.92,0.05,67844.59,43011.22,24833.37
+ORD-00504,2025-09-12,Customer 053,Jaipur,North,Distributor,Meera Nair,Desk,Furniture,5,4196.1,0.1,18882.45,14725.01,4157.44
+ORD-00505,2025-01-30,Customer 018,Delhi,North,Distributor,Diya Patel,Monitor,Electronics,7,16547.38,0.08,106565.13,88159.11,18406.02
+ORD-00506,2025-11-14,Customer 061,Pune,West,Distributor,Diya Patel,Printer,Electronics,7,13452.43,0.0,94167.01,67186.81,26980.2
+ORD-00507,2025-09-16,Customer 042,Kolkata,East,Distributor,Aarav Sharma,Headphones,Accessories,2,3039.71,0.05,5775.45,3800.52,1974.93
+ORD-00508,2025-11-11,Customer 074,Delhi,North,Distributor,Ananya Rao,Keyboard,Accessories,3,1837.18,0.02,5401.31,3320.48,2080.83
+ORD-00509,2025-06-30,Customer 023,Jaipur,North,Online,Aarav Sharma,Keyboard,Accessories,6,879.61,0.02,5172.11,4292.3,879.81
+ORD-00510,2025-10-06,Customer 064,Mumbai,West,Distributor,Ishaan Das,Smartphone,Electronics,6,26547.31,0.05,151319.67,103819.63,47500.04
+ORD-00511,2025-09-11,Customer 002,Jaipur,North,Distributor,Kabir Singh,Laptop,Electronics,1,65733.98,0.0,65733.98,49634.34,16099.64
+ORD-00512,2025-09-23,Customer 043,Jaipur,North,Retail Store,Ananya Rao,Mouse,Accessories,8,1119.98,0.05,8511.85,6241.88,2269.97
+ORD-00513,2025-11-15,Customer 068,Indore,Central,Online,Kabir Singh,Desk,Furniture,1,6369.43,0.05,6050.96,4608.67,1442.29
+ORD-00514,2025-04-29,Customer 035,Mumbai,West,Online,Ishaan Das,Notebook Pack,Stationery,8,259.1,0.0,2072.8,1393.59,679.21
+ORD-00515,2025-01-02,Customer 059,Hyderabad,South,Retail Store,Ananya Rao,Smartphone,Electronics,7,22024.62,0.0,154172.34,117691.81,36480.53
+ORD-00516,2025-05-09,Customer 002,Hyderabad,South,Retail Store,Ishaan Das,Keyboard,Accessories,4,2246.57,0.0,8986.28,5356.49,3629.79
+ORD-00517,2025-01-10,Customer 025,Bhopal,Central,Distributor,Ananya Rao,Desk,Furniture,6,4945.01,0.15,25219.55,18696.6,6522.95
+ORD-00518,2025-01-30,Customer 055,Ahmedabad,West,Retail Store,Aarav Sharma,Smartphone,Electronics,2,26030.97,0.05,49458.84,37448.42,12010.42
+ORD-00519,2025-02-26,Customer 013,Mumbai,West,Online,Meera Nair,Office Chair,Furniture,3,5470.06,0.05,15589.67,12234.49,3355.18
+ORD-00520,2025-10-29,Customer 032,Bhubaneswar,East,Retail Store,Meera Nair,Headphones,Accessories,7,2119.59,0.05,14095.27,8851.74,5243.53
+ORD-00521,2025-04-29,Customer 058,Chennai,South,Retail Store,Ishaan Das,Smartphone,Electronics,6,28190.33,0.02,165759.14,127482.12,38277.02
+ORD-00522,2025-01-26,Customer 074,Bhopal,Central,Retail Store,Ananya Rao,Laptop,Electronics,1,79663.31,0.1,71696.98,47904.97,23792.01
+ORD-00523,2025-04-20,Customer 031,Bhubaneswar,East,Distributor,Aarav Sharma,Laptop,Electronics,8,79511.71,0.02,623371.81,452635.1,170736.71
+ORD-00524,2025-01-21,Customer 040,Mumbai,West,Retail Store,Ananya Rao,Monitor,Electronics,4,18546.31,0.05,70475.98,51941.43,18534.55
+ORD-00525,2025-11-21,Customer 040,Nagpur,Central,Online,Ananya Rao,Mouse,Accessories,4,1205.31,0.0,4821.24,3349.01,1472.23
+ORD-00526,2025-02-24,Customer 048,Patna,East,Online,Diya Patel,Laptop,Electronics,8,76308.64,0.08,561631.59,392651.39,168980.2
+ORD-00527,2025-10-30,Customer 062,Bengaluru,South,Retail Store,Ananya Rao,Desk,Furniture,1,6367.94,0.05,6049.54,4193.01,1856.53
+ORD-00528,2025-05-14,Customer 048,Indore,Central,Distributor,Kabir Singh,Notebook Pack,Stationery,3,125.15,0.05,356.68,231.27,125.41
+ORD-00529,2025-10-22,Customer 069,Ahmedabad,West,Online,Diya Patel,Keyboard,Accessories,2,754.19,0.08,1387.71,1181.73,205.98
+ORD-00530,2025-08-08,Customer 011,Nagpur,Central,Retail Store,Kabir Singh,Laptop,Electronics,2,67560.21,0.0,135120.42,79902.12,55218.3
+ORD-00531,2025-04-18,Customer 010,Patna,East,Online,Aarav Sharma,Monitor,Electronics,2,9538.56,0.1,17169.41,11393.75,5775.66
+ORD-00532,2025-12-27,Customer 065,Bhopal,Central,Distributor,Kabir Singh,Keyboard,Accessories,5,1936.54,0.05,9198.57,5641.38,3557.19
+ORD-00533,2025-04-22,Customer 022,Chennai,South,Distributor,Meera Nair,Printer,Electronics,2,8560.94,0.02,16779.44,10439.93,6339.51
+ORD-00534,2025-12-28,Customer 027,Chandigarh,North,Distributor,Meera Nair,Office Chair,Furniture,5,8675.12,0.1,39038.04,32997.45,6040.59
+ORD-00535,2025-06-20,Customer 066,Jaipur,North,Online,Meera Nair,Keyboard,Accessories,4,969.81,0.05,3685.28,2526.85,1158.43
+ORD-00536,2025-10-22,Customer 066,Chennai,South,Retail Store,Kabir Singh,Keyboard,Accessories,3,2270.69,0.08,6267.1,5544.36,722.74
+ORD-00537,2025-07-02,Customer 072,Jaipur,North,Distributor,Ishaan Das,Desk,Furniture,2,6179.13,0.0,12358.26,7869.84,4488.42
+ORD-00538,2025-07-16,Customer 051,Jaipur,North,Online,Ananya Rao,Mouse,Accessories,5,327.48,0.15,1391.79,998.36,393.43
+ORD-00539,2025-02-05,Customer 075,Bengaluru,South,Online,Meera Nair,Smartphone,Electronics,7,19357.08,0.1,121949.6,102189.46,19760.14
+ORD-00540,2025-10-07,Customer 009,Patna,East,Online,Aarav Sharma,Smartphone,Electronics,1,27685.86,0.08,25470.99,21090.09,4380.9
+ORD-00541,2025-01-22,Customer 005,Pune,West,Retail Store,Diya Patel,Keyboard,Accessories,8,1613.73,0.05,12264.35,9648.11,2616.24
+ORD-00542,2025-09-20,Customer 054,Chennai,South,Retail Store,Meera Nair,Smartphone,Electronics,8,26225.3,0.08,193018.21,143695.91,49322.3
+ORD-00543,2025-09-03,Customer 049,Mumbai,West,Distributor,Ananya Rao,Monitor,Electronics,4,10924.67,0.02,42824.71,31002.69,11822.02
+ORD-00544,2025-12-31,Customer 018,Nagpur,Central,Retail Store,Aarav Sharma,Office Chair,Furniture,4,8500.99,0.0,34003.96,23021.58,10982.38
+ORD-00545,2025-11-07,Customer 069,Chennai,South,Distributor,Diya Patel,Printer,Electronics,7,11758.67,0.08,75725.83,60413.69,15312.14
+ORD-00546,2025-08-02,Customer 001,Bengaluru,South,Retail Store,Meera Nair,Headphones,Accessories,7,2961.71,0.05,19695.37,15040.78,4654.59
+ORD-00547,2025-10-11,Customer 055,Nagpur,Central,Retail Store,Diya Patel,Smartphone,Electronics,1,25383.6,0.1,22845.24,18859.31,3985.93
+ORD-00548,2025-04-10,Customer 059,Chennai,South,Online,Ishaan Das,Office Chair,Furniture,1,8645.92,0.02,8473.0,6537.73,1935.27
+ORD-00549,2025-11-25,Customer 015,Bengaluru,South,Distributor,Meera Nair,Keyboard,Accessories,4,1623.59,0.05,6169.64,4462.27,1707.37
+ORD-00550,2025-08-05,Customer 003,Bhopal,Central,Online,Aarav Sharma,Keyboard,Accessories,7,1874.31,0.05,12464.16,8769.2,3694.96
+ORD-00551,2025-05-01,Customer 077,Delhi,North,Retail Store,Kabir Singh,Laptop,Electronics,7,68281.43,0.05,454071.51,385527.97,68543.54
+ORD-00552,2025-02-22,Customer 032,Chandigarh,North,Online,Meera Nair,Office Chair,Furniture,5,6143.88,0.0,30719.4,20311.46,10407.94
+ORD-00553,2025-01-14,Customer 030,Ahmedabad,West,Online,Aarav Sharma,Keyboard,Accessories,7,1967.76,0.1,12396.89,8355.46,4041.43
+ORD-00554,2025-05-20,Customer 065,Chennai,South,Online,Ananya Rao,Mouse,Accessories,5,1352.96,0.05,6426.56,4006.29,2420.27
+ORD-00555,2025-12-19,Customer 041,Nagpur,Central,Distributor,Ananya Rao,Mouse,Accessories,8,850.46,0.05,6463.5,4291.88,2171.62
+ORD-00556,2025-11-19,Customer 031,Kolkata,East,Online,Ananya Rao,Monitor,Electronics,7,14983.2,0.0,104882.4,78024.49,26857.91
+ORD-00557,2025-10-10,Customer 029,Indore,Central,Retail Store,Ishaan Das,Mouse,Accessories,4,568.78,0.0,2275.12,1833.03,442.09
+ORD-00558,2025-10-30,Customer 072,Chandigarh,North,Distributor,Diya Patel,Notebook Pack,Stationery,8,175.83,0.08,1294.11,972.02,322.09
+ORD-00559,2025-09-07,Customer 072,Pune,West,Online,Ishaan Das,Desk,Furniture,7,4032.14,0.02,27660.48,22037.89,5622.59
+ORD-00560,2025-02-13,Customer 068,Pune,West,Distributor,Meera Nair,Office Chair,Furniture,2,6086.89,0.05,11565.09,7689.34,3875.75
+ORD-00561,2025-05-09,Customer 020,Pune,West,Retail Store,Diya Patel,Smartphone,Electronics,4,23153.31,0.08,85204.18,73991.43,11212.75
+ORD-00562,2025-07-25,Customer 061,Bhopal,Central,Online,Ishaan Das,Desk,Furniture,2,8523.89,0.1,15343.0,13279.9,2063.1
+ORD-00563,2025-04-04,Customer 060,Bengaluru,South,Distributor,Meera Nair,Notebook Pack,Stationery,5,195.06,0.08,897.28,569.53,327.75
+ORD-00564,2025-08-15,Customer 072,Ahmedabad,West,Online,Meera Nair,Laptop,Electronics,8,74955.26,0.1,539677.87,402088.58,137589.29
+ORD-00565,2025-05-01,Customer 033,Bengaluru,South,Retail Store,Ananya Rao,Laptop,Electronics,7,73622.23,0.05,489587.83,340924.28,148663.55
+ORD-00566,2025-07-06,Customer 058,Jaipur,North,Online,Kabir Singh,Keyboard,Accessories,2,1502.34,0.05,2854.45,2442.15,412.3
+ORD-00567,2025-06-12,Customer 007,Chennai,South,Retail Store,Ananya Rao,Smartphone,Electronics,5,22115.45,0.05,105048.39,77384.97,27663.42
+ORD-00568,2025-04-27,Customer 078,Bhopal,Central,Online,Diya Patel,Smartphone,Electronics,6,31300.02,0.02,184044.12,140148.69,43895.43
+ORD-00569,2025-12-29,Customer 072,Bhopal,Central,Retail Store,Diya Patel,Laptop,Electronics,2,72883.24,0.0,145766.48,106153.08,39613.4
+ORD-00570,2025-04-06,Customer 039,Bhubaneswar,East,Online,Diya Patel,Notebook Pack,Stationery,6,214.41,0.05,1222.14,932.61,289.53
+ORD-00571,2025-04-28,Customer 062,Delhi,North,Distributor,Kabir Singh,Office Chair,Furniture,4,5199.66,0.08,19134.75,17032.7,2102.05
+ORD-00572,2025-01-16,Customer 051,Bengaluru,South,Distributor,Ishaan Das,Office Chair,Furniture,1,8403.08,0.1,7562.77,6541.18,1021.59
+ORD-00573,2025-05-16,Customer 049,Kolkata,East,Distributor,Ananya Rao,Printer,Electronics,2,12073.8,0.1,21732.84,14714.33,7018.51
+ORD-00574,2025-08-15,Customer 040,Kolkata,East,Retail Store,Kabir Singh,Smartphone,Electronics,8,18364.24,0.1,132222.53,87915.89,44306.64
+ORD-00575,2025-09-21,Customer 060,Mumbai,West,Distributor,Meera Nair,Smartphone,Electronics,3,24233.59,0.05,69065.73,45062.72,24003.01
+ORD-00576,2025-01-02,Customer 027,Kolkata,East,Retail Store,Meera Nair,Headphones,Accessories,4,2227.82,0.1,8020.15,7078.69,941.46
+ORD-00577,2025-10-12,Customer 073,Delhi,North,Distributor,Diya Patel,Notebook Pack,Stationery,7,133.17,0.1,838.97,560.52,278.45
+ORD-00578,2025-02-15,Customer 034,Chandigarh,North,Distributor,Kabir Singh,Office Chair,Furniture,4,11097.53,0.15,37731.6,30127.08,7604.52
+ORD-00579,2025-11-02,Customer 038,Mumbai,West,Online,Ishaan Das,Notebook Pack,Stationery,5,215.62,0.0,1078.1,662.6,415.5
+ORD-00580,2025-06-16,Customer 049,Hyderabad,South,Online,Meera Nair,Desk,Furniture,5,4779.04,0.08,21983.58,15873.43,6110.15
+ORD-00581,2025-04-21,Customer 044,Indore,Central,Retail Store,Ananya Rao,Keyboard,Accessories,8,1436.39,0.1,10342.01,7412.61,2929.4
+ORD-00582,2025-10-27,Customer 059,Mumbai,West,Distributor,Ishaan Das,Smartphone,Electronics,4,20764.75,0.1,74753.1,64581.38,10171.72
+ORD-00583,2025-11-30,Customer 018,Hyderabad,South,Distributor,Meera Nair,Mouse,Accessories,3,1353.54,0.02,3979.41,3263.27,716.14
+ORD-00584,2025-11-17,Customer 070,Hyderabad,South,Online,Kabir Singh,Mouse,Accessories,5,735.87,0.05,3495.38,2436.56,1058.82
+ORD-00585,2025-01-22,Customer 010,Chandigarh,North,Online,Aarav Sharma,Headphones,Accessories,6,1172.01,0.05,6680.46,5576.87,1103.59
+ORD-00586,2025-03-30,Customer 018,Ahmedabad,West,Online,Aarav Sharma,Printer,Electronics,6,10667.81,0.05,60806.52,44257.95,16548.57
+ORD-00587,2025-08-13,Customer 002,Bengaluru,South,Distributor,Meera Nair,Headphones,Accessories,2,1554.66,0.08,2860.57,2370.53,490.04
+ORD-00588,2025-10-28,Customer 008,Patna,East,Distributor,Ananya Rao,Mouse,Accessories,5,1242.37,0.02,6087.61,4917.23,1170.38
+ORD-00589,2025-05-04,Customer 062,Nagpur,Central,Retail Store,Aarav Sharma,Monitor,Electronics,8,16974.96,0.1,122219.71,111130.82,11088.89
+ORD-00590,2025-10-19,Customer 069,Chandigarh,North,Retail Store,Aarav Sharma,Smartphone,Electronics,4,29394.82,0.1,105821.35,80975.54,24845.81
+ORD-00591,2025-11-29,Customer 068,Chandigarh,North,Retail Store,Kabir Singh,Mouse,Accessories,2,900.29,0.0,1800.58,1141.9,658.68
+ORD-00592,2025-05-24,Customer 003,Patna,East,Distributor,Ananya Rao,Office Chair,Furniture,7,7275.87,0.05,48384.54,32546.77,15837.77
+ORD-00593,2025-03-08,Customer 023,Mumbai,West,Online,Kabir Singh,Desk,Furniture,5,8423.4,0.0,42117.0,30238.19,11878.81
+ORD-00594,2025-10-22,Customer 031,Bengaluru,South,Distributor,Kabir Singh,Office Chair,Furniture,4,8799.97,0.05,33439.89,23783.67,9656.22
+ORD-00595,2025-07-01,Customer 046,Kolkata,East,Retail Store,Aarav Sharma,Desk,Furniture,3,6255.41,0.05,17827.92,14567.86,3260.06
+ORD-00596,2025-08-01,Customer 052,Kolkata,East,Distributor,Diya Patel,Notebook Pack,Stationery,6,141.45,0.1,763.83,666.12,97.71
+ORD-00597,2025-04-10,Customer 039,Hyderabad,South,Online,Ananya Rao,Smartphone,Electronics,1,21994.37,0.08,20234.82,14017.2,6217.62
+ORD-00598,2025-08-01,Customer 012,Jaipur,North,Retail Store,Meera Nair,Monitor,Electronics,6,12061.5,0.05,68750.55,58450.64,10299.91
+ORD-00599,2025-05-22,Customer 061,Bhopal,Central,Distributor,Aarav Sharma,Office Chair,Furniture,1,11408.61,0.1,10267.75,7071.15,3196.6
+ORD-00600,2025-11-16,Customer 011,Chennai,South,Retail Store,Ananya Rao,Keyboard,Accessories,7,561.08,0.05,3731.18,3098.75,632.43
+ORD-00601,2025-11-07,Customer 073,Bhubaneswar,East,Distributor,Aarav Sharma,Notebook Pack,Stationery,6,149.82,0.1,809.03,674.45,134.58
+ORD-00602,2025-07-14,Customer 028,Hyderabad,South,Distributor,Meera Nair,Laptop,Electronics,4,80172.23,0.02,314275.14,199113.81,115161.33
+ORD-00603,2025-07-23,Customer 006,Bhubaneswar,East,Distributor,Ishaan Das,Notebook Pack,Stationery,7,124.51,0.02,854.14,534.69,319.45
+ORD-00604,2025-12-21,Customer 073,Nagpur,Central,Online,Diya Patel,Laptop,Electronics,7,68848.76,0.05,457844.25,394136.14,63708.11
+ORD-00605,2025-05-28,Customer 003,Bhubaneswar,East,Distributor,Diya Patel,Laptop,Electronics,4,73708.91,0.1,265352.08,196144.59,69207.49
+ORD-00606,2025-07-23,Customer 010,Pune,West,Online,Kabir Singh,Notebook Pack,Stationery,4,110.23,0.1,396.83,338.77,58.06
+ORD-00607,2025-04-23,Customer 073,Chennai,South,Distributor,Kabir Singh,Smartphone,Electronics,2,30500.67,0.0,61001.34,39754.71,21246.63
+ORD-00608,2025-05-24,Customer 050,Patna,East,Online,Ananya Rao,Smartphone,Electronics,5,22677.31,0.02,111118.82,78283.09,32835.73
+ORD-00609,2025-10-19,Customer 065,Chandigarh,North,Retail Store,Aarav Sharma,Smartphone,Electronics,1,27893.74,0.05,26499.05,16801.69,9697.36
+ORD-00610,2025-07-13,Customer 056,Delhi,North,Online,Ishaan Das,Office Chair,Furniture,7,5724.84,0.1,36066.49,26710.67,9355.82
+ORD-00611,2025-06-22,Customer 079,Nagpur,Central,Retail Store,Ishaan Das,Monitor,Electronics,2,11239.95,0.05,21355.9,13216.04,8139.86
+ORD-00612,2025-03-17,Customer 035,Jaipur,North,Retail Store,Diya Patel,Mouse,Accessories,2,1082.61,0.1,1948.7,1297.81,650.89
+ORD-00613,2025-07-27,Customer 071,Kolkata,East,Retail Store,Diya Patel,Keyboard,Accessories,4,2152.4,0.08,7920.83,6386.57,1534.26
+ORD-00614,2025-10-19,Customer 049,Bhopal,Central,Distributor,Ishaan Das,Printer,Electronics,5,11722.3,0.1,52750.35,35408.69,17341.66
+ORD-00615,2025-08-03,Customer 010,Bengaluru,South,Retail Store,Diya Patel,Office Chair,Furniture,1,11113.64,0.05,10557.96,8247.24,2310.72
+ORD-00616,2025-01-27,Customer 020,Ahmedabad,West,Retail Store,Ishaan Das,Laptop,Electronics,7,81847.0,0.0,572929.0,442234.17,130694.83
+ORD-00617,2025-03-21,Customer 014,Bhubaneswar,East,Online,Ishaan Das,Keyboard,Accessories,2,1932.77,0.05,3672.26,2843.74,828.52
+ORD-00618,2025-01-18,Customer 047,Pune,West,Online,Diya Patel,Printer,Electronics,5,8577.94,0.0,42889.7,26079.83,16809.87
+ORD-00619,2025-10-15,Customer 024,Jaipur,North,Retail Store,Kabir Singh,Smartphone,Electronics,1,22919.75,0.02,22461.35,17099.34,5362.01
+ORD-00620,2025-08-21,Customer 066,Indore,Central,Online,Aarav Sharma,Headphones,Accessories,6,2679.26,0.15,13664.23,10810.8,2853.43
+ORD-00621,2025-07-16,Customer 046,Chandigarh,North,Online,Kabir Singh,Keyboard,Accessories,6,1905.68,0.15,9718.97,8954.98,763.99
+ORD-00622,2025-01-28,Customer 042,Indore,Central,Online,Ishaan Das,Laptop,Electronics,5,75655.02,0.05,359361.35,281087.32,78274.03
+ORD-00623,2025-10-02,Customer 050,Mumbai,West,Distributor,Kabir Singh,Monitor,Electronics,3,14909.56,0.0,44728.68,32339.1,12389.58
+ORD-00624,2025-12-31,Customer 074,Hyderabad,South,Online,Ananya Rao,Notebook Pack,Stationery,1,124.06,0.05,117.86,93.72,24.14
+ORD-00625,2025-10-19,Customer 022,Mumbai,West,Retail Store,Ishaan Das,Smartphone,Electronics,8,18629.5,0.1,134132.4,111246.63,22885.77
+ORD-00626,2025-03-02,Customer 064,Bhubaneswar,East,Online,Diya Patel,Desk,Furniture,1,3655.61,0.05,3472.83,2368.13,1104.7
+ORD-00627,2025-10-07,Customer 036,Pune,West,Retail Store,Meera Nair,Printer,Electronics,3,13886.5,0.02,40826.31,30952.8,9873.51
+ORD-00628,2025-06-08,Customer 047,Jaipur,North,Online,Ananya Rao,Notebook Pack,Stationery,1,252.05,0.15,214.24,190.9,23.34
+ORD-00629,2025-01-21,Customer 077,Ahmedabad,West,Online,Meera Nair,Desk,Furniture,2,7968.84,0.08,14662.67,10092.84,4569.83
+ORD-00630,2025-03-22,Customer 018,Jaipur,North,Online,Meera Nair,Keyboard,Accessories,4,1379.32,0.1,4965.55,4105.53,860.02
+ORD-00631,2025-05-09,Customer 080,Kolkata,East,Retail Store,Meera Nair,Notebook Pack,Stationery,8,128.68,0.05,977.97,608.36,369.61
+ORD-00632,2025-08-26,Customer 056,Patna,East,Distributor,Diya Patel,Smartphone,Electronics,7,24061.98,0.05,160012.17,107609.95,52402.22
+ORD-00633,2025-10-04,Customer 042,Patna,East,Distributor,Diya Patel,Headphones,Accessories,3,1667.42,0.0,5002.26,3822.74,1179.52
+ORD-00634,2025-08-03,Customer 041,Mumbai,West,Retail Store,Ishaan Das,Monitor,Electronics,4,13562.83,0.05,51538.75,42077.91,9460.84
+ORD-00635,2025-05-31,Customer 063,Patna,East,Online,Ishaan Das,Office Chair,Furniture,5,11076.81,0.08,50953.33,37860.73,13092.6
+ORD-00636,2025-10-04,Customer 036,Pune,West,Retail Store,Aarav Sharma,Smartphone,Electronics,6,24410.56,0.05,139140.19,103413.09,35727.1
+ORD-00637,2025-03-20,Customer 026,Nagpur,Central,Distributor,Diya Patel,Office Chair,Furniture,5,7403.96,0.0,37019.8,25118.15,11901.65
+ORD-00638,2025-02-08,Customer 004,Nagpur,Central,Retail Store,Ananya Rao,Notebook Pack,Stationery,5,247.53,0.0,1237.65,902.43,335.22
+ORD-00639,2025-11-22,Customer 057,Chennai,South,Distributor,Aarav Sharma,Desk,Furniture,1,4872.51,0.0,4872.51,3079.58,1792.93
+ORD-00640,2025-01-08,Customer 064,Mumbai,West,Distributor,Ishaan Das,Smartphone,Electronics,3,23618.29,0.05,67312.13,41112.66,26199.47
+ORD-00641,2025-02-15,Customer 033,Hyderabad,South,Online,Ananya Rao,Smartphone,Electronics,2,25695.43,0.05,48821.32,36570.53,12250.79
+ORD-00642,2025-02-04,Customer 049,Mumbai,West,Retail Store,Kabir Singh,Office Chair,Furniture,2,4669.61,0.15,7938.34,5659.51,2278.83
+ORD-00643,2025-09-16,Customer 075,Pune,West,Distributor,Kabir Singh,Smartphone,Electronics,2,31737.87,0.08,58397.68,46113.19,12284.49
+ORD-00644,2025-02-23,Customer 070,Mumbai,West,Retail Store,Ananya Rao,Printer,Electronics,8,7207.51,0.15,49011.07,36266.07,12745.0
+ORD-00645,2025-11-13,Customer 077,Nagpur,Central,Online,Aarav Sharma,Notebook Pack,Stationery,5,149.11,0.15,633.72,459.12,174.6
+ORD-00646,2025-06-03,Customer 046,Bengaluru,South,Distributor,Kabir Singh,Desk,Furniture,8,5585.19,0.08,41107.0,36294.69,4812.31
+ORD-00647,2025-08-05,Customer 073,Chandigarh,North,Distributor,Ananya Rao,Laptop,Electronics,4,74652.79,0.08,274722.27,183886.01,90836.26
+ORD-00648,2025-12-03,Customer 043,Pune,West,Online,Aarav Sharma,Printer,Electronics,5,11888.11,0.05,56468.52,36686.5,19782.02
+ORD-00649,2025-10-28,Customer 034,Delhi,North,Distributor,Ananya Rao,Headphones,Accessories,3,1013.75,0.08,2797.95,2493.38,304.57
+ORD-00650,2025-11-08,Customer 072,Nagpur,Central,Distributor,Kabir Singh,Printer,Electronics,1,7788.37,0.08,7165.3,4629.39,2535.91
+ORD-00651,2025-03-03,Customer 058,Chennai,South,Retail Store,Meera Nair,Printer,Electronics,3,11205.17,0.05,31934.73,25122.48,6812.25
+ORD-00652,2025-09-07,Customer 065,Bhopal,Central,Retail Store,Aarav Sharma,Printer,Electronics,5,8161.1,0.05,38765.22,32303.99,6461.23
+ORD-00653,2025-12-04,Customer 014,Pune,West,Retail Store,Aarav Sharma,Notebook Pack,Stationery,7,137.89,0.0,965.23,616.5,348.73
+ORD-00654,2025-06-22,Customer 019,Jaipur,North,Retail Store,Ishaan Das,Notebook Pack,Stationery,1,257.59,0.02,252.44,199.78,52.66
+ORD-00655,2025-12-28,Customer 027,Ahmedabad,West,Retail Store,Ishaan Das,Smartphone,Electronics,6,23855.88,0.05,135978.52,110443.78,25534.74
+ORD-00656,2025-04-14,Customer 013,Pune,West,Distributor,Ananya Rao,Laptop,Electronics,8,79880.01,0.0,639040.08,489763.69,149276.39
+ORD-00657,2025-03-10,Customer 041,Mumbai,West,Retail Store,Aarav Sharma,Smartphone,Electronics,4,25250.3,0.05,95951.14,62387.04,33564.1
+ORD-00658,2025-11-30,Customer 003,Jaipur,North,Distributor,Aarav Sharma,Printer,Electronics,1,8483.58,0.1,7635.22,6543.75,1091.47
+ORD-00659,2025-08-28,Customer 032,Hyderabad,South,Online,Kabir Singh,Mouse,Accessories,8,931.01,0.02,7299.12,5290.42,2008.7
+ORD-00660,2025-02-06,Customer 043,Hyderabad,South,Retail Store,Meera Nair,Office Chair,Furniture,3,6484.26,0.05,18480.14,12138.46,6341.68
+ORD-00661,2025-04-04,Customer 052,Hyderabad,South,Online,Diya Patel,Desk,Furniture,2,4205.0,0.15,7148.5,5898.55,1249.95
+ORD-00662,2025-08-26,Customer 051,Mumbai,West,Distributor,Kabir Singh,Desk,Furniture,7,7096.48,0.08,45701.33,37349.48,8351.85
+ORD-00663,2025-08-12,Customer 058,Hyderabad,South,Retail Store,Meera Nair,Keyboard,Accessories,2,1028.61,0.0,2057.22,1492.51,564.71
+ORD-00664,2025-08-12,Customer 028,Delhi,North,Retail Store,Ananya Rao,Smartphone,Electronics,1,21378.11,0.0,21378.11,15215.51,6162.6
+ORD-00665,2025-12-07,Customer 074,Delhi,North,Distributor,Diya Patel,Smartphone,Electronics,2,29072.11,0.1,52329.8,38043.21,14286.59
+ORD-00666,2025-08-11,Customer 042,Bhubaneswar,East,Retail Store,Aarav Sharma,Mouse,Accessories,5,897.46,0.05,4262.94,3308.16,954.78
+ORD-00667,2025-02-18,Customer 063,Patna,East,Distributor,Ishaan Das,Headphones,Accessories,7,1223.66,0.1,7709.06,6189.37,1519.69
+ORD-00668,2025-12-24,Customer 050,Nagpur,Central,Retail Store,Kabir Singh,Desk,Furniture,2,7601.21,0.0,15202.42,11642.93,3559.49
+ORD-00669,2025-08-28,Customer 045,Jaipur,North,Retail Store,Kabir Singh,Printer,Electronics,5,7136.04,0.1,32112.18,23203.0,8909.18
+ORD-00670,2025-02-10,Customer 039,Hyderabad,South,Distributor,Aarav Sharma,Office Chair,Furniture,8,9834.51,0.08,72381.99,50892.84,21489.15
+ORD-00671,2025-11-16,Customer 041,Bengaluru,South,Online,Ishaan Das,Monitor,Electronics,7,10098.72,0.05,67156.49,44982.22,22174.27
+ORD-00672,2025-12-13,Customer 024,Jaipur,North,Distributor,Diya Patel,Office Chair,Furniture,4,9696.33,0.05,36846.05,27808.12,9037.93
+ORD-00673,2025-03-05,Customer 050,Indore,Central,Distributor,Diya Patel,Office Chair,Furniture,4,6368.54,0.1,22926.74,18458.07,4468.67
+ORD-00674,2025-02-21,Customer 050,Indore,Central,Online,Meera Nair,Notebook Pack,Stationery,4,222.18,0.0,888.72,569.61,319.11
+ORD-00675,2025-05-20,Customer 023,Nagpur,Central,Online,Meera Nair,Headphones,Accessories,2,3230.13,0.08,5943.44,3754.68,2188.76
+ORD-00676,2025-12-26,Customer 018,Bhubaneswar,East,Retail Store,Meera Nair,Office Chair,Furniture,2,8948.79,0.05,17002.7,14350.77,2651.93
+ORD-00677,2025-09-03,Customer 007,Indore,Central,Online,Meera Nair,Monitor,Electronics,4,17994.18,0.15,61180.21,49709.67,11470.54
+ORD-00678,2025-06-13,Customer 025,Chennai,South,Distributor,Kabir Singh,Office Chair,Furniture,6,10930.65,0.02,64272.22,51993.2,12279.02
+ORD-00679,2025-06-28,Customer 053,Ahmedabad,West,Retail Store,Meera Nair,Laptop,Electronics,7,78308.25,0.08,504305.13,383122.99,121182.14
+ORD-00680,2025-08-25,Customer 063,Mumbai,West,Online,Kabir Singh,Desk,Furniture,5,4334.15,0.02,21237.33,13972.78,7264.55
+ORD-00681,2025-03-26,Customer 029,Jaipur,North,Online,Ishaan Das,Printer,Electronics,7,8455.81,0.1,53271.6,39642.43,13629.17
+ORD-00682,2025-06-11,Customer 069,Chennai,South,Online,Meera Nair,Laptop,Electronics,4,71964.92,0.02,282102.49,217504.03,64598.46
+ORD-00683,2025-01-24,Customer 064,Nagpur,Central,Distributor,Aarav Sharma,Desk,Furniture,3,8802.08,0.1,23765.62,19901.17,3864.45
+ORD-00684,2025-01-06,Customer 015,Indore,Central,Distributor,Ishaan Das,Laptop,Electronics,7,80415.72,0.05,534764.54,409027.37,125737.17
+ORD-00685,2025-02-01,Customer 006,Nagpur,Central,Retail Store,Kabir Singh,Notebook Pack,Stationery,7,119.95,0.0,839.65,619.86,219.79
+ORD-00686,2025-04-08,Customer 055,Bengaluru,South,Distributor,Ananya Rao,Office Chair,Furniture,7,9826.67,0.05,65347.36,43284.88,22062.48
+ORD-00687,2025-06-19,Customer 039,Bengaluru,South,Retail Store,Ishaan Das,Desk,Furniture,6,8554.98,0.1,46196.89,41056.41,5140.48
+ORD-00688,2025-07-19,Customer 012,Kolkata,East,Online,Diya Patel,Smartphone,Electronics,7,31504.14,0.05,209502.53,130419.44,79083.09
+ORD-00689,2025-04-07,Customer 076,Hyderabad,South,Retail Store,Ananya Rao,Laptop,Electronics,3,69380.68,0.0,208142.04,168338.81,39803.23
+ORD-00690,2025-05-23,Customer 055,Bhopal,Central,Distributor,Diya Patel,Headphones,Accessories,2,4065.95,0.1,7318.71,5967.41,1351.3
+ORD-00691,2025-01-22,Customer 027,Bengaluru,South,Distributor,Ishaan Das,Notebook Pack,Stationery,5,196.36,0.02,962.16,790.4,171.76
+ORD-00692,2025-05-01,Customer 036,Nagpur,Central,Distributor,Diya Patel,Headphones,Accessories,3,1742.12,0.08,4808.25,3854.69,953.56
+ORD-00693,2025-01-02,Customer 038,Kolkata,East,Distributor,Ishaan Das,Desk,Furniture,4,4377.21,0.08,16108.13,11292.27,4815.86
+ORD-00694,2025-08-19,Customer 013,Bhopal,Central,Retail Store,Aarav Sharma,Mouse,Accessories,3,436.51,0.05,1244.05,863.64,380.41
+ORD-00695,2025-10-16,Customer 017,Patna,East,Online,Diya Patel,Desk,Furniture,1,4561.54,0.05,4333.46,2786.78,1546.68
+ORD-00696,2025-03-11,Customer 042,Bengaluru,South,Distributor,Meera Nair,Notebook Pack,Stationery,6,249.91,0.05,1424.49,1193.97,230.52
+ORD-00697,2025-07-17,Customer 019,Ahmedabad,West,Distributor,Ishaan Das,Laptop,Electronics,6,77263.27,0.1,417221.66,362674.09,54547.57
+ORD-00698,2025-01-16,Customer 049,Pune,West,Online,Ananya Rao,Printer,Electronics,1,12715.26,0.05,12079.5,8300.53,3778.97
+ORD-00699,2025-08-06,Customer 052,Chandigarh,North,Distributor,Ishaan Das,Smartphone,Electronics,4,18891.29,0.1,68008.64,55425.43,12583.21
+ORD-00700,2025-12-30,Customer 059,Kolkata,East,Retail Store,Kabir Singh,Laptop,Electronics,6,77099.19,0.1,416335.63,288710.3,127625.33
+ORD-00701,2025-05-03,Customer 012,Chandigarh,North,Retail Store,Ananya Rao,Laptop,Electronics,2,71015.6,0.0,142031.2,88723.1,53308.1
+ORD-00702,2025-08-07,Customer 009,Patna,East,Retail Store,Diya Patel,Desk,Furniture,3,3886.28,0.0,11658.84,9325.28,2333.56
+ORD-00703,2025-06-20,Customer 028,Pune,West,Retail Store,Ishaan Das,Office Chair,Furniture,7,11250.57,0.0,78753.99,59190.07,19563.92
+ORD-00704,2025-12-25,Customer 044,Patna,East,Distributor,Diya Patel,Laptop,Electronics,5,76741.0,0.0,383705.0,239913.25,143791.75
+ORD-00705,2025-07-17,Customer 063,Indore,Central,Distributor,Aarav Sharma,Laptop,Electronics,7,81772.05,0.08,526612.0,429636.84,96975.16
+ORD-00706,2025-08-09,Customer 013,Chandigarh,North,Retail Store,Aarav Sharma,Printer,Electronics,8,11924.09,0.0,95392.72,75177.22,20215.5
+ORD-00707,2025-09-27,Customer 021,Jaipur,North,Retail Store,Aarav Sharma,Office Chair,Furniture,6,8050.64,0.15,41058.26,30999.44,10058.82
+ORD-00708,2025-01-02,Customer 026,Ahmedabad,West,Online,Ananya Rao,Keyboard,Accessories,4,830.18,0.0,3320.72,1990.21,1330.51
+ORD-00709,2025-12-09,Customer 021,Kolkata,East,Online,Ananya Rao,Monitor,Electronics,2,10719.59,0.02,21010.4,13438.23,7572.17
+ORD-00710,2025-11-12,Customer 033,Bhubaneswar,East,Retail Store,Ananya Rao,Notebook Pack,Stationery,1,179.62,0.08,165.25,132.11,33.14
+ORD-00711,2025-10-05,Customer 007,Chennai,South,Distributor,Ishaan Das,Office Chair,Furniture,3,5158.7,0.0,15476.1,12437.07,3039.03
+ORD-00712,2025-07-22,Customer 055,Hyderabad,South,Online,Ananya Rao,Printer,Electronics,7,13881.91,0.1,87456.03,71505.44,15950.59
+ORD-00713,2025-07-11,Customer 001,Delhi,North,Retail Store,Aarav Sharma,Mouse,Accessories,7,254.16,0.0,1779.12,1078.64,700.48
+ORD-00714,2025-06-02,Customer 076,Bengaluru,South,Distributor,Ananya Rao,Mouse,Accessories,1,654.46,0.08,602.1,503.77,98.33
+ORD-00715,2025-12-22,Customer 002,Mumbai,West,Distributor,Ishaan Das,Printer,Electronics,6,12483.21,0.05,71154.3,43675.14,27479.16
+ORD-00716,2025-02-23,Customer 055,Chandigarh,North,Online,Meera Nair,Keyboard,Accessories,3,1128.14,0.02,3316.73,2622.41,694.32
+ORD-00717,2025-01-13,Customer 030,Jaipur,North,Online,Ananya Rao,Monitor,Electronics,3,10668.06,0.1,28803.76,23763.82,5039.94
+ORD-00718,2025-09-11,Customer 014,Jaipur,North,Retail Store,Ishaan Das,Desk,Furniture,2,7064.52,0.05,13422.59,9684.67,3737.92
+ORD-00719,2025-03-28,Customer 049,Bengaluru,South,Distributor,Ananya Rao,Smartphone,Electronics,2,19399.05,0.0,38798.1,23737.11,15060.99
+ORD-00720,2025-07-09,Customer 009,Hyderabad,South,Distributor,Aarav Sharma,Desk,Furniture,8,5066.76,0.05,38507.38,26643.02,11864.36
+ORD-00721,2025-08-29,Customer 022,Indore,Central,Retail Store,Ananya Rao,Keyboard,Accessories,8,2246.4,0.02,17611.78,10918.59,6693.19
+ORD-00722,2025-07-25,Customer 020,Chennai,South,Distributor,Ananya Rao,Keyboard,Accessories,5,1156.52,0.1,5204.34,4574.39,629.95
+ORD-00723,2025-04-21,Customer 028,Mumbai,West,Online,Diya Patel,Desk,Furniture,1,6541.57,0.02,6410.74,4561.79,1848.95
+ORD-00724,2025-12-21,Customer 076,Chandigarh,North,Retail Store,Ishaan Das,Notebook Pack,Stationery,1,224.72,0.0,224.72,146.99,77.73
+ORD-00725,2025-04-10,Customer 041,Mumbai,West,Online,Ishaan Das,Printer,Electronics,2,7134.54,0.08,13127.55,8521.87,4605.68
+ORD-00726,2025-01-16,Customer 032,Chandigarh,North,Distributor,Kabir Singh,Laptop,Electronics,4,70757.83,0.02,277370.69,176981.45,100389.24
+ORD-00727,2025-12-24,Customer 037,Nagpur,Central,Online,Ananya Rao,Monitor,Electronics,3,10682.16,0.15,27239.51,23161.37,4078.14
+ORD-00728,2025-12-14,Customer 027,Patna,East,Distributor,Kabir Singh,Smartphone,Electronics,6,27938.97,0.08,154223.11,130210.35,24012.76
+ORD-00729,2025-03-07,Customer 051,Chennai,South,Distributor,Aarav Sharma,Desk,Furniture,4,5281.05,0.0,21124.2,15621.63,5502.57
+ORD-00730,2025-07-14,Customer 064,Chennai,South,Online,Diya Patel,Desk,Furniture,1,5015.99,0.0,5015.99,3138.88,1877.11
+ORD-00731,2025-11-03,Customer 077,Mumbai,West,Distributor,Aarav Sharma,Notebook Pack,Stationery,1,155.79,0.0,155.79,106.56,49.23
+ORD-00732,2025-08-18,Customer 041,Bhubaneswar,East,Retail Store,Kabir Singh,Desk,Furniture,3,7462.53,0.05,21268.21,15626.0,5642.21
+ORD-00733,2025-03-28,Customer 047,Ahmedabad,West,Distributor,Diya Patel,Desk,Furniture,1,7659.62,0.05,7276.64,5323.54,1953.1
+ORD-00734,2025-12-19,Customer 010,Mumbai,West,Distributor,Aarav Sharma,Smartphone,Electronics,1,31195.13,0.05,29635.37,20009.35,9626.02
+ORD-00735,2025-11-14,Customer 034,Delhi,North,Online,Aarav Sharma,Mouse,Accessories,1,304.47,0.0,304.47,178.46,126.01
+ORD-00736,2025-09-20,Customer 065,Pune,West,Distributor,Ananya Rao,Desk,Furniture,5,3893.6,0.15,16547.8,15668.97,878.83
+ORD-00737,2025-07-13,Customer 054,Indore,Central,Distributor,Meera Nair,Printer,Electronics,7,8835.16,0.0,61846.12,46816.93,15029.19
+ORD-00738,2025-08-14,Customer 069,Chandigarh,North,Distributor,Diya Patel,Keyboard,Accessories,1,662.56,0.05,629.43,386.27,243.16
+ORD-00739,2025-12-21,Customer 011,Kolkata,East,Online,Kabir Singh,Desk,Furniture,7,7907.42,0.08,50923.78,43354.4,7569.38
+ORD-00740,2025-09-16,Customer 020,Hyderabad,South,Retail Store,Meera Nair,Mouse,Accessories,4,1226.09,0.05,4659.14,3107.05,1552.09
+ORD-00741,2025-01-25,Customer 009,Indore,Central,Distributor,Meera Nair,Mouse,Accessories,4,280.13,0.02,1098.11,748.51,349.6
+ORD-00742,2025-04-11,Customer 008,Bengaluru,South,Online,Meera Nair,Smartphone,Electronics,3,25345.35,0.1,68432.44,49435.69,18996.75
+ORD-00743,2025-11-26,Customer 059,Chandigarh,North,Distributor,Aarav Sharma,Printer,Electronics,2,13074.18,0.0,26148.36,15815.64,10332.72
+ORD-00744,2025-05-05,Customer 023,Bhubaneswar,East,Online,Ananya Rao,Notebook Pack,Stationery,5,200.94,0.1,904.23,724.9,179.33
+ORD-00745,2025-11-19,Customer 002,Bengaluru,South,Retail Store,Ishaan Das,Monitor,Electronics,3,9394.41,0.0,28183.23,16608.19,11575.04
+ORD-00746,2025-05-24,Customer 067,Nagpur,Central,Retail Store,Diya Patel,Laptop,Electronics,3,73423.35,0.05,209256.55,157392.61,51863.94
+ORD-00747,2025-12-08,Customer 017,Patna,East,Retail Store,Ananya Rao,Desk,Furniture,5,7168.29,0.05,34049.38,23766.16,10283.22
+ORD-00748,2025-09-05,Customer 004,Jaipur,North,Retail Store,Ishaan Das,Headphones,Accessories,5,2868.23,0.05,13624.09,9454.78,4169.31
+ORD-00749,2025-08-03,Customer 009,Indore,Central,Distributor,Kabir Singh,Notebook Pack,Stationery,3,104.31,0.05,297.28,248.54,48.74
+ORD-00750,2025-08-25,Customer 064,Jaipur,North,Distributor,Ishaan Das,Printer,Electronics,1,13341.31,0.0,13341.31,9362.13,3979.18
+ORD-00751,2025-09-22,Customer 064,Chandigarh,North,Online,Ishaan Das,Desk,Furniture,5,8534.68,0.05,40539.73,34523.82,6015.91
+ORD-00752,2025-01-04,Customer 033,Bengaluru,South,Distributor,Ananya Rao,Laptop,Electronics,3,79726.69,0.15,203303.06,170688.41,32614.65
+ORD-00753,2025-07-08,Customer 030,Chandigarh,North,Distributor,Aarav Sharma,Headphones,Accessories,5,2711.63,0.15,11524.43,9293.1,2231.33
+ORD-00754,2025-09-08,Customer 002,Delhi,North,Online,Meera Nair,Smartphone,Electronics,3,19936.02,0.08,55023.42,48670.98,6352.44
+ORD-00755,2025-08-26,Customer 050,Bhubaneswar,East,Online,Aarav Sharma,Laptop,Electronics,2,80757.82,0.0,161515.64,97949.68,63565.96
+ORD-00756,2025-09-28,Customer 054,Bhopal,Central,Retail Store,Diya Patel,Laptop,Electronics,6,76015.38,0.0,456092.28,355871.23,100221.05
+ORD-00757,2025-06-10,Customer 041,Pune,West,Online,Kabir Singh,Printer,Electronics,4,13523.93,0.1,48686.15,38073.42,10612.73
+ORD-00758,2025-11-28,Customer 016,Patna,East,Distributor,Aarav Sharma,Office Chair,Furniture,3,8041.83,0.0,24125.49,17807.58,6317.91
+ORD-00759,2025-12-31,Customer 029,Hyderabad,South,Online,Meera Nair,Smartphone,Electronics,5,18761.35,0.02,91930.62,59632.89,32297.73
+ORD-00760,2025-07-06,Customer 060,Jaipur,North,Retail Store,Ishaan Das,Desk,Furniture,5,7827.33,0.0,39136.65,30685.8,8450.85
+ORD-00761,2025-04-14,Customer 071,Jaipur,North,Online,Ishaan Das,Keyboard,Accessories,4,1752.11,0.05,6658.02,4324.25,2333.77
+ORD-00762,2025-05-05,Customer 038,Hyderabad,South,Retail Store,Ananya Rao,Office Chair,Furniture,5,5104.52,0.1,22970.34,20464.77,2505.57
+ORD-00763,2025-06-06,Customer 032,Indore,Central,Retail Store,Kabir Singh,Keyboard,Accessories,6,1559.44,0.15,7953.14,5983.54,1969.6
+ORD-00764,2025-07-25,Customer 026,Ahmedabad,West,Distributor,Diya Patel,Monitor,Electronics,1,15743.29,0.05,14956.13,10349.03,4607.1
+ORD-00765,2025-06-10,Customer 001,Chennai,South,Online,Diya Patel,Laptop,Electronics,5,69488.57,0.02,340493.99,204888.32,135605.67
+ORD-00766,2025-08-06,Customer 045,Nagpur,Central,Distributor,Aarav Sharma,Keyboard,Accessories,3,2170.04,0.05,6184.61,4836.87,1347.74
+ORD-00767,2025-09-13,Customer 001,Patna,East,Retail Store,Ananya Rao,Monitor,Electronics,3,18859.69,0.08,52052.74,40409.8,11642.94
+ORD-00768,2025-04-30,Customer 014,Bhubaneswar,East,Distributor,Diya Patel,Notebook Pack,Stationery,1,86.32,0.15,73.37,66.27,7.1
+ORD-00769,2025-04-18,Customer 063,Mumbai,West,Online,Ananya Rao,Mouse,Accessories,2,273.51,0.1,492.32,376.5,115.82
+ORD-00770,2025-11-26,Customer 012,Bhubaneswar,East,Online,Kabir Singh,Desk,Furniture,7,3536.94,0.02,24263.41,18824.39,5439.02
+ORD-00771,2025-02-03,Customer 048,Pune,West,Distributor,Aarav Sharma,Monitor,Electronics,1,12615.07,0.05,11984.32,10243.73,1740.59
+ORD-00772,2025-08-15,Customer 013,Nagpur,Central,Online,Ananya Rao,Keyboard,Accessories,4,1349.54,0.05,5128.25,3661.47,1466.78
+ORD-00773,2025-05-17,Customer 010,Ahmedabad,West,Distributor,Aarav Sharma,Printer,Electronics,6,13113.72,0.1,70814.09,63237.49,7576.6
+ORD-00774,2025-06-07,Customer 017,Mumbai,West,Retail Store,Ishaan Das,Headphones,Accessories,5,2359.09,0.08,10851.81,9214.58,1637.23
+ORD-00775,2025-11-26,Customer 051,Patna,East,Distributor,Ishaan Das,Printer,Electronics,5,12497.83,0.08,57490.02,47433.77,10056.25
+ORD-00776,2025-09-13,Customer 058,Kolkata,East,Online,Aarav Sharma,Monitor,Electronics,2,14980.49,0.08,27564.1,17395.19,10168.91
+ORD-00777,2025-12-16,Customer 018,Hyderabad,South,Online,Diya Patel,Keyboard,Accessories,5,745.36,0.1,3354.12,2802.9,551.22
+ORD-00778,2025-08-11,Customer 022,Jaipur,North,Retail Store,Ishaan Das,Monitor,Electronics,7,13704.51,0.1,86338.41,65172.71,21165.7
+ORD-00779,2025-12-21,Customer 016,Ahmedabad,West,Retail Store,Diya Patel,Printer,Electronics,4,11658.98,0.08,42905.05,33396.27,9508.78
+ORD-00780,2025-01-01,Customer 040,Pune,West,Retail Store,Aarav Sharma,Monitor,Electronics,4,18719.24,0.08,68886.8,48425.76,20461.04
+ORD-00781,2025-07-09,Customer 021,Chandigarh,North,Retail Store,Ananya Rao,Mouse,Accessories,5,1386.13,0.15,5891.05,5548.25,342.8
+ORD-00782,2025-09-16,Customer 006,Bhopal,Central,Retail Store,Diya Patel,Keyboard,Accessories,7,1657.92,0.0,11605.44,8244.55,3360.89
+ORD-00783,2025-10-23,Customer 032,Jaipur,North,Retail Store,Kabir Singh,Monitor,Electronics,5,19418.87,0.0,97094.35,65191.64,31902.71
+ORD-00784,2025-07-10,Customer 039,Jaipur,North,Online,Aarav Sharma,Monitor,Electronics,5,14187.9,0.0,70939.5,43758.8,27180.7
+ORD-00785,2025-05-19,Customer 058,Ahmedabad,West,Distributor,Kabir Singh,Keyboard,Accessories,8,592.57,0.0,4740.56,3288.21,1452.35
+ORD-00786,2025-06-26,Customer 013,Chennai,South,Online,Diya Patel,Laptop,Electronics,2,76987.14,0.1,138576.85,97741.52,40835.33
+ORD-00787,2025-09-18,Customer 002,Delhi,North,Online,Diya Patel,Printer,Electronics,7,8928.66,0.1,56250.56,44411.91,11838.65
+ORD-00788,2025-02-26,Customer 052,Chennai,South,Distributor,Ananya Rao,Printer,Electronics,8,8301.98,0.05,63095.05,46028.07,17066.98
+ORD-00789,2025-06-03,Customer 075,Chandigarh,North,Retail Store,Aarav Sharma,Desk,Furniture,8,4129.45,0.1,29732.04,26008.39,3723.65
+ORD-00790,2025-12-31,Customer 009,Delhi,North,Distributor,Meera Nair,Notebook Pack,Stationery,5,141.93,0.05,674.17,461.41,212.76
+ORD-00791,2025-01-15,Customer 012,Chennai,South,Online,Aarav Sharma,Monitor,Electronics,8,20110.11,0.08,148010.41,113169.51,34840.9
+ORD-00792,2025-07-01,Customer 007,Mumbai,West,Distributor,Meera Nair,Printer,Electronics,6,10531.46,0.1,56869.88,39446.66,17423.22
+ORD-00793,2025-04-18,Customer 064,Mumbai,West,Retail Store,Ananya Rao,Mouse,Accessories,3,1239.84,0.05,3533.54,2904.68,628.86
+ORD-00794,2025-10-24,Customer 023,Pune,West,Online,Diya Patel,Headphones,Accessories,3,3414.43,0.0,10243.29,6695.96,3547.33
+ORD-00795,2025-11-21,Customer 036,Kolkata,East,Online,Aarav Sharma,Desk,Furniture,3,5628.59,0.1,15197.19,10833.95,4363.24
+ORD-00796,2025-04-28,Customer 080,Nagpur,Central,Online,Ananya Rao,Monitor,Electronics,6,9884.54,0.1,53376.52,45671.65,7704.87
+ORD-00797,2025-08-17,Customer 064,Kolkata,East,Distributor,Meera Nair,Desk,Furniture,5,8533.26,0.1,38399.67,28744.59,9655.08
+ORD-00798,2025-09-21,Customer 012,Jaipur,North,Retail Store,Diya Patel,Smartphone,Electronics,4,28911.01,0.02,113331.16,89384.96,23946.2
+ORD-00799,2025-01-23,Customer 026,Ahmedabad,West,Distributor,Diya Patel,Office Chair,Furniture,2,5107.6,0.0,10215.2,8370.77,1844.43
+ORD-00800,2025-10-22,Customer 003,Indore,Central,Distributor,Ishaan Das,Printer,Electronics,7,13562.78,0.15,80698.54,65052.13,15646.41
+ORD-00801,2025-09-06,Customer 070,Pune,West,Retail Store,Kabir Singh,Headphones,Accessories,3,2553.99,0.02,7508.73,6164.3,1344.43
+ORD-00802,2025-02-17,Customer 042,Indore,Central,Retail Store,Diya Patel,Monitor,Electronics,1,10718.36,0.02,10503.99,6728.45,3775.54
+ORD-00803,2025-04-02,Customer 041,Chandigarh,North,Online,Aarav Sharma,Headphones,Accessories,3,1980.79,0.08,5466.98,4716.23,750.75
+ORD-00804,2025-08-28,Customer 008,Kolkata,East,Distributor,Ishaan Das,Mouse,Accessories,5,1048.71,0.05,4981.37,3242.28,1739.09
+ORD-00805,2025-11-04,Customer 030,Bhopal,Central,Online,Diya Patel,Office Chair,Furniture,3,8852.68,0.02,26026.88,18277.77,7749.11
+ORD-00806,2025-12-18,Customer 035,Hyderabad,South,Distributor,Aarav Sharma,Smartphone,Electronics,7,27358.21,0.05,181932.1,151758.01,30174.09
+ORD-00807,2025-03-17,Customer 074,Chennai,South,Retail Store,Diya Patel,Notebook Pack,Stationery,8,114.16,0.0,913.28,741.25,172.03
+ORD-00808,2025-08-23,Customer 031,Hyderabad,South,Retail Store,Ananya Rao,Printer,Electronics,5,9825.47,0.08,45197.16,29222.66,15974.5
+ORD-00809,2025-07-27,Customer 076,Bhubaneswar,East,Distributor,Ananya Rao,Keyboard,Accessories,1,2028.64,0.05,1927.21,1311.27,615.94
+ORD-00810,2025-03-21,Customer 073,Patna,East,Online,Kabir Singh,Monitor,Electronics,1,18790.0,0.0,18790.0,11131.82,7658.18
+ORD-00811,2025-09-03,Customer 064,Hyderabad,South,Retail Store,Diya Patel,Monitor,Electronics,3,13672.01,0.02,40195.71,32246.92,7948.79
+ORD-00812,2025-05-08,Customer 005,Mumbai,West,Online,Diya Patel,Monitor,Electronics,3,11522.31,0.05,32838.58,21734.16,11104.42
+ORD-00813,2025-10-06,Customer 029,Bhopal,Central,Distributor,Meera Nair,Office Chair,Furniture,7,5609.71,0.05,37304.57,31063.79,6240.78
+ORD-00814,2025-01-31,Customer 043,Chandigarh,North,Online,Diya Patel,Printer,Electronics,1,8201.4,0.1,7381.26,6508.66,872.6
+ORD-00815,2025-03-31,Customer 023,Kolkata,East,Online,Aarav Sharma,Notebook Pack,Stationery,4,155.57,0.02,609.83,380.13,229.7
+ORD-00816,2025-03-29,Customer 076,Hyderabad,South,Online,Aarav Sharma,Mouse,Accessories,4,912.19,0.05,3466.32,2651.18,815.14
+ORD-00817,2025-09-27,Customer 047,Bhopal,Central,Retail Store,Ananya Rao,Headphones,Accessories,1,3509.22,0.1,3158.3,2306.57,851.73
+ORD-00818,2025-05-07,Customer 076,Mumbai,West,Retail Store,Ishaan Das,Mouse,Accessories,5,569.89,0.0,2849.45,2157.28,692.17
+ORD-00819,2025-01-01,Customer 018,Bhubaneswar,East,Distributor,Meera Nair,Smartphone,Electronics,8,24818.64,0.02,194578.14,119664.22,74913.92
+ORD-00820,2025-06-05,Customer 041,Mumbai,West,Distributor,Kabir Singh,Printer,Electronics,3,14118.29,0.08,38966.48,28442.92,10523.56
+ORD-00821,2025-09-08,Customer 046,Bhopal,Central,Distributor,Kabir Singh,Laptop,Electronics,2,66568.38,0.05,126479.92,101246.26,25233.66
+ORD-00822,2025-08-08,Customer 049,Chennai,South,Distributor,Ananya Rao,Mouse,Accessories,4,594.32,0.0,2377.28,1392.96,984.32
+ORD-00823,2025-01-15,Customer 017,Bhubaneswar,East,Distributor,Aarav Sharma,Desk,Furniture,6,4842.35,0.05,27601.4,21623.03,5978.37
+ORD-00824,2025-11-19,Customer 051,Nagpur,Central,Online,Diya Patel,Printer,Electronics,1,7724.8,0.05,7338.56,5722.7,1615.86
+ORD-00825,2025-10-25,Customer 041,Nagpur,Central,Online,Ananya Rao,Desk,Furniture,8,8271.79,0.1,59556.89,54139.81,5417.08
+ORD-00826,2025-09-25,Customer 014,Indore,Central,Online,Ishaan Das,Printer,Electronics,7,13317.43,0.1,83899.81,70407.21,13492.6
+ORD-00827,2025-05-30,Customer 031,Jaipur,North,Retail Store,Diya Patel,Keyboard,Accessories,7,1402.89,0.08,9034.61,6909.37,2125.24
+ORD-00828,2025-12-08,Customer 043,Jaipur,North,Online,Ishaan Das,Notebook Pack,Stationery,7,157.64,0.1,993.13,851.72,141.41
+ORD-00829,2025-11-09,Customer 032,Hyderabad,South,Online,Ishaan Das,Mouse,Accessories,5,1066.06,0.1,4797.27,4289.33,507.94
+ORD-00830,2025-04-01,Customer 014,Patna,East,Online,Aarav Sharma,Headphones,Accessories,8,2792.64,0.05,21224.06,13854.84,7369.22
+ORD-00831,2025-09-24,Customer 057,Ahmedabad,West,Retail Store,Diya Patel,Mouse,Accessories,2,1083.45,0.1,1950.21,1486.26,463.95
+ORD-00832,2025-04-04,Customer 064,Pune,West,Retail Store,Kabir Singh,Notebook Pack,Stationery,2,114.01,0.1,205.22,160.2,45.02
+ORD-00833,2025-01-06,Customer 013,Pune,West,Distributor,Ananya Rao,Laptop,Electronics,1,69252.91,0.1,62327.62,45311.99,17015.63
+ORD-00834,2025-09-19,Customer 021,Chennai,South,Online,Aarav Sharma,Printer,Electronics,2,7178.87,0.05,13639.85,9880.67,3759.18
+ORD-00835,2025-02-27,Customer 003,Kolkata,East,Retail Store,Aarav Sharma,Monitor,Electronics,6,13125.79,0.02,77179.65,50935.04,26244.61
+ORD-00836,2025-06-19,Customer 044,Delhi,North,Retail Store,Diya Patel,Laptop,Electronics,8,67806.34,0.15,461083.11,357182.46,103900.65
+ORD-00837,2025-05-28,Customer 071,Delhi,North,Retail Store,Kabir Singh,Laptop,Electronics,3,65993.04,0.1,178181.21,139181.84,38999.37
+ORD-00838,2025-04-01,Customer 062,Nagpur,Central,Online,Meera Nair,Headphones,Accessories,3,3084.76,0.08,8513.94,7454.96,1058.98
+ORD-00839,2025-05-16,Customer 078,Chennai,South,Online,Aarav Sharma,Mouse,Accessories,4,1190.49,0.1,4285.76,3323.43,962.33
+ORD-00840,2025-09-06,Customer 043,Delhi,North,Online,Meera Nair,Desk,Furniture,6,3930.42,0.1,21224.27,19121.65,2102.62
+ORD-00841,2025-08-30,Customer 070,Indore,Central,Distributor,Ishaan Das,Laptop,Electronics,4,80860.66,0.02,316973.79,228335.85,88637.94
+ORD-00842,2025-11-02,Customer 031,Bhubaneswar,East,Online,Meera Nair,Notebook Pack,Stationery,8,252.84,0.0,2022.72,1342.6,680.12
+ORD-00843,2025-08-15,Customer 071,Indore,Central,Online,Aarav Sharma,Notebook Pack,Stationery,1,138.46,0.0,138.46,85.41,53.05
+ORD-00844,2025-03-22,Customer 001,Kolkata,East,Online,Ishaan Das,Smartphone,Electronics,5,27143.26,0.08,124859.0,104068.14,20790.86
+ORD-00845,2025-08-24,Customer 062,Bhopal,Central,Online,Aarav Sharma,Desk,Furniture,1,3585.69,0.02,3513.98,2348.53,1165.45
+ORD-00846,2025-04-10,Customer 022,Hyderabad,South,Retail Store,Aarav Sharma,Printer,Electronics,2,6661.16,0.0,13322.32,9856.7,3465.62
+ORD-00847,2025-10-15,Customer 015,Pune,West,Retail Store,Meera Nair,Notebook Pack,Stationery,5,223.67,0.05,1062.43,685.56,376.87
+ORD-00848,2025-12-08,Customer 034,Mumbai,West,Distributor,Kabir Singh,Keyboard,Accessories,5,617.03,0.05,2930.89,2078.35,852.54
+ORD-00849,2025-12-28,Customer 024,Pune,West,Retail Store,Ishaan Das,Desk,Furniture,1,7272.07,0.1,6544.86,5559.09,985.77
+ORD-00850,2025-04-13,Customer 058,Bengaluru,South,Retail Store,Meera Nair,Desk,Furniture,6,6460.9,0.0,38765.4,29209.89,9555.51
+ORD-00851,2025-05-15,Customer 034,Mumbai,West,Retail Store,Kabir Singh,Printer,Electronics,3,9122.74,0.15,23262.99,19974.61,3288.38
+ORD-00852,2025-04-09,Customer 020,Chandigarh,North,Distributor,Aarav Sharma,Notebook Pack,Stationery,4,191.77,0.05,728.73,531.47,197.26
+ORD-00853,2025-04-15,Customer 045,Chandigarh,North,Retail Store,Kabir Singh,Headphones,Accessories,1,3162.45,0.0,3162.45,2437.64,724.81
+ORD-00854,2025-06-10,Customer 071,Bengaluru,South,Retail Store,Kabir Singh,Desk,Furniture,3,7254.08,0.08,20021.26,16030.73,3990.53
+ORD-00855,2025-01-26,Customer 069,Ahmedabad,West,Retail Store,Kabir Singh,Notebook Pack,Stationery,1,171.5,0.08,157.78,128.51,29.27
+ORD-00856,2025-12-17,Customer 061,Chennai,South,Online,Meera Nair,Printer,Electronics,2,8766.45,0.05,16656.26,11337.61,5318.65
+ORD-00857,2025-12-09,Customer 065,Chandigarh,North,Distributor,Kabir Singh,Office Chair,Furniture,7,8727.05,0.02,59867.56,47223.9,12643.66
+ORD-00858,2025-05-23,Customer 019,Bhopal,Central,Retail Store,Diya Patel,Smartphone,Electronics,4,27887.42,0.0,111549.68,77280.69,34268.99
+ORD-00859,2025-10-23,Customer 028,Bengaluru,South,Online,Aarav Sharma,Laptop,Electronics,8,70843.07,0.15,481732.88,372798.8,108934.08
+ORD-00860,2025-09-04,Customer 011,Ahmedabad,West,Retail Store,Diya Patel,Headphones,Accessories,5,1749.38,0.08,8047.15,6053.64,1993.51
+ORD-00861,2025-02-21,Customer 077,Chennai,South,Retail Store,Ananya Rao,Office Chair,Furniture,7,5280.65,0.0,36964.55,30302.41,6662.14
+ORD-00862,2025-03-16,Customer 012,Jaipur,North,Distributor,Meera Nair,Notebook Pack,Stationery,4,80.35,0.15,273.19,187.95,85.24
+ORD-00863,2025-10-25,Customer 042,Indore,Central,Distributor,Meera Nair,Desk,Furniture,3,8530.3,0.08,23543.63,17690.23,5853.4
+ORD-00864,2025-09-19,Customer 080,Chandigarh,North,Distributor,Meera Nair,Headphones,Accessories,8,1029.75,0.15,7002.3,6457.39,544.91
+ORD-00865,2025-10-31,Customer 054,Delhi,North,Online,Kabir Singh,Mouse,Accessories,4,413.83,0.08,1522.89,1165.02,357.87
+ORD-00866,2025-04-03,Customer 075,Bhopal,Central,Online,Kabir Singh,Monitor,Electronics,5,20095.43,0.08,92438.98,65777.9,26661.08
+ORD-00867,2025-01-14,Customer 037,Chandigarh,North,Retail Store,Meera Nair,Desk,Furniture,7,4557.73,0.0,31904.11,24708.77,7195.34
+ORD-00868,2025-02-18,Customer 050,Patna,East,Retail Store,Kabir Singh,Monitor,Electronics,6,15364.14,0.05,87575.6,68257.22,19318.38
+ORD-00869,2025-02-05,Customer 061,Bhopal,Central,Online,Ishaan Das,Keyboard,Accessories,4,1539.33,0.1,5541.59,4326.83,1214.76
+ORD-00870,2025-11-18,Customer 019,Ahmedabad,West,Distributor,Ananya Rao,Laptop,Electronics,4,79712.34,0.05,302906.89,215229.39,87677.5
+ORD-00871,2025-03-06,Customer 005,Pune,West,Retail Store,Ananya Rao,Office Chair,Furniture,4,8313.95,0.08,30595.34,22724.37,7870.97
+ORD-00872,2025-07-09,Customer 007,Hyderabad,South,Retail Store,Ishaan Das,Desk,Furniture,2,8267.63,0.05,15708.5,13253.12,2455.38
+ORD-00873,2025-01-24,Customer 003,Kolkata,East,Retail Store,Ishaan Das,Headphones,Accessories,3,2670.83,0.1,7211.24,4914.26,2296.98
+ORD-00874,2025-07-24,Customer 063,Patna,East,Distributor,Aarav Sharma,Laptop,Electronics,8,74034.28,0.08,544892.3,416037.06,128855.24
+ORD-00875,2025-09-14,Customer 018,Chennai,South,Distributor,Meera Nair,Laptop,Electronics,5,69480.34,0.05,330031.61,255612.75,74418.86
+ORD-00876,2025-07-01,Customer 035,Patna,East,Retail Store,Kabir Singh,Desk,Furniture,4,4012.7,0.0,16050.8,10024.65,6026.15
+ORD-00877,2025-10-27,Customer 025,Jaipur,North,Online,Meera Nair,Smartphone,Electronics,3,20489.4,0.1,55321.38,38746.02,16575.36
+ORD-00878,2025-08-11,Customer 067,Pune,West,Online,Kabir Singh,Monitor,Electronics,1,19508.95,0.02,19118.77,13307.08,5811.69
+ORD-00879,2025-05-03,Customer 009,Chennai,South,Distributor,Kabir Singh,Mouse,Accessories,6,1072.15,0.0,6432.9,4647.14,1785.76
+ORD-00880,2025-12-11,Customer 018,Ahmedabad,West,Distributor,Aarav Sharma,Headphones,Accessories,8,4024.82,0.0,32198.56,21735.06,10463.5
+ORD-00881,2025-05-04,Customer 025,Bengaluru,South,Online,Diya Patel,Office Chair,Furniture,5,9363.59,0.02,45881.59,31029.43,14852.16
+ORD-00882,2025-02-17,Customer 059,Delhi,North,Retail Store,Ananya Rao,Office Chair,Furniture,1,7985.77,0.0,7985.77,5459.88,2525.89
+ORD-00883,2025-01-26,Customer 036,Chennai,South,Retail Store,Kabir Singh,Smartphone,Electronics,6,20029.76,0.05,114169.63,75385.03,38784.6
+ORD-00884,2025-12-15,Customer 016,Ahmedabad,West,Online,Diya Patel,Printer,Electronics,1,8118.47,0.0,8118.47,4980.32,3138.15
+ORD-00885,2025-09-08,Customer 063,Patna,East,Retail Store,Diya Patel,Desk,Furniture,8,3980.37,0.05,30250.81,22910.99,7339.82
+ORD-00886,2025-08-26,Customer 076,Ahmedabad,West,Retail Store,Ishaan Das,Headphones,Accessories,2,2127.86,0.0,4255.72,2693.15,1562.57
+ORD-00887,2025-02-18,Customer 034,Hyderabad,South,Distributor,Aarav Sharma,Desk,Furniture,1,8979.46,0.15,7632.54,6119.87,1512.67
+ORD-00888,2025-12-28,Customer 004,Kolkata,East,Online,Diya Patel,Monitor,Electronics,1,12882.88,0.02,12625.22,7515.75,5109.47
+ORD-00889,2025-09-02,Customer 028,Bhopal,Central,Distributor,Diya Patel,Laptop,Electronics,7,70774.26,0.02,485511.42,372488.32,113023.1
+ORD-00890,2025-06-15,Customer 035,Hyderabad,South,Retail Store,Kabir Singh,Headphones,Accessories,3,3711.16,0.02,10910.81,7896.02,3014.79
+ORD-00891,2025-07-26,Customer 002,Jaipur,North,Online,Ananya Rao,Smartphone,Electronics,1,20134.53,0.0,20134.53,14636.47,5498.06
+ORD-00892,2025-06-30,Customer 077,Bengaluru,South,Online,Ishaan Das,Headphones,Accessories,3,1468.81,0.15,3745.47,2601.21,1144.26
+ORD-00893,2025-06-05,Customer 040,Nagpur,Central,Distributor,Ananya Rao,Printer,Electronics,3,8504.87,0.05,24238.88,15335.74,8903.14
+ORD-00894,2025-07-20,Customer 055,Kolkata,East,Retail Store,Meera Nair,Office Chair,Furniture,6,6051.88,0.02,35585.05,23804.62,11780.43
+ORD-00895,2025-06-04,Customer 028,Kolkata,East,Retail Store,Ananya Rao,Mouse,Accessories,6,1338.93,0.08,7390.89,5937.63,1453.26
+ORD-00896,2025-10-18,Customer 080,Indore,Central,Distributor,Aarav Sharma,Notebook Pack,Stationery,4,242.93,0.05,923.13,646.4,276.73
+ORD-00897,2025-10-09,Customer 066,Chandigarh,North,Retail Store,Kabir Singh,Notebook Pack,Stationery,2,102.32,0.05,194.41,134.08,60.33
+ORD-00898,2025-07-19,Customer 078,Indore,Central,Retail Store,Ananya Rao,Keyboard,Accessories,7,1219.8,0.1,7684.74,5858.96,1825.78
+ORD-00899,2025-07-08,Customer 062,Delhi,North,Retail Store,Ishaan Das,Monitor,Electronics,6,20095.8,0.05,114546.06,77451.41,37094.65
+ORD-00900,2025-02-19,Customer 036,Kolkata,East,Distributor,Ananya Rao,Notebook Pack,Stationery,2,127.71,0.05,242.65,192.13,50.52
+ORD-00901,2025-06-10,Customer 025,Bhubaneswar,East,Distributor,Diya Patel,Mouse,Accessories,2,879.24,0.05,1670.56,1369.45,301.11
+ORD-00902,2025-09-02,Customer 077,Jaipur,North,Distributor,Ishaan Das,Office Chair,Furniture,7,6551.26,0.15,38980.0,30946.8,8033.2
+ORD-00903,2025-06-04,Customer 004,Hyderabad,South,Retail Store,Ishaan Das,Keyboard,Accessories,4,1836.95,0.0,7347.8,5295.36,2052.44
+ORD-00904,2025-12-19,Customer 054,Kolkata,East,Retail Store,Ananya Rao,Headphones,Accessories,1,3504.17,0.02,3434.09,2617.09,817.0
+ORD-00905,2025-10-26,Customer 075,Chandigarh,North,Distributor,Diya Patel,Mouse,Accessories,8,701.79,0.08,5165.17,3821.77,1343.4
+ORD-00906,2025-03-08,Customer 029,Patna,East,Distributor,Ananya Rao,Mouse,Accessories,2,283.43,0.05,538.52,417.1,121.42
+ORD-00907,2025-06-08,Customer 046,Ahmedabad,West,Retail Store,Diya Patel,Printer,Electronics,1,10105.55,0.05,9600.27,6526.25,3074.02
+ORD-00908,2025-02-27,Customer 024,Indore,Central,Online,Meera Nair,Headphones,Accessories,6,1921.85,0.05,10954.54,9243.03,1711.51
+ORD-00909,2025-04-19,Customer 034,Hyderabad,South,Distributor,Diya Patel,Printer,Electronics,1,7085.97,0.0,7085.97,4281.54,2804.43
+ORD-00910,2025-08-14,Customer 012,Bhubaneswar,East,Retail Store,Diya Patel,Monitor,Electronics,7,19031.05,0.02,130553.0,84276.66,46276.34
+ORD-00911,2025-03-15,Customer 054,Kolkata,East,Retail Store,Ishaan Das,Office Chair,Furniture,2,8852.57,0.08,16288.73,14115.36,2173.37
+ORD-00912,2025-08-04,Customer 038,Indore,Central,Online,Meera Nair,Desk,Furniture,3,7123.17,0.05,20301.03,13962.86,6338.17
+ORD-00913,2025-04-25,Customer 075,Chandigarh,North,Distributor,Aarav Sharma,Mouse,Accessories,6,1068.8,0.08,5899.78,5128.18,771.6
+ORD-00914,2025-02-04,Customer 025,Ahmedabad,West,Online,Ananya Rao,Desk,Furniture,5,5268.92,0.1,23710.14,20153.47,3556.67
+ORD-00915,2025-08-11,Customer 068,Pune,West,Retail Store,Aarav Sharma,Printer,Electronics,3,8643.0,0.08,23854.68,20422.82,3431.86
+ORD-00916,2025-10-08,Customer 018,Bengaluru,South,Retail Store,Meera Nair,Mouse,Accessories,3,806.08,0.15,2055.5,1865.84,189.66
+ORD-00917,2025-08-06,Customer 059,Bhopal,Central,Retail Store,Ananya Rao,Keyboard,Accessories,4,2393.36,0.0,9573.44,6744.54,2828.9
+ORD-00918,2025-05-21,Customer 011,Chennai,South,Retail Store,Ananya Rao,Keyboard,Accessories,4,2017.02,0.1,7261.27,6095.22,1166.05
+ORD-00919,2025-10-13,Customer 041,Hyderabad,South,Online,Aarav Sharma,Notebook Pack,Stationery,1,171.86,0.05,163.27,100.52,62.75
+ORD-00920,2025-06-06,Customer 036,Mumbai,West,Online,Kabir Singh,Smartphone,Electronics,5,29983.59,0.08,137924.51,115582.25,22342.26
+ORD-00921,2025-08-20,Customer 063,Bengaluru,South,Online,Kabir Singh,Office Chair,Furniture,1,4734.38,0.05,4497.66,3285.0,1212.66
+ORD-00922,2025-07-13,Customer 055,Pune,West,Retail Store,Meera Nair,Desk,Furniture,3,3671.83,0.08,10134.25,7539.23,2595.02
+ORD-00923,2025-01-29,Customer 001,Mumbai,West,Distributor,Diya Patel,Desk,Furniture,8,6458.07,0.05,49081.33,35842.61,13238.72
+ORD-00924,2025-04-02,Customer 002,Kolkata,East,Distributor,Diya Patel,Monitor,Electronics,5,9075.9,0.1,40841.55,27094.33,13747.22
+ORD-00925,2025-09-05,Customer 001,Chandigarh,North,Distributor,Diya Patel,Desk,Furniture,2,6380.8,0.02,12506.37,10035.74,2470.63
+ORD-00926,2025-03-17,Customer 045,Chennai,South,Online,Aarav Sharma,Office Chair,Furniture,4,8971.29,0.02,35167.46,20980.53,14186.93
+ORD-00927,2025-12-28,Customer 065,Ahmedabad,West,Retail Store,Diya Patel,Desk,Furniture,4,6027.51,0.15,20493.53,18073.88,2419.65
+ORD-00928,2025-07-15,Customer 006,Jaipur,North,Retail Store,Meera Nair,Office Chair,Furniture,8,6565.42,0.1,47271.02,37466.7,9804.32
+ORD-00929,2025-05-07,Customer 077,Nagpur,Central,Retail Store,Meera Nair,Notebook Pack,Stationery,5,197.72,0.1,889.74,745.58,144.16
+ORD-00930,2025-12-26,Customer 044,Chennai,South,Retail Store,Diya Patel,Monitor,Electronics,2,17393.08,0.05,33046.85,27846.72,5200.13
+ORD-00931,2025-12-20,Customer 052,Bengaluru,South,Online,Diya Patel,Keyboard,Accessories,6,754.44,0.0,4526.64,3161.31,1365.33
+ORD-00932,2025-02-08,Customer 028,Hyderabad,South,Online,Kabir Singh,Headphones,Accessories,1,3288.14,0.05,3123.73,2566.76,556.97
+ORD-00933,2025-11-26,Customer 022,Bhopal,Central,Retail Store,Ananya Rao,Headphones,Accessories,8,1287.68,0.1,9271.3,6407.51,2863.79
+ORD-00934,2025-07-09,Customer 049,Chandigarh,North,Retail Store,Kabir Singh,Keyboard,Accessories,1,889.6,0.1,800.64,538.56,262.08
+ORD-00935,2025-02-03,Customer 007,Nagpur,Central,Online,Ananya Rao,Notebook Pack,Stationery,1,215.19,0.02,210.89,127.99,82.9
+ORD-00936,2025-09-30,Customer 003,Delhi,North,Distributor,Aarav Sharma,Printer,Electronics,4,8119.88,0.08,29881.16,21618.57,8262.59
+ORD-00937,2025-01-25,Customer 057,Pune,West,Online,Kabir Singh,Desk,Furniture,3,6621.53,0.02,19467.3,14758.53,4708.77
+ORD-00938,2025-02-11,Customer 061,Patna,East,Online,Diya Patel,Office Chair,Furniture,1,11331.26,0.08,10424.76,7066.34,3358.42
+ORD-00939,2025-04-23,Customer 039,Jaipur,North,Distributor,Aarav Sharma,Laptop,Electronics,6,67597.83,0.02,397475.24,320194.72,77280.52
+ORD-00940,2025-05-03,Customer 035,Nagpur,Central,Distributor,Ananya Rao,Monitor,Electronics,5,11117.49,0.05,52808.08,35653.09,17154.99
+ORD-00941,2025-09-29,Customer 054,Bengaluru,South,Distributor,Ananya Rao,Mouse,Accessories,6,1092.17,0.1,5897.72,3906.38,1991.34
+ORD-00942,2025-01-12,Customer 016,Indore,Central,Online,Aarav Sharma,Printer,Electronics,2,9574.45,0.1,17234.01,13574.27,3659.74
+ORD-00943,2025-08-17,Customer 026,Ahmedabad,West,Online,Ishaan Das,Notebook Pack,Stationery,6,229.06,0.05,1305.64,964.95,340.69
+ORD-00944,2025-10-13,Customer 026,Indore,Central,Distributor,Meera Nair,Printer,Electronics,6,8606.74,0.1,46476.4,30209.08,16267.32
+ORD-00945,2025-12-23,Customer 021,Bhubaneswar,East,Distributor,Meera Nair,Smartphone,Electronics,5,22763.61,0.0,113818.05,71115.92,42702.13
+ORD-00946,2025-10-20,Customer 062,Chennai,South,Online,Aarav Sharma,Desk,Furniture,5,8154.0,0.0,40770.0,23944.85,16825.15
+ORD-00947,2025-07-24,Customer 012,Delhi,North,Distributor,Ananya Rao,Desk,Furniture,5,5034.55,0.15,21396.84,19963.09,1433.75
+ORD-00948,2025-12-16,Customer 020,Mumbai,West,Distributor,Aarav Sharma,Desk,Furniture,3,7993.21,0.08,22061.26,16853.78,5207.48
+ORD-00949,2025-04-27,Customer 033,Chandigarh,North,Online,Meera Nair,Desk,Furniture,4,7861.94,0.1,28302.98,25774.0,2528.98
+ORD-00950,2025-10-25,Customer 034,Kolkata,East,Online,Aarav Sharma,Desk,Furniture,4,7938.08,0.1,28577.09,20028.88,8548.21
+ORD-00951,2025-11-17,Customer 006,Chennai,South,Retail Store,Ananya Rao,Laptop,Electronics,5,79564.52,0.02,389866.15,297572.27,92293.88
+ORD-00952,2025-05-28,Customer 055,Patna,East,Online,Aarav Sharma,Mouse,Accessories,1,658.67,0.08,605.98,402.54,203.44
+ORD-00953,2025-01-15,Customer 002,Delhi,North,Distributor,Ananya Rao,Keyboard,Accessories,8,2228.61,0.02,17472.3,14595.2,2877.1
+ORD-00954,2025-02-27,Customer 043,Chennai,South,Retail Store,Kabir Singh,Mouse,Accessories,5,347.0,0.0,1735.0,1037.5,697.5
+ORD-00955,2025-10-06,Customer 012,Kolkata,East,Retail Store,Diya Patel,Printer,Electronics,5,9723.7,0.05,46187.57,35074.8,11112.77
+ORD-00956,2025-10-23,Customer 052,Jaipur,North,Retail Store,Ishaan Das,Mouse,Accessories,5,1041.27,0.05,4946.03,3911.67,1034.36
+ORD-00957,2025-03-10,Customer 062,Pune,West,Distributor,Diya Patel,Mouse,Accessories,3,264.05,0.0,792.15,564.68,227.47
+ORD-00958,2025-05-08,Customer 017,Chandigarh,North,Distributor,Aarav Sharma,Smartphone,Electronics,3,31159.76,0.08,86000.94,65892.17,20108.77
+ORD-00959,2025-11-18,Customer 014,Chennai,South,Distributor,Meera Nair,Monitor,Electronics,2,18836.86,0.0,37673.72,27453.69,10220.03
+ORD-00960,2025-04-05,Customer 057,Bhopal,Central,Distributor,Meera Nair,Desk,Furniture,8,7833.23,0.1,56399.26,42316.31,14082.95
+ORD-00961,2025-08-04,Customer 079,Bhubaneswar,East,Distributor,Ananya Rao,Keyboard,Accessories,8,1675.23,0.0,13401.84,8421.35,4980.49
+ORD-00962,2025-07-21,Customer 062,Chennai,South,Online,Meera Nair,Keyboard,Accessories,5,611.72,0.1,2752.74,2390.64,362.1
+ORD-00963,2025-03-26,Customer 006,Mumbai,West,Retail Store,Ananya Rao,Mouse,Accessories,8,1330.68,0.0,10645.44,7385.52,3259.92
+ORD-00964,2025-02-07,Customer 002,Patna,East,Distributor,Kabir Singh,Laptop,Electronics,7,66195.29,0.0,463367.03,271527.27,191839.76
+ORD-00965,2025-10-18,Customer 073,Bhopal,Central,Distributor,Ishaan Das,Printer,Electronics,5,7519.41,0.0,37597.05,26936.45,10660.6
+ORD-00966,2025-10-24,Customer 067,Nagpur,Central,Distributor,Kabir Singh,Laptop,Electronics,2,77413.63,0.15,131603.17,118264.5,13338.67
+ORD-00967,2025-06-15,Customer 056,Chandigarh,North,Distributor,Diya Patel,Keyboard,Accessories,6,2081.41,0.02,12238.69,7448.16,4790.53
+ORD-00968,2025-07-09,Customer 045,Ahmedabad,West,Distributor,Ananya Rao,Notebook Pack,Stationery,6,89.35,0.1,482.49,399.92,82.57
+ORD-00969,2025-11-10,Customer 020,Ahmedabad,West,Distributor,Aarav Sharma,Mouse,Accessories,5,809.08,0.1,3640.86,2582.05,1058.81
+ORD-00970,2025-04-25,Customer 021,Chandigarh,North,Retail Store,Meera Nair,Monitor,Electronics,5,16913.61,0.15,71882.84,64164.21,7718.63
+ORD-00971,2025-08-07,Customer 010,Chennai,South,Retail Store,Diya Patel,Smartphone,Electronics,4,26242.79,0.0,104971.16,71765.83,33205.33
+ORD-00972,2025-06-23,Customer 036,Bhubaneswar,East,Distributor,Diya Patel,Laptop,Electronics,3,67020.07,0.05,191007.2,124607.46,66399.74
+ORD-00973,2025-12-10,Customer 049,Indore,Central,Online,Aarav Sharma,Printer,Electronics,2,12288.76,0.02,24085.97,19541.79,4544.18
+ORD-00974,2025-03-03,Customer 057,Ahmedabad,West,Retail Store,Aarav Sharma,Headphones,Accessories,1,2622.59,0.05,2491.46,1662.77,828.69
+ORD-00975,2025-03-21,Customer 058,Pune,West,Online,Meera Nair,Desk,Furniture,1,8534.02,0.05,8107.32,5265.65,2841.67
+ORD-00976,2025-11-04,Customer 014,Jaipur,North,Retail Store,Aarav Sharma,Keyboard,Accessories,6,1605.8,0.02,9442.1,7346.26,2095.84
+ORD-00977,2025-04-07,Customer 071,Bhopal,Central,Online,Kabir Singh,Printer,Electronics,2,9374.71,0.05,17811.95,11686.18,6125.77
+ORD-00978,2025-08-27,Customer 039,Nagpur,Central,Distributor,Diya Patel,Desk,Furniture,7,4363.56,0.1,27490.43,23566.07,3924.36
+ORD-00979,2025-10-12,Customer 044,Pune,West,Online,Diya Patel,Monitor,Electronics,5,12277.6,0.05,58318.6,44379.27,13939.33
+ORD-00980,2025-01-08,Customer 043,Ahmedabad,West,Distributor,Kabir Singh,Printer,Electronics,8,9504.85,0.1,68434.92,47084.98,21349.94
+ORD-00981,2025-06-29,Customer 047,Ahmedabad,West,Retail Store,Aarav Sharma,Office Chair,Furniture,6,9697.43,0.0,58184.58,37336.16,20848.42
+ORD-00982,2025-01-20,Customer 029,Delhi,North,Retail Store,Ishaan Das,Mouse,Accessories,7,864.92,0.0,6054.44,3514.82,2539.62
+ORD-00983,2025-09-05,Customer 071,Patna,East,Retail Store,Ananya Rao,Printer,Electronics,3,7942.49,0.08,21921.27,15126.27,6795.0
+ORD-00984,2025-04-22,Customer 006,Delhi,North,Retail Store,Diya Patel,Office Chair,Furniture,5,7154.86,0.02,35058.81,21934.84,13123.97
+ORD-00985,2025-02-22,Customer 014,Pune,West,Distributor,Diya Patel,Headphones,Accessories,3,1916.82,0.1,5175.41,4482.64,692.77
+ORD-00986,2025-01-11,Customer 016,Chennai,South,Online,Meera Nair,Smartphone,Electronics,3,26061.67,0.05,74275.76,60898.07,13377.69
+ORD-00987,2025-05-21,Customer 044,Bengaluru,South,Retail Store,Aarav Sharma,Headphones,Accessories,3,1895.89,0.0,5687.67,3728.41,1959.26
+ORD-00988,2025-04-19,Customer 016,Indore,Central,Retail Store,Ananya Rao,Smartphone,Electronics,8,30767.83,0.0,246142.64,169822.19,76320.45
+ORD-00989,2025-09-07,Customer 065,Bhopal,Central,Retail Store,Aarav Sharma,Office Chair,Furniture,4,8383.04,0.0,33532.16,26226.78,7305.38
+ORD-00990,2025-06-28,Customer 007,Nagpur,Central,Retail Store,Kabir Singh,Printer,Electronics,8,11727.24,0.08,86312.49,66302.55,20009.94
+ORD-00991,2025-03-27,Customer 066,Mumbai,West,Distributor,Kabir Singh,Office Chair,Furniture,6,8588.44,0.0,51530.64,40084.69,11445.95
+ORD-00992,2025-02-24,Customer 017,Bengaluru,South,Retail Store,Ananya Rao,Monitor,Electronics,4,13977.05,0.05,53112.79,45433.52,7679.27
+ORD-00993,2025-09-01,Customer 078,Indore,Central,Distributor,Meera Nair,Smartphone,Electronics,7,20317.44,0.08,130844.31,116345.47,14498.84
+ORD-00994,2025-02-25,Customer 078,Ahmedabad,West,Online,Ishaan Das,Keyboard,Accessories,2,2220.67,0.02,4352.51,3266.59,1085.92
+ORD-00995,2025-01-28,Customer 044,Pune,West,Retail Store,Diya Patel,Laptop,Electronics,8,76127.69,0.05,578570.44,387995.73,190574.71
+ORD-00996,2025-06-30,Customer 053,Hyderabad,South,Distributor,Ananya Rao,Notebook Pack,Stationery,7,254.62,0.05,1693.22,1305.78,387.44
+ORD-00997,2025-11-14,Customer 039,Nagpur,Central,Distributor,Ishaan Das,Monitor,Electronics,6,19373.4,0.02,113915.59,89063.32,24852.27
+ORD-00998,2025-03-30,Customer 028,Bhopal,Central,Online,Kabir Singh,Smartphone,Electronics,1,22037.41,0.05,20935.54,15558.0,5377.54
+ORD-00999,2025-11-13,Customer 045,Patna,East,Online,Ananya Rao,Keyboard,Accessories,2,703.7,0.02,1379.25,937.08,442.17
+ORD-01000,2025-12-30,Customer 065,Hyderabad,South,Distributor,Ananya Rao,Mouse,Accessories,4,818.0,0.1,2944.8,2502.86,441.94
+ORD-01001,2025-06-12,Customer 015,Kolkata,East,Distributor,Meera Nair,Laptop,Electronics,6,75507.26,0.05,430391.38,276970.38,153421.0
+ORD-01002,2025-06-16,Customer 074,Nagpur,Central,Distributor,Meera Nair,Desk,Furniture,4,5764.11,0.02,22595.31,17557.8,5037.51
+ORD-01003,2025-02-15,Customer 037,Indore,Central,Online,Kabir Singh,Office Chair,Furniture,7,8110.11,0.1,51093.69,34589.5,16504.19
+ORD-01004,2025-08-03,Customer 004,Jaipur,North,Online,Aarav Sharma,Printer,Electronics,1,8902.56,0.05,8457.43,5801.35,2656.08
+ORD-01005,2025-08-14,Customer 026,Jaipur,North,Online,Ishaan Das,Monitor,Electronics,8,10017.3,0.05,76131.48,61354.84,14776.64
+ORD-01006,2025-03-31,Customer 019,Bhubaneswar,East,Distributor,Ishaan Das,Mouse,Accessories,7,1093.35,0.05,7270.78,5769.22,1501.56
+ORD-01007,2025-12-19,Customer 070,Bengaluru,South,Retail Store,Meera Nair,Notebook Pack,Stationery,7,179.14,0.1,1128.58,822.75,305.83
+ORD-01008,2025-03-27,Customer 079,Chandigarh,North,Distributor,Kabir Singh,Notebook Pack,Stationery,6,166.67,0.05,950.02,601.63,348.39
+ORD-01009,2025-01-08,Customer 072,Chennai,South,Online,Kabir Singh,Notebook Pack,Stationery,4,105.46,0.05,400.75,249.59,151.16
+ORD-01010,2025-11-12,Customer 007,Kolkata,East,Retail Store,Meera Nair,Smartphone,Electronics,1,31855.22,0.05,30262.46,21194.06,9068.4
+ORD-01011,2025-07-11,Customer 071,Bhubaneswar,East,Online,Ananya Rao,Headphones,Accessories,6,1732.43,0.08,9563.01,6736.75,2826.26
+ORD-01012,2025-12-24,Customer 026,Patna,East,Retail Store,Diya Patel,Headphones,Accessories,1,3154.81,0.0,3154.81,2341.44,813.37
+ORD-01013,2025-05-06,Customer 076,Patna,East,Distributor,Kabir Singh,Headphones,Accessories,2,3440.18,0.08,6329.93,4031.04,2298.89
+ORD-01014,2025-09-30,Customer 025,Chennai,South,Retail Store,Diya Patel,Office Chair,Furniture,6,11431.02,0.02,67214.4,44294.1,22920.3
+ORD-01015,2025-11-16,Customer 024,Delhi,North,Distributor,Kabir Singh,Keyboard,Accessories,1,1755.11,0.1,1579.6,1033.62,545.98
+ORD-01016,2025-02-28,Customer 049,Delhi,North,Retail Store,Ishaan Das,Notebook Pack,Stationery,5,183.66,0.05,872.38,725.75,146.63
+ORD-01017,2025-10-29,Customer 034,Bhopal,Central,Online,Kabir Singh,Smartphone,Electronics,6,29881.36,0.02,175702.4,139330.17,36372.23
+ORD-01018,2025-05-13,Customer 001,Kolkata,East,Retail Store,Ananya Rao,Mouse,Accessories,1,812.61,0.0,812.61,603.52,209.09
+ORD-01019,2025-08-30,Customer 006,Bengaluru,South,Retail Store,Kabir Singh,Monitor,Electronics,8,20775.15,0.08,152905.1,127073.26,25831.84
+ORD-01020,2025-11-07,Customer 079,Chandigarh,North,Retail Store,Meera Nair,Laptop,Electronics,5,80516.53,0.08,370376.04,318866.53,51509.51
+ORD-01021,2025-11-07,Customer 071,Indore,Central,Online,Ananya Rao,Headphones,Accessories,7,3308.4,0.02,22695.62,14606.75,8088.87
+ORD-01022,2025-07-01,Customer 068,Bhubaneswar,East,Online,Kabir Singh,Smartphone,Electronics,8,24084.55,0.02,188822.87,127079.98,61742.89
+ORD-01023,2025-01-05,Customer 065,Delhi,North,Retail Store,Kabir Singh,Office Chair,Furniture,4,10961.1,0.15,37267.74,32287.35,4980.39
+ORD-01024,2025-08-16,Customer 052,Bhopal,Central,Retail Store,Diya Patel,Office Chair,Furniture,6,6752.8,0.1,36465.12,25617.62,10847.5
+ORD-01025,2025-09-20,Customer 043,Chennai,South,Retail Store,Ishaan Das,Smartphone,Electronics,1,30097.94,0.05,28593.04,22333.9,6259.14
+ORD-01026,2025-12-22,Customer 080,Hyderabad,South,Retail Store,Kabir Singh,Monitor,Electronics,4,12877.54,0.02,50479.96,31557.52,18922.44
+ORD-01027,2025-06-23,Customer 015,Chandigarh,North,Retail Store,Meera Nair,Printer,Electronics,5,10597.49,0.02,51927.7,42669.02,9258.68
+ORD-01028,2025-06-13,Customer 079,Hyderabad,South,Online,Aarav Sharma,Monitor,Electronics,6,19795.21,0.0,118771.26,86641.76,32129.5
+ORD-01029,2025-04-12,Customer 049,Bhubaneswar,East,Retail Store,Ishaan Das,Keyboard,Accessories,7,870.77,0.02,5973.48,3934.6,2038.88
+ORD-01030,2025-05-01,Customer 037,Bhopal,Central,Distributor,Ishaan Das,Smartphone,Electronics,4,22563.49,0.02,88448.88,66394.69,22054.19
+ORD-01031,2025-12-17,Customer 066,Indore,Central,Retail Store,Aarav Sharma,Laptop,Electronics,7,76725.78,0.0,537080.46,339984.12,197096.34
+ORD-01032,2025-05-05,Customer 025,Kolkata,East,Distributor,Aarav Sharma,Printer,Electronics,2,6507.41,0.05,12364.08,7670.29,4693.79
+ORD-01033,2025-05-08,Customer 022,Chandigarh,North,Distributor,Aarav Sharma,Headphones,Accessories,5,3930.71,0.02,19260.48,12861.29,6399.19
+ORD-01034,2025-12-30,Customer 027,Chandigarh,North,Distributor,Diya Patel,Keyboard,Accessories,4,2104.39,0.1,7575.8,5137.22,2438.58
+ORD-01035,2025-09-06,Customer 014,Mumbai,West,Distributor,Ananya Rao,Smartphone,Electronics,6,30181.34,0.1,162979.24,109697.3,53281.94
+ORD-01036,2025-06-02,Customer 010,Ahmedabad,West,Distributor,Diya Patel,Mouse,Accessories,5,429.03,0.08,1973.54,1716.0,257.54
+ORD-01037,2025-05-29,Customer 059,Chandigarh,North,Retail Store,Aarav Sharma,Desk,Furniture,2,6685.9,0.05,12703.21,10358.01,2345.2
+ORD-01038,2025-01-31,Customer 010,Delhi,North,Online,Ishaan Das,Mouse,Accessories,3,1256.13,0.02,3693.02,2328.13,1364.89
+ORD-01039,2025-06-13,Customer 010,Nagpur,Central,Online,Ishaan Das,Office Chair,Furniture,8,6468.72,0.08,47609.78,31782.01,15827.77
+ORD-01040,2025-01-13,Customer 050,Pune,West,Distributor,Meera Nair,Laptop,Electronics,1,67250.55,0.0,67250.55,53122.05,14128.5
+ORD-01041,2025-09-19,Customer 041,Mumbai,West,Retail Store,Ananya Rao,Mouse,Accessories,8,1124.08,0.08,8273.23,7367.29,905.94
+ORD-01042,2025-01-17,Customer 069,Delhi,North,Distributor,Ananya Rao,Office Chair,Furniture,3,6498.56,0.05,18520.9,15315.38,3205.52
+ORD-01043,2025-10-10,Customer 009,Nagpur,Central,Distributor,Aarav Sharma,Monitor,Electronics,1,11934.75,0.08,10979.97,9369.81,1610.16
+ORD-01044,2025-06-22,Customer 046,Chandigarh,North,Online,Ishaan Das,Desk,Furniture,4,7177.22,0.05,27273.44,19948.03,7325.41
+ORD-01045,2025-03-28,Customer 078,Bhubaneswar,East,Retail Store,Meera Nair,Printer,Electronics,8,14320.05,0.05,108832.38,75856.81,32975.57
+ORD-01046,2025-10-11,Customer 051,Ahmedabad,West,Online,Meera Nair,Keyboard,Accessories,3,754.39,0.02,2217.91,1359.59,858.32
+ORD-01047,2025-07-02,Customer 069,Bengaluru,South,Online,Ananya Rao,Desk,Furniture,4,5405.24,0.1,19458.86,13816.28,5642.58
+ORD-01048,2025-03-03,Customer 070,Pune,West,Distributor,Diya Patel,Headphones,Accessories,5,3873.9,0.05,18401.02,12135.19,6265.83
+ORD-01049,2025-11-07,Customer 048,Bhubaneswar,East,Distributor,Kabir Singh,Office Chair,Furniture,4,8046.28,0.0,32185.12,22118.62,10066.5
+ORD-01050,2025-08-04,Customer 016,Bengaluru,South,Online,Kabir Singh,Smartphone,Electronics,5,21742.66,0.08,100016.24,64884.27,35131.97
+ORD-01051,2025-10-08,Customer 051,Nagpur,Central,Distributor,Aarav Sharma,Office Chair,Furniture,6,6314.99,0.08,34858.74,25704.81,9153.93
+ORD-01052,2025-10-21,Customer 027,Patna,East,Distributor,Ananya Rao,Smartphone,Electronics,3,30825.84,0.05,87853.64,58889.89,28963.75
+ORD-01053,2025-11-19,Customer 028,Kolkata,East,Distributor,Kabir Singh,Mouse,Accessories,4,1034.07,0.0,4136.28,2529.29,1606.99
+ORD-01054,2025-09-30,Customer 021,Bengaluru,South,Online,Kabir Singh,Headphones,Accessories,6,1591.13,0.02,9355.84,7322.32,2033.52
+ORD-01055,2025-05-14,Customer 025,Bhubaneswar,East,Online,Ananya Rao,Headphones,Accessories,5,1020.23,0.05,4846.09,3714.2,1131.89
+ORD-01056,2025-01-27,Customer 007,Nagpur,Central,Retail Store,Ananya Rao,Office Chair,Furniture,7,5275.63,0.02,36190.82,26114.71,10076.11
+ORD-01057,2025-01-11,Customer 010,Indore,Central,Distributor,Aarav Sharma,Office Chair,Furniture,2,10968.87,0.05,20840.85,14909.52,5931.33
+ORD-01058,2025-06-26,Customer 013,Bhubaneswar,East,Distributor,Kabir Singh,Notebook Pack,Stationery,8,91.74,0.15,623.83,514.04,109.79
+ORD-01059,2025-11-11,Customer 043,Pune,West,Online,Ananya Rao,Printer,Electronics,4,10558.59,0.05,40122.64,27257.94,12864.7
+ORD-01060,2025-12-03,Customer 013,Chennai,South,Distributor,Aarav Sharma,Printer,Electronics,6,11057.16,0.02,65016.1,49774.41,15241.69
+ORD-01061,2025-01-17,Customer 041,Chennai,South,Retail Store,Ishaan Das,Notebook Pack,Stationery,3,80.79,0.05,230.25,140.93,89.32
+ORD-01062,2025-05-26,Customer 040,Nagpur,Central,Distributor,Diya Patel,Monitor,Electronics,1,14167.32,0.0,14167.32,9154.35,5012.97
+ORD-01063,2025-10-09,Customer 073,Indore,Central,Retail Store,Meera Nair,Notebook Pack,Stationery,5,259.58,0.1,1168.11,935.1,233.01
+ORD-01064,2025-04-23,Customer 001,Chennai,South,Online,Diya Patel,Office Chair,Furniture,8,10576.12,0.05,80378.51,64294.61,16083.9
+ORD-01065,2025-05-08,Customer 036,Pune,West,Online,Ananya Rao,Smartphone,Electronics,2,24875.15,0.0,49750.3,32129.5,17620.8
+ORD-01066,2025-09-07,Customer 062,Kolkata,East,Retail Store,Ishaan Das,Mouse,Accessories,8,613.21,0.02,4807.57,3066.09,1741.48
+ORD-01067,2025-06-12,Customer 063,Patna,East,Online,Diya Patel,Desk,Furniture,6,7669.01,0.05,43713.36,28993.2,14720.16
+ORD-01068,2025-11-04,Customer 011,Indore,Central,Online,Kabir Singh,Desk,Furniture,1,6044.47,0.1,5440.02,4564.32,875.7
+ORD-01069,2025-01-30,Customer 034,Hyderabad,South,Distributor,Aarav Sharma,Desk,Furniture,6,5899.36,0.05,33626.35,24926.02,8700.33
+ORD-01070,2025-08-06,Customer 003,Chandigarh,North,Distributor,Aarav Sharma,Headphones,Accessories,6,2575.44,0.15,13134.74,10549.93,2584.81
+ORD-01071,2025-01-11,Customer 075,Indore,Central,Distributor,Diya Patel,Laptop,Electronics,2,73510.32,0.05,139669.61,104762.84,34906.77
+ORD-01072,2025-03-28,Customer 071,Jaipur,North,Distributor,Kabir Singh,Office Chair,Furniture,6,6422.54,0.08,35452.42,28861.65,6590.77
+ORD-01073,2025-12-24,Customer 020,Pune,West,Retail Store,Diya Patel,Desk,Furniture,3,4484.09,0.05,12779.66,10342.59,2437.07
+ORD-01074,2025-05-27,Customer 038,Bhopal,Central,Retail Store,Kabir Singh,Monitor,Electronics,8,16123.36,0.02,126407.14,95933.93,30473.21
+ORD-01075,2025-08-10,Customer 012,Indore,Central,Retail Store,Kabir Singh,Monitor,Electronics,2,18918.57,0.0,37837.14,22043.19,15793.95
+ORD-01076,2025-05-02,Customer 031,Chandigarh,North,Distributor,Diya Patel,Keyboard,Accessories,1,796.42,0.1,716.78,543.15,173.63
+ORD-01077,2025-08-25,Customer 018,Indore,Central,Online,Diya Patel,Headphones,Accessories,6,2202.97,0.05,12556.93,8103.79,4453.14
+ORD-01078,2025-06-06,Customer 073,Nagpur,Central,Online,Ananya Rao,Smartphone,Electronics,6,19912.46,0.1,107527.28,75078.55,32448.73
+ORD-01079,2025-05-16,Customer 046,Mumbai,West,Online,Meera Nair,Monitor,Electronics,1,10503.91,0.0,10503.91,8486.08,2017.83
+ORD-01080,2025-10-22,Customer 009,Chennai,South,Retail Store,Diya Patel,Printer,Electronics,4,11541.88,0.0,46167.52,29865.33,16302.19
+ORD-01081,2025-10-22,Customer 027,Chandigarh,North,Retail Store,Meera Nair,Printer,Electronics,1,8671.52,0.1,7804.37,6407.66,1396.71
+ORD-01082,2025-11-20,Customer 059,Mumbai,West,Online,Ananya Rao,Mouse,Accessories,1,587.38,0.02,575.63,403.06,172.57
+ORD-01083,2025-12-02,Customer 014,Patna,East,Distributor,Ananya Rao,Notebook Pack,Stationery,3,124.02,0.08,342.3,267.98,74.32
+ORD-01084,2025-06-08,Customer 034,Patna,East,Distributor,Kabir Singh,Monitor,Electronics,5,15653.04,0.02,76699.9,58174.79,18525.11
+ORD-01085,2025-04-28,Customer 049,Hyderabad,South,Retail Store,Ishaan Das,Office Chair,Furniture,8,5548.14,0.08,40834.31,32163.21,8671.1
+ORD-01086,2025-05-13,Customer 010,Nagpur,Central,Retail Store,Meera Nair,Office Chair,Furniture,3,10518.95,0.1,28401.17,19128.91,9272.26
+ORD-01087,2025-02-09,Customer 067,Chennai,South,Retail Store,Ishaan Das,Notebook Pack,Stationery,7,259.95,0.02,1783.26,1177.91,605.35
+ORD-01088,2025-05-24,Customer 062,Ahmedabad,West,Online,Kabir Singh,Desk,Furniture,4,4977.93,0.08,18318.78,13846.97,4471.81
+ORD-01089,2025-01-21,Customer 057,Bengaluru,South,Online,Aarav Sharma,Headphones,Accessories,8,3833.0,0.1,27597.6,21456.18,6141.42
+ORD-01090,2025-07-04,Customer 036,Bhopal,Central,Online,Diya Patel,Notebook Pack,Stationery,3,112.38,0.1,303.43,253.0,50.43
+ORD-01091,2025-12-28,Customer 047,Hyderabad,South,Distributor,Aarav Sharma,Printer,Electronics,3,7473.52,0.08,20626.92,14170.04,6456.88
+ORD-01092,2025-11-17,Customer 054,Chennai,South,Distributor,Aarav Sharma,Monitor,Electronics,1,14587.3,0.05,13857.93,11755.64,2102.29
+ORD-01093,2025-11-15,Customer 062,Pune,West,Online,Kabir Singh,Office Chair,Furniture,1,9741.79,0.08,8962.45,7802.16,1160.29
+ORD-01094,2025-10-25,Customer 053,Bengaluru,South,Online,Aarav Sharma,Smartphone,Electronics,4,23455.4,0.0,93821.6,60625.91,33195.69
+ORD-01095,2025-07-28,Customer 074,Hyderabad,South,Online,Diya Patel,Keyboard,Accessories,6,1148.57,0.02,6753.59,4799.12,1954.47
+ORD-01096,2025-06-23,Customer 006,Nagpur,Central,Online,Aarav Sharma,Office Chair,Furniture,6,6506.84,0.1,35136.94,28544.82,6592.12
+ORD-01097,2025-08-30,Customer 034,Bengaluru,South,Distributor,Meera Nair,Monitor,Electronics,3,16572.34,0.0,49717.02,33176.73,16540.29
+ORD-01098,2025-04-02,Customer 073,Nagpur,Central,Online,Ananya Rao,Keyboard,Accessories,6,1700.17,0.02,9997.0,8018.02,1978.98
+ORD-01099,2025-05-20,Customer 011,Bhubaneswar,East,Retail Store,Kabir Singh,Laptop,Electronics,2,81724.95,0.05,155277.4,126209.68,29067.72
+ORD-01100,2025-08-06,Customer 062,Mumbai,West,Online,Meera Nair,Laptop,Electronics,5,78312.5,0.08,360237.5,292055.38,68182.12
+ORD-01101,2025-07-31,Customer 019,Nagpur,Central,Online,Kabir Singh,Headphones,Accessories,3,1685.1,0.15,4297.0,3208.44,1088.56
+ORD-01102,2025-09-28,Customer 034,Bhopal,Central,Distributor,Ananya Rao,Mouse,Accessories,2,1237.47,0.02,2425.44,1649.84,775.6
+ORD-01103,2025-09-03,Customer 059,Patna,East,Distributor,Aarav Sharma,Monitor,Electronics,2,10908.86,0.05,20726.83,13930.34,6796.49
+ORD-01104,2025-02-27,Customer 049,Chennai,South,Online,Aarav Sharma,Headphones,Accessories,2,930.49,0.05,1767.93,1221.51,546.42
+ORD-01105,2025-08-01,Customer 026,Chandigarh,North,Distributor,Ananya Rao,Laptop,Electronics,5,75653.14,0.0,378265.7,248176.33,130089.37
+ORD-01106,2025-08-15,Customer 020,Ahmedabad,West,Online,Diya Patel,Notebook Pack,Stationery,7,184.79,0.05,1228.85,894.64,334.21
+ORD-01107,2025-07-07,Customer 079,Ahmedabad,West,Online,Kabir Singh,Headphones,Accessories,7,3916.22,0.1,24672.19,17373.17,7299.02
+ORD-01108,2025-10-24,Customer 016,Bhopal,Central,Retail Store,Ananya Rao,Notebook Pack,Stationery,3,108.91,0.05,310.39,215.6,94.79
+ORD-01109,2025-08-08,Customer 078,Hyderabad,South,Online,Ananya Rao,Notebook Pack,Stationery,5,245.49,0.0,1227.45,713.95,513.5
+ORD-01110,2025-03-11,Customer 067,Pune,West,Retail Store,Aarav Sharma,Office Chair,Furniture,7,9426.39,0.05,62685.49,47701.68,14983.81
+ORD-01111,2025-04-27,Customer 055,Bhopal,Central,Retail Store,Meera Nair,Headphones,Accessories,8,2454.79,0.05,18656.4,14289.93,4366.47
+ORD-01112,2025-03-03,Customer 076,Patna,East,Distributor,Kabir Singh,Office Chair,Furniture,2,9140.49,0.1,16452.88,11334.07,5118.81
+ORD-01113,2025-12-09,Customer 055,Delhi,North,Retail Store,Meera Nair,Laptop,Electronics,6,78158.41,0.08,431434.42,350986.73,80447.69
+ORD-01114,2025-06-10,Customer 011,Chennai,South,Distributor,Kabir Singh,Keyboard,Accessories,4,946.4,0.05,3596.32,2381.32,1215.0
+ORD-01115,2025-12-20,Customer 033,Mumbai,West,Online,Ananya Rao,Monitor,Electronics,7,12495.16,0.05,83092.81,60947.3,22145.51
+ORD-01116,2025-03-13,Customer 074,Chandigarh,North,Online,Kabir Singh,Desk,Furniture,5,5905.95,0.1,26576.78,23079.99,3496.79
+ORD-01117,2025-07-15,Customer 049,Chandigarh,North,Online,Ananya Rao,Keyboard,Accessories,4,1706.52,0.08,6279.99,4671.58,1608.41
+ORD-01118,2025-08-18,Customer 053,Kolkata,East,Online,Diya Patel,Desk,Furniture,3,6756.02,0.0,20268.06,11791.75,8476.31
+ORD-01119,2025-11-07,Customer 075,Pune,West,Retail Store,Kabir Singh,Keyboard,Accessories,1,1497.11,0.08,1377.34,939.53,437.81
+ORD-01120,2025-01-17,Customer 073,Pune,West,Distributor,Ishaan Das,Office Chair,Furniture,8,5830.67,0.1,41980.82,35595.9,6384.92
+ORD-01121,2025-02-17,Customer 027,Pune,West,Distributor,Kabir Singh,Headphones,Accessories,2,1943.57,0.05,3692.78,2483.84,1208.94
+ORD-01122,2025-02-25,Customer 023,Pune,West,Distributor,Kabir Singh,Smartphone,Electronics,8,21215.13,0.1,152748.94,104919.55,47829.39
+ORD-01123,2025-08-22,Customer 033,Pune,West,Distributor,Ishaan Das,Mouse,Accessories,7,734.94,0.05,4887.35,3132.37,1754.98
+ORD-01124,2025-03-24,Customer 018,Ahmedabad,West,Online,Ananya Rao,Printer,Electronics,7,8697.48,0.05,57838.24,43342.89,14495.35
+ORD-01125,2025-12-24,Customer 058,Hyderabad,South,Online,Aarav Sharma,Notebook Pack,Stationery,5,110.35,0.0,551.75,360.01,191.74
+ORD-01126,2025-01-21,Customer 066,Chennai,South,Retail Store,Kabir Singh,Desk,Furniture,2,8570.57,0.05,16284.08,12507.17,3776.91
+ORD-01127,2025-01-16,Customer 007,Bhopal,Central,Retail Store,Ananya Rao,Office Chair,Furniture,4,8022.24,0.02,31447.18,21258.13,10189.05
+ORD-01128,2025-04-11,Customer 012,Delhi,North,Retail Store,Kabir Singh,Headphones,Accessories,4,2568.92,0.15,8734.33,6510.64,2223.69
+ORD-01129,2025-05-26,Customer 012,Mumbai,West,Retail Store,Diya Patel,Desk,Furniture,4,5425.0,0.08,19964.0,13494.6,6469.4
+ORD-01130,2025-02-24,Customer 011,Patna,East,Online,Ananya Rao,Desk,Furniture,5,5791.86,0.0,28959.3,23281.48,5677.82
+ORD-01131,2025-01-30,Customer 052,Ahmedabad,West,Distributor,Kabir Singh,Desk,Furniture,5,5789.72,0.15,24606.31,18808.28,5798.03
+ORD-01132,2025-10-14,Customer 077,Bhubaneswar,East,Online,Ananya Rao,Keyboard,Accessories,4,1941.84,0.05,7378.99,5184.29,2194.7
+ORD-01133,2025-02-12,Customer 057,Mumbai,West,Online,Ananya Rao,Mouse,Accessories,1,1042.79,0.08,959.37,812.02,147.35
+ORD-01134,2025-07-22,Customer 037,Bhopal,Central,Online,Kabir Singh,Mouse,Accessories,7,897.74,0.02,6158.5,3679.21,2479.29
+ORD-01135,2025-11-17,Customer 067,Nagpur,Central,Online,Kabir Singh,Notebook Pack,Stationery,6,161.1,0.0,966.6,627.46,339.14
+ORD-01136,2025-10-29,Customer 005,Chennai,South,Online,Ananya Rao,Printer,Electronics,5,13193.45,0.0,65967.25,47952.65,18014.6
+ORD-01137,2025-10-01,Customer 021,Delhi,North,Retail Store,Meera Nair,Monitor,Electronics,3,10400.44,0.15,26521.12,22600.75,3920.37
+ORD-01138,2025-12-08,Customer 051,Kolkata,East,Distributor,Diya Patel,Keyboard,Accessories,7,602.17,0.05,4004.43,3074.69,929.74
+ORD-01139,2025-07-24,Customer 002,Nagpur,Central,Distributor,Aarav Sharma,Office Chair,Furniture,1,8380.09,0.05,7961.09,4944.65,3016.44
+ORD-01140,2025-06-07,Customer 071,Jaipur,North,Distributor,Kabir Singh,Notebook Pack,Stationery,4,118.49,0.1,426.56,385.98,40.58
+ORD-01141,2025-03-07,Customer 045,Indore,Central,Retail Store,Diya Patel,Headphones,Accessories,8,1624.36,0.05,12345.14,10264.41,2080.73
+ORD-01142,2025-03-05,Customer 025,Indore,Central,Retail Store,Kabir Singh,Mouse,Accessories,5,313.7,0.0,1568.5,995.33,573.17
+ORD-01143,2025-05-05,Customer 034,Delhi,North,Retail Store,Kabir Singh,Keyboard,Accessories,6,1569.62,0.05,8946.83,7563.01,1383.82
+ORD-01144,2025-08-15,Customer 072,Delhi,North,Distributor,Ishaan Das,Headphones,Accessories,3,3655.32,0.1,9869.36,7632.31,2237.05
+ORD-01145,2025-08-01,Customer 015,Patna,East,Retail Store,Kabir Singh,Keyboard,Accessories,7,1751.02,0.0,12257.14,8503.32,3753.82
+ORD-01146,2025-04-12,Customer 033,Nagpur,Central,Retail Store,Meera Nair,Notebook Pack,Stationery,2,91.3,0.0,182.6,120.14,62.46
+ORD-01147,2025-07-12,Customer 062,Bhopal,Central,Retail Store,Meera Nair,Printer,Electronics,3,8914.15,0.15,22731.08,21540.67,1190.41
+ORD-01148,2025-06-16,Customer 076,Mumbai,West,Retail Store,Aarav Sharma,Printer,Electronics,2,9820.86,0.08,18070.38,14849.88,3220.5
+ORD-01149,2025-07-02,Customer 009,Kolkata,East,Distributor,Diya Patel,Office Chair,Furniture,3,5369.05,0.05,15301.79,12111.67,3190.12
+ORD-01150,2025-09-30,Customer 041,Chennai,South,Retail Store,Kabir Singh,Keyboard,Accessories,6,2090.7,0.0,12544.2,7800.66,4743.54
+ORD-01151,2025-11-22,Customer 002,Nagpur,Central,Retail Store,Diya Patel,Laptop,Electronics,2,65072.81,0.05,123638.34,91986.33,31652.01
+ORD-01152,2025-03-12,Customer 012,Kolkata,East,Distributor,Ananya Rao,Desk,Furniture,6,5617.02,0.0,33702.12,24998.0,8704.12
+ORD-01153,2025-05-05,Customer 010,Patna,East,Online,Meera Nair,Laptop,Electronics,1,65385.12,0.05,62115.86,51966.8,10149.06
+ORD-01154,2025-11-13,Customer 046,Bhubaneswar,East,Distributor,Ishaan Das,Office Chair,Furniture,5,8758.92,0.08,40291.03,26687.47,13603.56
+ORD-01155,2025-03-02,Customer 025,Chennai,South,Distributor,Diya Patel,Notebook Pack,Stationery,1,255.36,0.05,242.59,169.22,73.37
+ORD-01156,2025-11-18,Customer 031,Chennai,South,Online,Diya Patel,Monitor,Electronics,7,15514.49,0.02,106429.4,67476.01,38953.39
+ORD-01157,2025-11-01,Customer 032,Hyderabad,South,Retail Store,Diya Patel,Smartphone,Electronics,3,20381.74,0.0,61145.22,36228.62,24916.6
+ORD-01158,2025-06-17,Customer 016,Delhi,North,Distributor,Ananya Rao,Office Chair,Furniture,8,5010.73,0.0,40085.84,27590.49,12495.35
+ORD-01159,2025-11-14,Customer 079,Mumbai,West,Distributor,Aarav Sharma,Headphones,Accessories,2,3906.25,0.05,7421.88,5372.62,2049.26
+ORD-01160,2025-12-18,Customer 048,Ahmedabad,West,Retail Store,Meera Nair,Headphones,Accessories,4,1024.96,0.02,4017.84,2498.61,1519.23
+ORD-01161,2025-06-30,Customer 036,Indore,Central,Online,Kabir Singh,Smartphone,Electronics,3,19382.71,0.0,58148.13,40431.75,17716.38
+ORD-01162,2025-07-24,Customer 051,Bhubaneswar,East,Distributor,Diya Patel,Monitor,Electronics,4,10651.62,0.0,42606.48,26685.03,15921.45
+ORD-01163,2025-02-03,Customer 068,Jaipur,North,Retail Store,Kabir Singh,Headphones,Accessories,8,3920.95,0.05,29799.22,21242.34,8556.88
+ORD-01164,2025-10-20,Customer 065,Jaipur,North,Retail Store,Ananya Rao,Monitor,Electronics,6,16523.06,0.02,97155.59,60062.52,37093.07
+ORD-01165,2025-09-15,Customer 059,Bengaluru,South,Distributor,Kabir Singh,Desk,Furniture,6,4262.89,0.02,25065.79,16712.91,8352.88
+ORD-01166,2025-07-26,Customer 041,Ahmedabad,West,Online,Aarav Sharma,Mouse,Accessories,3,779.88,0.08,2152.47,1643.02,509.45
+ORD-01167,2025-06-02,Customer 049,Hyderabad,South,Online,Ishaan Das,Headphones,Accessories,5,3612.17,0.05,17157.81,10744.64,6413.17
+ORD-01168,2025-02-07,Customer 079,Kolkata,East,Online,Kabir Singh,Office Chair,Furniture,3,10128.24,0.1,27346.25,24009.88,3336.37
+ORD-01169,2025-12-30,Customer 031,Kolkata,East,Retail Store,Kabir Singh,Notebook Pack,Stationery,3,156.79,0.02,460.96,346.28,114.68
+ORD-01170,2025-06-04,Customer 047,Bhubaneswar,East,Retail Store,Meera Nair,Office Chair,Furniture,5,5584.05,0.1,25128.23,18662.8,6465.43
+ORD-01171,2025-04-04,Customer 054,Hyderabad,South,Retail Store,Ishaan Das,Laptop,Electronics,6,79787.56,0.1,430852.82,334004.59,96848.23
+ORD-01172,2025-04-30,Customer 036,Pune,West,Online,Kabir Singh,Desk,Furniture,8,8313.83,0.1,59859.58,52299.34,7560.24
+ORD-01173,2025-05-31,Customer 074,Hyderabad,South,Online,Aarav Sharma,Office Chair,Furniture,8,8541.37,0.08,62864.48,42547.55,20316.93
+ORD-01174,2025-10-04,Customer 031,Patna,East,Retail Store,Meera Nair,Printer,Electronics,6,14160.74,0.05,80716.22,69388.65,11327.57
+ORD-01175,2025-03-07,Customer 019,Hyderabad,South,Online,Meera Nair,Office Chair,Furniture,8,5286.0,0.1,38059.2,30158.03,7901.17
+ORD-01176,2025-03-14,Customer 023,Jaipur,North,Retail Store,Diya Patel,Keyboard,Accessories,3,1656.06,0.05,4719.77,3416.15,1303.62
+ORD-01177,2025-07-17,Customer 069,Nagpur,Central,Retail Store,Meera Nair,Keyboard,Accessories,4,1948.56,0.08,7170.7,6375.19,795.51
+ORD-01178,2025-09-01,Customer 033,Patna,East,Distributor,Aarav Sharma,Notebook Pack,Stationery,2,127.21,0.0,254.42,181.39,73.03
+ORD-01179,2025-01-27,Customer 013,Ahmedabad,West,Online,Aarav Sharma,Notebook Pack,Stationery,7,140.38,0.0,982.66,719.05,263.61
+ORD-01180,2025-09-22,Customer 033,Chennai,South,Distributor,Aarav Sharma,Laptop,Electronics,8,70007.34,0.02,548857.55,362707.51,186150.04
+ORD-01181,2025-05-19,Customer 043,Pune,West,Retail Store,Ishaan Das,Desk,Furniture,8,5408.28,0.08,39804.94,28677.15,11127.79
+ORD-01182,2025-04-02,Customer 072,Indore,Central,Retail Store,Aarav Sharma,Smartphone,Electronics,4,18560.44,0.1,66817.58,50310.12,16507.46
+ORD-01183,2025-10-06,Customer 016,Pune,West,Distributor,Kabir Singh,Office Chair,Furniture,4,8939.28,0.1,32181.41,21092.29,11089.12
+ORD-01184,2025-02-01,Customer 074,Hyderabad,South,Distributor,Ananya Rao,Office Chair,Furniture,2,5524.73,0.08,10165.5,8851.67,1313.83
+ORD-01185,2025-10-08,Customer 023,Indore,Central,Retail Store,Ishaan Das,Desk,Furniture,2,7712.12,0.1,13881.82,9859.51,4022.31
+ORD-01186,2025-05-06,Customer 063,Nagpur,Central,Retail Store,Aarav Sharma,Desk,Furniture,2,5467.96,0.1,9842.33,8167.11,1675.22
+ORD-01187,2025-09-20,Customer 079,Pune,West,Retail Store,Ananya Rao,Notebook Pack,Stationery,3,129.88,0.05,370.16,229.95,140.21
+ORD-01188,2025-10-30,Customer 022,Hyderabad,South,Retail Store,Meera Nair,Notebook Pack,Stationery,7,184.84,0.02,1268.0,772.01,495.99
+ORD-01189,2025-09-12,Customer 074,Indore,Central,Online,Aarav Sharma,Monitor,Electronics,7,16994.14,0.02,116579.8,95068.67,21511.13
+ORD-01190,2025-10-01,Customer 044,Bengaluru,South,Retail Store,Ishaan Das,Desk,Furniture,7,7117.66,0.08,45837.73,39711.71,6126.02
+ORD-01191,2025-04-18,Customer 035,Patna,East,Distributor,Meera Nair,Mouse,Accessories,6,729.17,0.05,4156.27,3397.55,758.72
+ORD-01192,2025-08-06,Customer 057,Kolkata,East,Distributor,Kabir Singh,Desk,Furniture,6,3924.96,0.0,23549.76,18746.66,4803.1
+ORD-01193,2025-06-25,Customer 058,Indore,Central,Online,Diya Patel,Keyboard,Accessories,4,1312.92,0.1,4726.51,4089.87,636.64
+ORD-01194,2025-12-14,Customer 017,Chandigarh,North,Online,Ananya Rao,Laptop,Electronics,3,67470.74,0.15,172050.39,118867.1,53183.29
+ORD-01195,2025-08-04,Customer 011,Bhubaneswar,East,Online,Meera Nair,Printer,Electronics,1,11954.31,0.02,11715.22,9003.74,2711.48
+ORD-01196,2025-08-26,Customer 013,Delhi,North,Retail Store,Kabir Singh,Smartphone,Electronics,2,29606.54,0.02,58028.82,44244.57,13784.25
+ORD-01197,2025-11-26,Customer 004,Jaipur,North,Distributor,Aarav Sharma,Monitor,Electronics,8,11855.84,0.1,85362.05,56968.71,28393.34
+ORD-01198,2025-03-10,Customer 034,Chandigarh,North,Online,Aarav Sharma,Smartphone,Electronics,2,24377.43,0.15,41441.63,34852.44,6589.19
+ORD-01199,2025-06-09,Customer 040,Mumbai,West,Online,Ananya Rao,Office Chair,Furniture,7,7745.98,0.05,51510.77,36805.51,14705.26
+ORD-01200,2025-12-24,Customer 057,Patna,East,Online,Diya Patel,Office Chair,Furniture,3,6779.86,0.08,18712.41,11996.3,6716.11
